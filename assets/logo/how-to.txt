@@ -1,0 +1,5 @@
+step 1: 3x3 box, c8c8c8
+step 2: 2.5x2.5 nanoparticle, centered
+step 3: filters -> color -> channel painting -> a51417, apply 3x
+step 4: wexler <enter> group, Questrial, center align, 0.85 spacing between lines, size 30, size 15 spaces between e/x and x/l, italicize e and x, superscript x, 1 px stroke, c8c8c8
+step 5: filters -> shadows and glows -> drop shadow, 1x1x1, apply 3x, resize to width=2 in

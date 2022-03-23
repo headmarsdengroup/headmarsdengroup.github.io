@@ -24,6 +24,7 @@ twitter_username: robertowexler
 github_username: wexlergroup
 minimal_mistakes_skin: default
 search: true
+logo: "/assets/images/masthead-logo.png"
 
 # Build settings
 markdown: kramdown
