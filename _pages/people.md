@@ -7,17 +7,18 @@ layout: splash
 
 ![image-left](/assets/images/bio-photo.png){: .align-left}
 
-# Robert B. Wexler  
+# Kade Head-Marsden  
 *Assistant Professor of Chemistry*
 
-Postdoctoral Research Associate, <span style="color: orange;">Princeton University</span> (2019-2022)  
-Ph.D., <span style="color: red;">University of Pennsylvania</span> (2019)  
-B.S., <span style="color: blue;">Drexel University</span> (2013)  
-Email: <wexler@wustl.edu>  
-Office: Jolley Hall 407  
+Postdoctoral Research Associate, <span style="color: orange;">Harvard University</span> (2019-2022)  
+Ph.D., <span style="color: red;">University of Chicago</span> (2019)  
+B.S., <span style="color: blue;">McGill University</span> (2014)  
+Email: <kheadmarsden@wustl.edu>  
+Office: Jolley Hall 410  
 
 ***
 
+## Staff Scientist
 ## Postdocs
 ## Grad Students
 ## Undergraduates
