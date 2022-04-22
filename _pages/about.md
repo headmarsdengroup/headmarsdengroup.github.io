@@ -4,12 +4,6 @@ title: "About"
 author_profile: false
 layout: splash
 feature_row:
-<!  - image_path: /assets/images/computational.png >
-<!   title: "Computational Methods" >
-<!  - image_path: /assets/images/renewable-energy.png >
-<!   title: "Renewable Energy" >
-<!  - image_path: /assets/images/interface.png >
-<!    title: "Interfacial Phenomena" >
 ---
 
 <br>
