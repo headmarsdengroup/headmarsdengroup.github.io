@@ -5,7 +5,7 @@ author_profile: false
 layout: splash
 ---
 
- <img src="/assets/images/KHM.jpg" alt="KHM" style="float:left;width:128px;height:128px;"> 
+ <img src="/assets/images/KHM.jpg" alt="KHM" style="float:left;width:128px;"> 
 
 
 # Kade Head-Marsden  
