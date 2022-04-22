@@ -5,7 +5,13 @@ author_profile: false
 layout: splash
 ---
 
- <img src="/assets/images/KHM.jpg" alt="KHM" style="float:left;width:128px;"> 
+ <img src="/assets/images/KHM.jpg" alt="KHM"  class="myimg">
+ 
+ .myimg{
+  style="float:left;width:256px;"
+  object-fit:cover;
+ }
+  
 
 
 # Kade Head-Marsden  
