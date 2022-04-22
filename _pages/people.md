@@ -10,9 +10,9 @@ layout: splash
 # Kade Head-Marsden  
 *Assistant Professor of Chemistry*
 
-Postdoctoral Research Associate, <span style="color: orange;">Harvard University</span> (2019-2022)  
-Ph.D., <span style="color: red;">University of Chicago</span> (2019)  
-B.S., <span style="color: blue;">McGill University</span> (2014)  
+Postdoctoral Research Associate, <span style="color: #003b57;">Harvard University</span> (2019-2022)  
+Ph.D., <span style="color: #003b57;">University of Chicago</span> (2019)  
+B.S., <span style="color: #003b57;">McGill University</span> (2014)  
 Email: <head-marsden@wustl.edu>  
 Office: Jolley Hall 410  
 
