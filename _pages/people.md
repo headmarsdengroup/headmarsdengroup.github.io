@@ -13,7 +13,7 @@ layout: splash
 Postdoctoral Research Associate, <span style="color: orange;">Harvard University</span> (2019-2022)  
 Ph.D., <span style="color: red;">University of Chicago</span> (2019)  
 B.S., <span style="color: blue;">McGill University</span> (2014)  
-Email: <kheadmarsden@wustl.edu>  
+Email: <head-marsden@wustl.edu>  
 Office: Jolley Hall 410  
 
 ***
