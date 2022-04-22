@@ -20,7 +20,7 @@ email: head-marsden@wustl.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Theoretical chemistry
 github_username: headmarsdengroup
-minimal_mistakes_skin: default
+minimal_mistakes_skin: air
 search: true
 logo: "/assets/images/masthead-logo.png"
 
@@ -58,8 +58,8 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
+  name   : "Kade Head-Marsden"
+  avatar : "/assets/images/KHM.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
