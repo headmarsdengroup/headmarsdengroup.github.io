@@ -11,9 +11,6 @@ layout: splash
 
 ## Postdoctoral research
 
-/* [PDF](../assets/papers/Banerjee2021p11706.pdf){: .btn .btn--primary} */
-
-
 [DOI](https://doi.org/10.1103/PhysRevLett.127.270503){: .btn .btn--primary}
 Schlimgen, A.W.; Head-Marsden, K.; Sager, L.M.; Narang, P.; Mazziotti, D.A.
 Quantum Simulation of Open Quantum Systems Using a Unitary Decomposition of Operators
