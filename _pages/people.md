@@ -5,7 +5,8 @@ author_profile: false
 layout: splash
 ---
 
-![image-left](/assets/images/KHM.jpg){width: 100px; height: 100px; : .align-left}
+ <img src="/assets/images/KHM.jpg" alt="KHM"> 
+
 
 # Kade Head-Marsden  
 *Assistant Professor of Chemistry*
