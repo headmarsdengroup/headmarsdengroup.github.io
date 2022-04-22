@@ -4,25 +4,17 @@ title: "About"
 author_profile: false
 layout: splash
 feature_row:
-  - image_path: /assets/images/computational.png
-    title: "Computational Methods"
-  - image_path: /assets/images/renewable-energy.png
-    title: "Renewable Energy"
-  - image_path: /assets/images/interface.png
-    title: "Interfacial Phenomena"
+<!  - image_path: /assets/images/computational.png >
+<!   title: "Computational Methods" >
+<!  - image_path: /assets/images/renewable-energy.png >
+<!   title: "Renewable Energy" >
+<!  - image_path: /assets/images/interface.png >
+<!    title: "Interfacial Phenomena" >
 ---
 
 <br>
 
-The Wexler group is focused on theoretical materials innovation for renewable 
-energy and environmental applications, with a special emphasis on the 
-development of computational methods for the more realistic modeling of 
-interfacial phenomena in electrocatalysis, solar energy conversion, and 
-environmental energy harvesting. I am driven by the prospects of using first 
-principles calculations, Monte Carlo simulations, and machine learning as a 
-synergistic approach for developing a fundamental understanding of complex 
-materials systems, discovering relationships between their structure and 
-function, and identifying promising routes for device optimization.
+The Head-Marsden Group seeks to elucidate electronic structure properties and open quantum system dynamics relevant in emerging quantum materials and technologies. Our research emphasizes on classical method development, alongside algorithm development for use on noisy-intermediate scale quantum computers. With these methods and algorithms, we hope to make predictions for correlated molecular systems undergoing complex environmental interactions with applications in chemistry, physics, and materials science.
 {: .text-justify}
 
 {% include feature_row %}
