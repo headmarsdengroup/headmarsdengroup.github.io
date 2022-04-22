@@ -5,7 +5,7 @@ author_profile: false
 layout: splash
 ---
 
-![image-left](/assets/images/KHM.jpg){: .align-left; width: 300px; height: 300px;}
+![image-left](/assets/images/KHM.jpg){width: 100px; height: 100px; : .align-left}
 
 # Kade Head-Marsden  
 *Assistant Professor of Chemistry*
@@ -20,7 +20,7 @@ Office: Jolley Hall 410
 
 ## Staff Scientist
 
-![image-left](/assets/images/AWS.jpeg){: .align-left}
+![image-left](/assets/images/AWS.jpeg){width: 100px; height: 100px; : .align-left}
 # Anthony Schlimgen
 *Staff Scientist*
 Office: Jolley Hall 403
