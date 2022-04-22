@@ -19,6 +19,12 @@ Office: Jolley Hall 410
 ***
 
 ## Staff Scientist
+
+![image-left](/assets/images/AWS.jpeg){: .align-left}
+# Anthony Schlimgen
+*Staff Scientist*
+Office: Jolley Hall 403
+
 ## Postdocs
 ## Grad Students
 ## Undergraduates
