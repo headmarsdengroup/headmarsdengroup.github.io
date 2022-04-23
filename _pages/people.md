@@ -9,7 +9,8 @@ layout: splash
 <img src="/assets/images/KHM.jpg" style = "object-fit: cover;
   width: 200px;
   height: 200px;
-  object-position: center 30%;">
+  object-position: center 30%;
+  float:left; border-radius:50%;">
 
 
 # Kade Head-Marsden  
