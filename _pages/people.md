@@ -4,12 +4,9 @@ title: "People"
 author_profile: false
 layout: splash
 ---
-
-
- <img src="/assets/images/KHM.jpg" alt="KHM"  style="float:left;width:256px; object-fit: cover; object-position: 20px 10px;">
  
 <img class="centered-and-cropped" width="200"  
-style="border-radius:50%" src="/assets/images/KHM.jpg" alt="Bear">
+style="float:left; border-radius:50%" src="/assets/images/KHM.jpg" alt="KHM">
   
 
 
