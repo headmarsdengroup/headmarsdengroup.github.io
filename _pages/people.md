@@ -6,7 +6,7 @@ layout: splash
 ---
 
 
- <img src="/assets/images/KHM.jpg" alt="KHM"  style="float:left;width:256px;object-fit: cover; object-position: 20% 10%;">
+ <img src="/assets/images/KHM.jpg" alt="KHM"  style="float:left;width:256px;object-fit: cover; object-position: 20px 10px;">
   
 
 
