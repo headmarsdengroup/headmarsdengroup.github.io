@@ -5,14 +5,11 @@ author_profile: false
 layout: splash
 ---
   
-.trimmed-cover {
-  object-fit: cover;
+
+<img src="/assets/images/KHM.jpg" style = "object-fit: cover;
   width: 100%;
   height: 177px;
-  object-position: center 40%;
-}
-
-<img class="trimmed-cover" src="/assets/images/KHM.jpg">
+  object-position: center 40%;">
 
 
 # Kade Head-Marsden  
