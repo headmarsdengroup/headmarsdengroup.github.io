@@ -6,7 +6,7 @@ layout: splash
 ---
  
 <img class="centered-and-cropped" width="200" 
-style="float:left; border-radius:50%" src="/assets/images/KHM.jpg" alt="KHM">
+style="float:left; border-radius:50%; object-position: center 40%;" src="/assets/images/KHM.jpg" alt="KHM">
   
 
 
