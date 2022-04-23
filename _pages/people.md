@@ -8,9 +8,8 @@ layout: splash
 
  <img src="/assets/images/KHM.jpg" alt="KHM"  style="float:left;width:256px; object-fit: cover; object-position: 20px 10px;">
  
- <h1>object-fit: cover</h1>
 <img class="centered-and-cropped" width="200"  
-style="border-radius:50%" src=/assets/images/KHM.jpg" alt="Bear">
+style="border-radius:50%" src="/assets/images/KHM.jpg" alt="Bear">
   
 
 
