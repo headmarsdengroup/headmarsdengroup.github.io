@@ -4,12 +4,15 @@ title: "People"
 author_profile: false
 layout: splash
 ---
+<style>
+img {
+  border-radius: 50%;
+}
+</style>
 
  <img src="/assets/images/KHM.jpg" alt="KHM"  style="float:left;width:256px;">
   
-  img {
-  border-radius: 50%;
-}
+
 
 
 # Kade Head-Marsden  
