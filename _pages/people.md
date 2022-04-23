@@ -6,8 +6,7 @@ layout: splash
 ---
   
 
-<img src="/assets/images/KHM.jpg" style = "object-fit: cover;
-  transform: scale(1.5);                                   
+<img src="/assets/images/KHM.jpg" style = "object-fit: cover;                                 
   width: 150px;
   height: 150px;
   object-position: center 30%;
