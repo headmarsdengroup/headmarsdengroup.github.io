@@ -7,8 +7,8 @@ layout: splash
   
 
 <img src="/assets/images/KHM.jpg" style = "object-fit: cover;
-  width: 100%;
-  height: 177px;
+  width: 200px;
+  height: 200px;
   object-position: center 40%;">
 
 
