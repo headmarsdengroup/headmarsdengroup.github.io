@@ -5,12 +5,7 @@ author_profile: false
 layout: splash
 ---
 
- <img src="/assets/images/KHM.jpg" alt="KHM"  class="myimg">
- 
- .myimg{
-  style="float:left;width:256px;"
-  object-fit:cover;
- }
+ <img src="/assets/images/KHM.jpg" alt="KHM"  style="float:left;width:256px;">
   
 
 
