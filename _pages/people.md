@@ -4,11 +4,15 @@ title: "People"
 author_profile: false
 layout: splash
 ---
- 
-<img class="centered-and-cropped" width="200" 
-style="float:left; border-radius:50%; object-position: center 40%;" src="/assets/images/KHM.jpg" alt="KHM">
   
+.trimmed-cover {
+  object-fit: cover;
+  width: 100%;
+  height: 177px;
+  object-position: center 40%;
+}
 
+<img class="trimmed-cover" src="/assets/images/KHM.jpg">
 
 
 # Kade Head-Marsden  
