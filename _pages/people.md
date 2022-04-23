@@ -5,7 +5,7 @@ author_profile: false
 layout: splash
 ---
  
-<img class="centered-and-cropped" width="200"  
+<img class="centered-and-cropped" width="200" height="200" 
 style="float:left; border-radius:50%" src="/assets/images/KHM.jpg" alt="KHM">
   
 
