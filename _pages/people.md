@@ -7,8 +7,8 @@ layout: splash
   
 
 <img src="/assets/images/KHM.jpg" style = "object-fit: cover;
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   object-position: center 30%;
   float:left; border-radius:50%;">
 
@@ -26,6 +26,11 @@ Office: Jolley Hall 410
 
 ## Staff Scientist
 
+<img src="/assets/images/AWS.jpeg" style = "object-fit: cover;
+  width: 150px;
+  height: 150px;
+  object-position: center 30%;
+  float:left; border-radius:50%;">
 # Anthony Schlimgen
 *Staff Scientist*
 Office: Jolley Hall 403
