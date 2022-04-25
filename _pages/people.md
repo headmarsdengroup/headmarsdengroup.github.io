@@ -9,7 +9,7 @@ layout: splash
 <img src="/assets/images/KHM.jpg" style = "object-fit: cover;                                 
   width: 150px;
   height: 150px;
-  object-position: center 30%;
+  object-position: center 40%;
   float:left; border-radius:50%;">
 
 
