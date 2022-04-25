@@ -6,21 +6,21 @@ layout: splash
 feature_row:
   - image_path: /assets/images/ris.png
     alt: "placeholder image 2"
-    title: "Surfaces"
+    title: "Open quantum systems"
     excerpt: "This is some sample content that goes here with **Markdown** ."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/ris.png
     alt: "placeholder image 2"
-    title: "Catalysts"
+    title: "Electronic structure"
     excerpt: "This is some sample content that goes here with **Markdown** ."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/ris.png
     alt: "placeholder image 2"
-    title: "Photovoltaics"
+    title: "Quantum information"
     excerpt: "This is some sample content that goes here with **Markdown** ."
     url: "#test-link"
     btn_label: "Read More"
@@ -29,46 +29,17 @@ feature_row:
 
 <br>
 
-# Wexler Group Research
+# Head-Marsden Group Research
 
-As the damages associated with climate change intensify in the coming years, it
-will become increasingly more important for educators and researchers to focus 
-on sustainable energy and environmental remediation. Computational materials 
-chemistry has the potential to revolutionize the industries responsible for 
-these damages by alleviating their reliance on fossil fuels, precious metals, 
-and toxic elements. Inspired by this potential, my career plans center around 
-solving grand challenges in energy and environment by designing and developing 
-next-generation technologies for water splitting, CO<sub>2</sub> utilization, 
-solar energy conversion, and environmental energy harvesting. More specifically, 
-I aim, through theoretical innovations and experimental collaborations, to 
-answer questions like
+Contemporary problems in materials science and chemistry require theoretical and computational methods that accurately and efficiently capture quantum behavior. Important phenomena including exciton transport and decoherence dynamics in quantum systems are frequently driven by interactions with an external environment. The field of open quantum systems provides a lens to consider such environmentally driven dynamical processes. Our research focuses on developing and applying methods in open quantum systems, quantum information, and electronic structure to provide a holistic perspective on molecular, material, and condensed matter systems. Key areas of research include:
 {: .text-justify}
 
-* "Can we design electrocatalysts for the hydrogen evolution reaction that are 
-active/stable in basic solutions?"
-* "How can we overcome selectivity-conversion limits for the electrochemical 
-CO<sub>2</sub> reduction reaction?"
-* "What are the factors limiting solar-cell efficiency and how can we control 
-them?"
-* "Which properties govern the performance of ferroelectric energy harvesters 
-for the Internet of Things?"
+* Classical method development for the treatment of complex environmentally driven dynamics in open quantum systems
 
-Answering these questions in catalysis, solar power, and transduction will 
-require improvements in the way that materials interfaces are currently modeled,
-which can be achieved via next-generation computational methods for ab initio 
-thermodynamics that combine my expertise in first-principles quantum mechanics 
-calculations, Monte Carlo simulations, data science, and machine learning. More 
-broadly, my career plans can be subdivided into four distinct visions that 
-address these challenges from different angles:
-{: .text-justify}
+* Quantum algorithm development for chemical applications with an emphasis on time-evolving electronic structure
 
-1. To develop state-of-the-art computational techniques for the realistic 
-modeling of materials interfaces
-2. To provide fundamental understanding and design principles for sustainable 
-H<sub>2</sub> production and controllable CO<sub>2</sub> conversion
-3. To improve solar-cell efficiency via chemical modification and interfacial 
-engineering
-4. To create efficient machine learning tools for the accurate simulation and 
-rational design of ferroelectric energy harvesters
+* Open quantum system methods applied to quantum hardware characterization
+
+* Electronic structure characterization of correlated molecular and material systems 
 
 {% include feature_row %}
