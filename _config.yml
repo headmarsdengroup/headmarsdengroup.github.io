@@ -14,13 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 # title: The Wexler Group
-masthead_title: "The Head-Marsden Group"
+masthead_title: "Head-Marsden Group"
 subtitle: At Washington University in St. Louis
 email: head-marsden@wustl.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Theoretical chemistry
 github_username: headmarsdengroup
-minimal_mistakes_skin: air
+minimal_mistakes_skin: dirt
 search: true
 logo: "/assets/images/masthead-logo.png"
 
