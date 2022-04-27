@@ -41,6 +41,8 @@ B.A., <span style="color: #003b57;">Creighton University</span> (2012)
 Email: <@wustl.edu>  
 Office: Jolley Hall 403
 
+***
+
 ## Postdoctoral Researchers
 
 If you are interested in joining the Head-Marsden Group as a postdoc, please contact Kade Head-Marsden to learn more about fellowship opportunities and other positions that may be available. 
