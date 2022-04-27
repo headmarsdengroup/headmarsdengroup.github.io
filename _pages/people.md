@@ -7,8 +7,8 @@ layout: splash
   
 
 <img src="/assets/images/KHM.jpg" style = "object-fit: cover;                                 
-  width: 150px;
-  height: 150px;
+  width: 250px;
+  height: 250px;
   object-position: center 40%;
   float:left; border-radius:50%;">
 
@@ -27,12 +27,18 @@ Office: Jolley Hall 410
 ## Staff Scientist
 
 <img src="/assets/images/AWS.jpeg" style = "object-fit: cover;
-  width: 150px;
-  height: 150px;
+  width: 250px;
+  height: 250px;
   object-position: center 30%;
   float:left; border-radius:50%;">
 # Anthony Schlimgen
 *Staff Scientist*
+
+Postdoctoral Research Associate, <span style="color: #003b57;">University of Chicago</span> (2021-2022) 
+Postdoctoral Research Associate, <span style="color: #003b57;">Los Alamos National Lab</span> (2019-2021)
+Ph.D., <span style="color: #003b57;">University of Chicago</span> (2018)  
+B.A., <span style="color: #003b57;">Creighton University</span> (2012)  
+Email: <@wustl.edu>  
 Office: Jolley Hall 403
 
 ## Postdocs
