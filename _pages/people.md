@@ -16,9 +16,9 @@ layout: splash
 # Kade Head-Marsden  
 *Assistant Professor of Chemistry*
 
-Postdoctoral Research Associate, <span style="color: #003b57;">Harvard University</span> (2019-2022)  
-Ph.D., <span style="color: #003b57;">University of Chicago</span> (2019)  
-B.S., <span style="color: #003b57;">McGill University</span> (2014)  
+Postdoctoral Research Associate, <span style="color: #075c0d;">Harvard University</span> (2019-2022)  
+Ph.D., <span style="color: #075c0d;">University of Chicago</span> (2019)  
+B.S., <span style="color: #075c0d;">McGill University</span> (2014)  
 Email: <head-marsden@wustl.edu>  
 Office: Jolley Hall 410  
 
@@ -34,10 +34,10 @@ Office: Jolley Hall 410
 # Anthony Schlimgen
 *Staff Scientist*
 
-Postdoctoral Research Associate, <span style="color: #003b57;">University of Chicago</span> (2021-2022) 
-Postdoctoral Research Associate, <span style="color: #003b57;">Los Alamos National Lab</span> (2019-2021)
-Ph.D., <span style="color: #003b57;">University of Chicago</span> (2018)  
-B.A., <span style="color: #003b57;">Creighton University</span> (2012)  
+Postdoctoral Research Associate, <span style="color: #075c0d;">University of Chicago</span> (2021-2022) 
+Postdoctoral Research Associate, <span style="color: #075c0d;">Los Alamos National Lab</span> (2019-2021)
+Ph.D., <span style="color: #075c0d;">University of Chicago</span> (2018)  
+B.A., <span style="color: #075c0d;">Creighton University</span> (2012)  
 Email: <@wustl.edu>  
 Office: Jolley Hall 403
 
