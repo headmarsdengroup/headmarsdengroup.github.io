@@ -20,7 +20,7 @@ email: head-marsden@wustl.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Theoretical chemistry
 github_username: headmarsdengroup
-minimal_mistakes_skin: dirt
+minimal_mistakes_skin: contrast
 search: true
 logo: "/assets/images/masthead-logo.png"
 
