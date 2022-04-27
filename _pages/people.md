@@ -24,7 +24,7 @@ Office: Jolley Hall 410
 
 ***
 
-## Staff Scientist
+## Staff Scientists
 
 <img src="/assets/images/AWS.jpeg" style = "object-fit: cover;
   width: 275px;
