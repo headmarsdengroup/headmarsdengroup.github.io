@@ -41,7 +41,7 @@ If you are interested in joining the Head-Marsden Group as a postdoc, please con
 
 ## Grad Students
 
-The Head-Marsden group is currently looking for Ph.D. students to work on all ongoing research projects. More information about our graduate program and application process can be found <here href="https://chemistry.wustl.edu/graduate">. Prospective graduate students are eligible to apply for several research fellowships before or after being admitted to Washington University, including the NSF Graduate Research Fellowship. Please contact Kade Head-Marsden if you are interested in submitting an application.
+The Head-Marsden group is currently looking for Ph.D. students to work on all ongoing research projects. More information about our graduate program and application process can be found <a href="https://chemistry.wustl.edu/graduate">here</a>. Prospective graduate students are eligible to apply for several research fellowships before or after being admitted to Washington University, including the NSF Graduate Research Fellowship. Please contact Kade Head-Marsden if you are interested in submitting an application.
 
 ## Undergraduates
 
