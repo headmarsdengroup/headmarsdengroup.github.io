@@ -35,15 +35,10 @@ Office: Jolley Hall 410
 *Staff Scientist*
 
 Postdoctoral Research Associate, <span style="color: #075c0d;">University of Chicago</span> (2021-2022) 
-
 Postdoctoral Research Associate, <span style="color: #075c0d;">Los Alamos National Lab</span> (2019-2021)
-
 Ph.D., <span style="color: #075c0d;">University of Chicago</span> (2018) 
-
 B.A., <span style="color: #075c0d;">Creighton University</span> (2012)  
-
 Email: <@wustl.edu>  
-
 Office: Jolley Hall 403
 
 ***
