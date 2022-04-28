@@ -9,7 +9,7 @@ layout: splash
 
 # Head-Marsden Group Papers
 
-## Postdoctoral research
+## Pre WashU
 
 [DOI](https://doi.org/10.1103/PhysRevLett.127.270503){: .btn .btn--primary}
 Schlimgen, A.W.; Head-Marsden, K.; Sager, L.M.; Narang, P.; Mazziotti, D.A.
@@ -25,10 +25,6 @@ Capturing non-Markovian dynamics on near-term quantum computers
 Head-Marsden, K.; Flick, J.; Ciccarinio, C. J.; Narang, P.
 Quantum Information and Algorithms for Correlated Quantum Matter
 *Chem. Rev.*, **121** (5), 3061-3120 (2020).
-
-
-
-## Graduate research
 
 [DOI](https://doi.org/10.1021/acs.jpca.0c01937){: .btn .btn--primary}
 Head-Marsden, K.; Mazziotti, D.A.
@@ -54,6 +50,7 @@ Signature of van der Waals interactions in the cumulant density matrix
 Sajjan, M.; Head-Marsden, K.; Mazziotti, D.A.
 Entangling and disentangling many-electron quantum systems with an electric field
 *Phys. Rev. A*, **97**, 062502 (2018).
+
 
 [DOI](https://doi.org/10.1063/1.4999423){: .btn .btn--primary}
 Head-Marsden, K.; Mazziotti, D.A.
