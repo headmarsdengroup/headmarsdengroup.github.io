@@ -47,7 +47,7 @@ Quantum information and algorithms for correlated quantum matter
 *Chem. Rev.*, **121** (5), 3061-3120 (2020).
 
 [DOI](https://doi.org/10.1021/acs.jpca.0c01937){: .btn .btn--primary}
-k. Head-Marsden and D.A. Mazziotti, 
+K. Head-Marsden and D.A. Mazziotti, 
 Active-space pair two-electron reduced density matrix theory for strong correlation
 *J. Phys. Chem. A*, **124** (23), 4848-4854 (2020).
 
