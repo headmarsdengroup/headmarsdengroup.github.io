@@ -7,6 +7,10 @@ layout: splash
 
 <br>
 
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #8064A2 !important;
+}
+
 # Head-Marsden Group Papers
 
 ## Pre WashU
