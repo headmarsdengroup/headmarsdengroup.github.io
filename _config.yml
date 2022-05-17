@@ -60,11 +60,11 @@ plugins:
 author:
   name   : "Kade Head-Marsden"
   avatar : "/assets/images/KHM.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Assistant Professor in the Department of Chemistry"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://headmarsdengroup.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/headmarsdengroup"
