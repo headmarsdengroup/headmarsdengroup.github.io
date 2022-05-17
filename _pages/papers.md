@@ -11,19 +11,19 @@ layout: splash
 
 ## Pre WashU
 
-[DOI](https://arxiv.org/abs/2205.02826){: .btn .btn--info}
+[DOI](https://arxiv.org/abs/2205.02826){: .btn .btn--secondary}
 A.W. Schlimgen, K. Head-Marsden, L.M. Sager-Smith, P. Narang, and D.A. Mazziotti, Quantum state preparation and non-unitary evolution with diagonal operators
 *arXiv:2205.02826* (2022).
 
-[DOI](){: .btn .btn--success}
+[DOI](){: .btn .btn--secondary}
 A.W. Schlimgen, K. Head-Marsden, L.M. Sager-Smith, P. Narang, and D.A. Mazziotti, 
 Quantum simulation of the Lindblad equation using a unitary decomposition of operators
 *Phys. Rev. Res.*, **XX**, XXXX (2022).
 
-[DOI](https://arxiv.org/abs/2203.00668){: .btn .btn--success}
+[DOI](https://arxiv.org/abs/2203.00668){: .btn .btn--secondary}
 S. Tserkis, K. Head-Marsden, and P. Narang, Information back-flow in quantum non-Markovian dynamics and its connection to teleportation, *arXiv:2203.00668* (2022).
 
-[DOI](https://doi.org/10.1103/PhysRevLett.127.270503){: .btn .btn--primary}
+[DOI](https://doi.org/10.1103/PhysRevLett.127.270503){: .btn .btn--secondary}
 A.W. Schlimgen, K. Head-Marsden, L.M. Sager-Smith, P. Narang, and D.A. Mazziotti, 
 Quantum simulation of open quantum systems using a unitary decomposition of operators
 *Phys. Rev. Lett.*, **127**, 270503 (2021).
