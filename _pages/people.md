@@ -22,10 +22,6 @@ B.S., <span style="color: #075c0d;">McGill University</span> (2014)
 Email: <head-marsden@wustl.edu>  
 Office: Jolley Hall 410  
 
-***
-
-## Staff Scientists
-
 <img src="/assets/images/AWS.jpeg" style = "object-fit: cover;
   width: 275px;
   height: 275px;
@@ -38,8 +34,8 @@ Office: Jolley Hall 410
 <br> Postdoctoral Research Associate, <span style="color: #075c0d;">Los Alamos National Lab</span> (2019-2021)
 <br> Ph.D., <span style="color: #075c0d;">University of Chicago</span> (2018) 
 <br> B.A., <span style="color: #075c0d;">Creighton University</span> (2012)  
-<br> Email: <@wustl.edu>  
-<br> Office: Jolley Hall 403
+Email: <@wustl.edu>  
+Office: Jolley Hall 403
 
 ***
 
