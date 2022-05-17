@@ -39,6 +39,11 @@ Office: Jolley Hall 403
 
 ***
 
+<div class="column selected-category-label small-7 medium-9">
+   <div id="image" class="label-image"></div>
+   <div id="category" class="label-category">Lewn ogasdasdas gwldasdasdasdasd</div>
+</div>
+
 ## Postdoctoral Researchers
 
 If you are interested in joining the Head-Marsden Group as a postdoc, please contact Kade Head-Marsden to learn more about fellowship opportunities and other positions that may be available. 
