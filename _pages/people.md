@@ -34,8 +34,8 @@ Office: Jolley Hall 410
 <br> Postdoctoral Research Associate, <span style="color: #075c0d;">Los Alamos National Lab</span> (2019-2021)
 <br> Ph.D., <span style="color: #075c0d;">University of Chicago</span> (2018) 
 <br> B.A., <span style="color: #075c0d;">Creighton University</span> (2012)  
-Email: <@wustl.edu>  
-Office: Jolley Hall 403
+<br> Email: <@wustl.edu>  
+<br> Office: Jolley Hall 403
 
 ***
 
@@ -45,7 +45,13 @@ Office: Jolley Hall 403
   height: 275px;
   object-position: center 30%;
   float:left; border-radius:50%;">  </div>
-   <div id="category" class="label-category">Lewn ogasdasdas gwldasdasdasdasd</div>
+   <div id="category" class="label-category">
+     <br> Postdoctoral Research Associate, <span style="color: #075c0d;">University of Chicago</span> (2021-2022) 
+     <br> Postdoctoral Research Associate, <span style="color: #075c0d;">Los Alamos National Lab</span> (2019-2021)
+     <br> Ph.D., <span style="color: #075c0d;">University of Chicago</span> (2018) 
+     <br> B.A., <span style="color: #075c0d;">Creighton University</span> (2012)  
+     <br> Email: <@wustl.edu>  
+     <br> Office: Jolley Hall 403</div>
 </div>
 
 ## Postdoctoral Researchers
