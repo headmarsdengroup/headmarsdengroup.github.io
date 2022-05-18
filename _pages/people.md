@@ -40,7 +40,11 @@ Office: Jolley Hall 403
 ***
 
 <div class="column selected-category-label small-7 medium-9">
-   <div id="image" class="label-image"></div>
+   <div id="image" class="label-image"> <img src="/assets/images/AWS.jpeg" style = "object-fit: cover;
+  width: 275px;
+  height: 275px;
+  object-position: center 30%;
+  float:left; border-radius:50%;">  </div>
    <div id="category" class="label-category">Lewn ogasdasdas gwldasdasdasdasd</div>
 </div>
 
