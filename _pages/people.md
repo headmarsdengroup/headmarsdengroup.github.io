@@ -6,38 +6,27 @@ layout: splash
 ---
   
 
-<img src="/assets/images/KHM.jpg" style = "object-fit: cover;                                 
-  width: 275px;
-  height: 275px;
-  object-position: center 40%;
-  float:left; border-radius:50%;">
-
 
 # Kade Head-Marsden  
 *Assistant Professor of Chemistry*
 
-Postdoctoral Research Associate, <span style="color: #075c0d;">Harvard University</span> (2019-2022)  
-Ph.D., <span style="color: #075c0d;">University of Chicago</span> (2019)  
-B.S., <span style="color: #075c0d;">McGill University</span> (2014)  
-Email: <head-marsden@wustl.edu>  
-Office: Jolley Hall 410  
-
-<img src="/assets/images/AWS.jpeg" style = "object-fit: cover;
+<div class="column selected-category-label small-7 medium-9">
+   <div id="image" class="label-image"> <img src="/assets/images/KHM.jpg" style = "object-fit: cover;                                 
   width: 275px;
   height: 275px;
-  object-position: center 30%;
-  float:left; border-radius:50%;">
+  object-position: center 40%;
+  float:left; border-radius:50%;"></div>
+   <div id="category" class="label-category">
+     <br> Postdoctoral Research Associate, <span style="color: #075c0d;">Harvard University</span> (2019-2022)  
+     <br> Ph.D., <span style="color: #075c0d;">University of Chicago</span> (2019)  
+     <br> B.S., <span style="color: #075c0d;">McGill University</span> (2014)  
+     <br> Email: <head-marsden@wustl.edu>  
+     <br> Office: Jolley Hall 410 </div>
+</div>
+
+
 # Anthony Schlimgen
 *Staff Scientist*
-
-<br> Postdoctoral Research Associate, <span style="color: #075c0d;">University of Chicago</span> (2021-2022) 
-<br> Postdoctoral Research Associate, <span style="color: #075c0d;">Los Alamos National Lab</span> (2019-2021)
-<br> Ph.D., <span style="color: #075c0d;">University of Chicago</span> (2018) 
-<br> B.A., <span style="color: #075c0d;">Creighton University</span> (2012)  
-<br> Email: <@wustl.edu>  
-<br> Office: Jolley Hall 403
-
-***
 
 <div class="column selected-category-label small-7 medium-9">
    <div id="image" class="label-image"> <img src="/assets/images/AWS.jpeg" style = "object-fit: cover;
