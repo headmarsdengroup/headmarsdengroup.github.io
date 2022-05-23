@@ -47,11 +47,24 @@ layout: splash
 
 ## Postdoctoral Researchers
 
-If you are interested in joining the Head-Marsden Group as a postdoc, please contact Kade Head-Marsden to learn more about fellowship opportunities and other positions that may be available. 
+<div id="category" class="label-category">
+  <br> The Head-Marsden group is currently looking for dynamic and highly-motivated postdocs for a variety of projects in the following general areas:
+</div>
+  
+<ul>
+  <li>Method development for open quantum system dynamics</li>
+  <li>Quantum algorithms for quantum chemistry</li>
+  <li>Generalization and application of correlated electronic structure methods</li>
+  <li>Open quantum system methods for quantum hardware characterization</li>
+</ul> 
 
+<div id="category" class="label-category">  
+  <br> If you are interested in joining the Head-Marsden Group as a postdoc, please contact Kade Head-Marsden to learn more. 
+</div>
+  
 ## Graduate Students
 
-The Head-Marsden group is currently looking for Ph.D. students to work on all ongoing research projects. More information about our graduate program and application process can be found <a href="https://chemistry.wustl.edu/graduate">here</a>. Prospective graduate students are eligible to apply for several research fellowships before or after being admitted to Washington University, including the NSF Graduate Research Fellowship. Please contact Kade Head-Marsden if you are interested in submitting an application.
+The Head-Marsden group is currently looking for Ph.D. students to work on all ongoing research projects. More information about our graduate program and application process can be found <a href="https://chemistry.wustl.edu/graduate">here</a>. 
 
 ## Undergraduates
 
