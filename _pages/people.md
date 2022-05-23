@@ -24,6 +24,8 @@ layout: splash
      <br> Office: Jolley Hall 410 </div>
 </div>
 
+<br />
+<br />
 
 # Anthony Schlimgen
 *Staff Scientist*
