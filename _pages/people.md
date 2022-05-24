@@ -20,7 +20,7 @@ layout: splash
      <br> Postdoctoral Research Associate, <span style="color: #075c0d;">Harvard University</span> (2019-2022)  
      <br> Ph.D., <span style="color: #075c0d;">University of Chicago</span> (2019)  
      <br> B.S., <span style="color: #075c0d;">McGill University</span> (2014)  
-     <br> Email: <head-marsden@wustl.edu>
+     <br> <a href = "mailto: head-marsden@wustl.edu">head-marsden@wustl.edu</a>
      <br> Office: Jolley Hall 410 </div>
 </div>
 
