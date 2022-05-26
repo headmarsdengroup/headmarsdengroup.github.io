@@ -4,21 +4,21 @@ title: "Research"
 author_profile: false
 layout: splash
 feature_row:
-  - image_path: /assets/images/ris.png
+  - image_path: /assets/images/KHM_OQS.png
     alt: "placeholder image 2"
     title: "Open quantum systems"
     excerpt: "This is some sample content that goes here with **Markdown** ."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/ris.png
+  - image_path: /assets/images/KHM_estruc.png
     alt: "placeholder image 2"
     title: "Electronic structure"
     excerpt: "This is some sample content that goes here with **Markdown** ."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/ris.png
+  - image_path: /assets/images/KHM_QI.png
     alt: "placeholder image 2"
     title: "Quantum information"
     excerpt: "This is some sample content that goes here with **Markdown** ."
