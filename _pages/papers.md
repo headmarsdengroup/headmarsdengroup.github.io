@@ -15,13 +15,16 @@ layout: splash
 A.W. Schlimgen, K. Head-Marsden, L.M. Sager-Smith, P. Narang, and D.A. Mazziotti, Quantum state preparation and non-unitary evolution with diagonal operators
 *arXiv:2205.02826* (2022).
 
+[DOI](https://arxiv.org/abs/2203.00668){: .btn .btn--primary}
+S. Tserkis, K. Head-Marsden, and P. Narang, Information back-flow in quantum non-Markovian dynamics and its connection to teleportation, *arXiv:2203.00668* (2022).
+
 [DOI](){: .btn .btn--primary}
 A.W. Schlimgen, K. Head-Marsden, L.M. Sager-Smith, P. Narang, and D.A. Mazziotti, 
 Quantum simulation of the Lindblad equation using a unitary decomposition of operators
 *Phys. Rev. Res.*, **XX**, XXXX (2022).
 
-[DOI](https://arxiv.org/abs/2203.00668){: .btn .btn--primary}
-S. Tserkis, K. Head-Marsden, and P. Narang, Information back-flow in quantum non-Markovian dynamics and its connection to teleportation, *arXiv:2203.00668* (2022).
+[DOI](https://arxiv.org/abs/2101.05287){: .btn .btn--primary}
+Z. Hu, K. Head-Marsden, D.A. Mazziotti, P. Narang, and S. Kais, A general quantum algorithm for open quantum dynamics demonstrated with the Fenna-Matthews-Olson complex, *Quantum*, **6**, 726 (2022).
 
 [DOI](https://doi.org/10.1103/PhysRevLett.127.270503){: .btn .btn--primary}
 A.W. Schlimgen, K. Head-Marsden, L.M. Sager-Smith, P. Narang, and D.A. Mazziotti, 
@@ -32,10 +35,6 @@ Quantum simulation of open quantum systems using a unitary decomposition of oper
 K. Head-Marsden, S. Krastanov, D.A. Mazziotti, and P. Narang, 
 Capturing non-Markovian dynamics on near-term quantum computers
 *Phys. Rev. Res.*, **3**, 013182 (2021).
-
-[DOI](https://arxiv.org/abs/2101.05287){: .btn .btn--primary}
-Z. Hu, K. Head-Marsden, D.A. Mazziotti, P. Narang, and S. Kais, A general quantum algorithm for open quantum dynamics demonstrated with the Fenna-Matthews-Olson complex
-*arXiv:2101.05287* (2021).
 
 [DOI](https://arxiv.org/abs/2009.03902){: .btn .btn--primary}
 S. Krastanov, K. Head-Marsden, S. Zhou, S.T. Flammia, L. Jiang, and P. Narang, Unboxing quantum black box models: Learning non-Markovian dynamics
