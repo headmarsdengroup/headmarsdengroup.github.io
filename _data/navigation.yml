@@ -1,11 +1,7 @@
 main:
-  - title: "About"
-    url: /about/
   - title: "Research"
     url: /research/
   - title: "Papers"
     url: /papers/
   - title: "People"
     url: /people/
-  - title: "Contact"
-    url: /contact/
