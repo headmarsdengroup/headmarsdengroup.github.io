@@ -41,7 +41,7 @@ layout: splash
      <br> Postdoctoral Research Associate, <span style="color: #075c0d;">Los Alamos National Lab</span> (2019-2021)
      <br> Ph.D., <span style="color: #075c0d;">University of Chicago</span> (2018) 
      <br> B.A., <span style="color: #075c0d;">Creighton University</span> (2012)  
-     <br> Email: <@wustl.edu>  
+     <br> <a href = "mailto: santhony@wustl.edu">santhony@wustl.edu</a>  
      <br> Office: Jolley Hall 403</div>
 </div>
 
