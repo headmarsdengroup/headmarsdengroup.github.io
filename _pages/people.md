@@ -21,7 +21,7 @@ layout: splash
      <br> Ph.D., <span style="color: #075c0d;">University of Chicago</span> (2019)  
      <br> B.S., <span style="color: #075c0d;">McGill University</span> (2014)  
      <br> <a href = "mailto: head-marsden@wustl.edu">head-marsden@wustl.edu</a>
-     <br> Office: Jolley Hall 410 </div>
+     <br> Office: Jolley Hall 410 
      <br> <a href = "https://scholar.google.com/citations?user=b-ICXpQAAAAJ&hl=en"> <span style="color: #075c0d;">Google Scholar</span> </a> 
      <br> <a href = "https://www.linkedin.com/in/kheadmarsden/"> <span style="color: #075c0d;">LinkedIn</span> </a>  
      <br> <a href = "https://www.researchgate.net/profile/Kade-Head-Marsden"> <span style="color: #075c0d;">Research Gate</span> </a> 
