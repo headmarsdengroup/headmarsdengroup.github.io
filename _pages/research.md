@@ -8,7 +8,7 @@ feature_row:
     alt: "placeholder image 2"
     title: "Open quantum systems"
     excerpt: "We focus on classical method development for the treatment of open system dynamics in the Markovian and non-Markovian regimes. We also focus on algorithm development to model these dynamics using current Noisy-Intermediate scale quantum computers. 
-    **Selected Relevant Papers**
+    <br /> **Selected Relevant Papers**
     "
   - image_path: /assets/images/KHM_estruc.png
     alt: "placeholder image 2"
