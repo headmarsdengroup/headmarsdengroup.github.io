@@ -14,15 +14,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 # title: Head-Marsden Group
-masthead_title: "/assets/images/Logo_blacktext_white.png"
-subtitle: 
+masthead_title: "Head-Marsden Group"
+subtitle: At Washington University in St. Louis
 email: head-marsden@wustl.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Theoretical chemistry
 github_username: headmarsdengroup
 minimal_mistakes_skin: default
 search: true
-logo: "/assets/images/Logo_blacktext_white.png"
+logo: "/assets/images/Logo_only_black.png"
 
 # Build settings
 markdown: kramdown
