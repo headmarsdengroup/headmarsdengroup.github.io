@@ -14,7 +14,4 @@ feature_row:
      <br> <a href = "mailto: head-marsden@wustl.edu">head-marsden@wustl.edu</a>
 </div>
 
-
-{: .text-justify}
-
 {% include feature_row %}
