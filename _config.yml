@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 # title: Head-Marsden Group
-masthead_title: " "
+masthead_title: "/assets/images/Logo_blacktext_white.png"
 subtitle: 
 email: head-marsden@wustl.edu
 description: >- # this means to ignore newlines until "baseurl:"
