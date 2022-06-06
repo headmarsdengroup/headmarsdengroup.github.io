@@ -9,23 +9,21 @@ feature_row:
     title: "Open quantum systems"
     excerpt: "We focus on classical method development for the treatment of open system dynamics in the Markovian and non-Markovian regimes. We also focus on algorithm development to model these dynamics using current Noisy-Intermediate scale quantum computers. 
     <br /> **Selected Relevant Papers**
+    <br /> [DOI](https://doi.org/10.1021/acs.jpca.0c01937){: .btn .btn--primary}
+K. Head-Marsden and D.A. Mazziotti, 
+Active-space pair two-electron reduced density matrix theory for strong correlation
+*J. Phys. Chem. A*, **124** (23), 4848-4854 (2020).
     "
   - image_path: /assets/images/KHM_estruc.png
     alt: "placeholder image 2"
     title: "Electronic structure"
     excerpt: "We develop and apply electronic structure methods to treat strong correlation in metal complexes.
     **Selected Relevant Papers**"
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
   - image_path: /assets/images/KHM_QI.png
     alt: "placeholder image 2"
     title: "Quantum information"
     excerpt: "We focus on using current quantum computers to consider non-unitary quantum processes, and conversely we apply open quantum system methods to better model quantum hardware.
     **Selected Relevant Papers**"
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
 ---
 
 <br>
