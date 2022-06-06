@@ -3,9 +3,9 @@ main:
     url: /news/
   - title: "Research"
     url: /research/
-  - title: "Papers"
-    url: /papers/
   - title: "People"
     url: /people/
+  - title: "Papers"
+    url: /papers/
   - title: "Contact"
     url: /contact/
