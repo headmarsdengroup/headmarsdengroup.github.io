@@ -14,5 +14,5 @@ The Head-Marsden group is currently looking for dynamic and highly-motivated sci
 * Generalization and application of correlated electronic structure methods
 * Open quantum system methods for quantum hardware characterization
 
-Please contact Kade Head-Marsden for further details.
+Please contact <a href = "mailto: head-marsden@wustl.edu">Kade Head-Marsden</a> for further details.
 
