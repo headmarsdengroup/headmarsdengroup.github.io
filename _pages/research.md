@@ -7,18 +7,22 @@ feature_row:
   - image_path: /assets/images/KHM_OQS.png
     alt: "placeholder image 2"
     title: "Open quantum systems"
-    excerpt: "Our group focuses on classical method development for the treatment of open system dynamics in the Markovian and non-Markovian regimes. We also focus on algorithm development to model these dynamics using current Noisy-Intermediate scale quantum computers."
+    excerpt: "We focus on classical method development for the treatment of open system dynamics in the Markovian and non-Markovian regimes. We also focus on algorithm development to model these dynamics using current Noisy-Intermediate scale quantum computers. 
+    **Selected Relevant Papers**
+    "
   - image_path: /assets/images/KHM_estruc.png
     alt: "placeholder image 2"
     title: "Electronic structure"
-    excerpt: "This is some sample content that goes here with **Markdown** ."
+    excerpt: "We develop and apply electronic structure methods to treat strong correlation in metal complexes.
+    **Selected Relevant Papers**"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/KHM_QI.png
     alt: "placeholder image 2"
     title: "Quantum information"
-    excerpt: "This is some sample content that goes here with **Markdown** ."
+    excerpt: "We focus on using current quantum computers to consider non-unitary quantum processes, and conversely we apply open quantum system methods to better model quantum hardware.
+    **Selected Relevant Papers**"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
