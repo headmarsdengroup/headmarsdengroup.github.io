@@ -6,7 +6,12 @@ layout: splash
 feature_row:
 ---
 
-<br>
+# For more information about our group contact:  
+
+<div class="column selected-category-label small-7 medium-9">
+   <div id="category" class="label-category">
+     <br> <a href = "mailto: head-marsden@wustl.edu">head-marsden@wustl.edu</a>
+</div>
 
 
 {: .text-justify}
