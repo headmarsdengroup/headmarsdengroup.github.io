@@ -1,6 +1,6 @@
 ---
 title: "News"
-permalink: /posts/
+permalink: /news/
 layout: posts
 author_profile: false
 ---
