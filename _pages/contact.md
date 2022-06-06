@@ -6,7 +6,7 @@ layout: splash
 feature_row:
 ---
 
-# For more information about our group, contact:  
+## For more information about our group, contact:  
 
 <div class="column selected-category-label small-7 medium-9">
    <div id="category" class="label-category">
