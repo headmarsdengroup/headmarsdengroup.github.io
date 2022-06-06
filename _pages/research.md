@@ -7,10 +7,7 @@ feature_row:
   - image_path: /assets/images/KHM_OQS.png
     alt: "placeholder image 2"
     title: "Open quantum systems"
-    excerpt: "This is some sample content that goes here with **Markdown** ."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
+    excerpt: "Our group focuses on classical method development for the treatment of open system dynamics in the Markovian and non-Markovian regimes. We also focus on algorithm development to model these dynamics using current Noisy-Intermediate scale quantum computers."
   - image_path: /assets/images/KHM_estruc.png
     alt: "placeholder image 2"
     title: "Electronic structure"
