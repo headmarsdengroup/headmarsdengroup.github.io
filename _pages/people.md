@@ -25,6 +25,7 @@ layout: splash
      <br> <a href = "https://scholar.google.com/citations?user=b-ICXpQAAAAJ&hl=en"> <span style="color: #075c0d;">Google Scholar</span> </a> 
      <br> <a href = "https://www.linkedin.com/in/kheadmarsden/"> <span style="color: #075c0d;">LinkedIn</span> </a>  
      <br> <a href = "https://www.researchgate.net/profile/Kade-Head-Marsden"> <span style="color: #075c0d;">Research Gate</span> </a> 
+     </div>
 </div>
 
 <br />
@@ -46,6 +47,9 @@ layout: splash
      <br> B.A., <span style="color: #075c0d;">Creighton University</span> (2012)  
      <br> <a href = "mailto: santhony@wustl.edu">santhony@wustl.edu</a>  
      <br> Office: Jolley Hall 403</div>
+     <br> <a href = "https://scholar.google.com/citations?user=FNTA_00AAAAJ&hl=en&oi=sra"> <span style="color: #075c0d;">Google Scholar</span> </a> 
+     <br> <a href = "https://www.linkedin.com/in/anthony-schlimgen-477649152/"> <span style="color: #075c0d;">LinkedIn</span> </a>  
+  </div>
 </div>
 
 ## Postdoctoral Researchers
