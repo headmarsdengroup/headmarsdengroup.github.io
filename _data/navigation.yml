@@ -1,6 +1,4 @@
 main:
-  - title: "News"
-    url: /news/
   - title: "Research"
     url: /research/
   - title: "People"
