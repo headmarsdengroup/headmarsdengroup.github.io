@@ -15,7 +15,7 @@ layout: splash
   width: 275px;
   height: 275px;
   object-position: center 40%;
-  float:left; border-radius:50%;"></div>
+  float:left; border-radius:50%;" padding = 2 ></div>
    <div id="category" class="label-category">
      <br> Postdoctoral Research Associate, <span style="color: #075c0d;">Harvard University</span> (2019-2022)  
      <br> Ph.D., <span style="color: #075c0d;">University of Chicago</span> (2019)  
