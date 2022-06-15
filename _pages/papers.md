@@ -18,10 +18,10 @@ A.W. Schlimgen, K. Head-Marsden, L.M. Sager-Smith, P. Narang, and D.A. Mazziotti
 [DOI](https://arxiv.org/abs/2203.00668){: .btn .btn--primary}
 S. Tserkis, K. Head-Marsden, and P. Narang, Information back-flow in quantum non-Markovian dynamics and its connection to teleportation, *arXiv:2203.00668* (2022).
 
-[DOI](){: .btn .btn--primary}
+[DOI](https://doi.org/10.1103/PhysRevResearch.4.023216){: .btn .btn--primary}
 A.W. Schlimgen, K. Head-Marsden, L.M. Sager-Smith, P. Narang, and D.A. Mazziotti, 
 Quantum simulation of the Lindblad equation using a unitary decomposition of operators
-*Phys. Rev. Res.*, **XX**, XXXX (2022).
+*Phys. Rev. Res.*, **4**, 023216 (2022).
 
 [DOI](https://arxiv.org/abs/2101.05287){: .btn .btn--primary}
 Z. Hu, K. Head-Marsden, D.A. Mazziotti, P. Narang, and S. Kais, A general quantum algorithm for open quantum dynamics demonstrated with the Fenna-Matthews-Olson complex, *Quantum*, **6**, 726 (2022).
