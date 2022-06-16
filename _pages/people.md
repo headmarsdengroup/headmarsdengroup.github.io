@@ -39,7 +39,7 @@ layout: splash
   width: 275px;
   height: 275px;
   object-position: center 30%;
-  float:left; border-radius:50%;">  </div>
+  float:left; border-radius:50%; margin: 0px 20px 0px 0px;">  </div>
    <div id="category" class="label-category">
      <br> Postdoctoral Research Associate, <span style="color: #075c0d;">University of Chicago</span> (2021-2022) 
      <br> Postdoctoral Research Associate, <span style="color: #075c0d;">Los Alamos National Lab</span> (2019-2021)
