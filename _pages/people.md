@@ -55,7 +55,7 @@ layout: splash
 ## Postdoctoral Researchers
 
 <div id="category" class="label-category">
-  <br> The Head-Marsden group is currently looking for dynamic and highly-motivated postdocs for a variety of projects in the following general areas:
+  <br> The Head-Marsden group is currently looking for highly-motivated postdocs for a variety of projects in the following general areas:
 </div>
   
 <ul>
