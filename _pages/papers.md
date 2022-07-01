@@ -9,7 +9,7 @@ layout: splash
 
 # Head-Marsden Group Papers
 
-## Pre WashU
+## Prior to WashU
 
 [DOI](https://arxiv.org/abs/2205.02826){: .btn .btn--primary}
 A.W. Schlimgen, K. Head-Marsden, L.M. Sager-Smith, P. Narang, and D.A. Mazziotti, Quantum state preparation and non-unitary evolution with diagonal operators
