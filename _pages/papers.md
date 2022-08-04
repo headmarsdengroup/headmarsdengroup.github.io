@@ -11,12 +11,20 @@ layout: splash
 
 ## Prior to WashU
 
-[DOI](https://arxiv.org/abs/2205.02826){: .btn .btn--primary}
-A.W. Schlimgen, K. Head-Marsden, L.M. Sager-Smith, P. Narang, and D.A. Mazziotti, Quantum state preparation and non-unitary evolution with diagonal operators
-*arXiv:2205.02826* (2022).
+[DOI](https://arxiv.org/abs/2207.07112){: .btn .btn--primary}
+A.W. Schlimgen, K. Head-Marsden, L.M. Sager-Smith, P. Narang, and D.A. Mazziotti, Quantum Simulation of Open Quantum Systems Using Density-Matrix Purification
+*arXiv:2207.07112* (2022).
 
 [DOI](https://arxiv.org/abs/2203.00668){: .btn .btn--primary}
 S. Tserkis, K. Head-Marsden, and P. Narang, Information back-flow in quantum non-Markovian dynamics and its connection to teleportation, *arXiv:2203.00668* (2022).
+
+[DOI](https://arxiv.org/abs/2009.03902){: .btn .btn--primary}
+S. Krastanov, K. Head-Marsden, S. Zhou, S.T. Flammia, L. Jiang, and P. Narang, Unboxing quantum black box models: Learning non-Markovian dynamics
+*arXiv:2009.03902* (2020).
+
+[DOI](https://arxiv.org/abs/2205.02826){: .btn .btn--primary}
+A.W. Schlimgen, K. Head-Marsden, L.M. Sager-Smith, P. Narang, and D.A. Mazziotti, Quantum state preparation and non-unitary evolution with diagonal operators
+*arXiv:2205.02826* *Phys. Rev. A*, **X**, Accepted (2022).
 
 [DOI](https://doi.org/10.1103/PhysRevResearch.4.023216){: .btn .btn--primary}
 A.W. Schlimgen, K. Head-Marsden, L.M. Sager-Smith, P. Narang, and D.A. Mazziotti, 
@@ -35,10 +43,6 @@ Quantum simulation of open quantum systems using a unitary decomposition of oper
 K. Head-Marsden, S. Krastanov, D.A. Mazziotti, and P. Narang, 
 Capturing non-Markovian dynamics on near-term quantum computers
 *Phys. Rev. Res.*, **3**, 013182 (2021).
-
-[DOI](https://arxiv.org/abs/2009.03902){: .btn .btn--primary}
-S. Krastanov, K. Head-Marsden, S. Zhou, S.T. Flammia, L. Jiang, and P. Narang, Unboxing quantum black box models: Learning non-Markovian dynamics
-*arXiv:2009.03902* (2020).
 
 [DOI](https://doi.org/10.1021/acs.chemrev.0c00620){: .btn .btn--primary}
 K. Head-Marsden, J. Flick, C.J. Ciccarinio, and P. Narang, 
