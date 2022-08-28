@@ -22,9 +22,9 @@ S. Tserkis, K. Head-Marsden, and P. Narang, Information back-flow in quantum non
 S. Krastanov, K. Head-Marsden, S. Zhou, S.T. Flammia, L. Jiang, and P. Narang, Unboxing quantum black box models: Learning non-Markovian dynamics
 *arXiv:2009.03902* (2020).
 
-[DOI](https://arxiv.org/abs/2205.02826){: .btn .btn--primary}
+[DOI]([https://arxiv.org/abs/2205.02826](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.106.022414)){: .btn .btn--primary}
 A.W. Schlimgen, K. Head-Marsden, L.M. Sager-Smith, P. Narang, and D.A. Mazziotti, Quantum state preparation and non-unitary evolution with diagonal operators
-*arXiv:2205.02826* *Phys. Rev. A*, **X**, Accepted (2022).
+*arXiv:2205.02826* *Phys. Rev. A*, **106**, 022414 (2022).
 
 [DOI](https://doi.org/10.1103/PhysRevResearch.4.023216){: .btn .btn--primary}
 A.W. Schlimgen, K. Head-Marsden, L.M. Sager-Smith, P. Narang, and D.A. Mazziotti, 
