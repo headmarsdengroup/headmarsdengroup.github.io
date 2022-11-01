@@ -29,7 +29,6 @@ layout: splash
 </div>
 
 <br />
-<br />
 
 # Anthony Schlimgen
 *Staff Scientist*
@@ -53,7 +52,6 @@ layout: splash
 </div>
 
 <br />
-<br />
 
 # Yangyang Guo
 *Postdoctoral Research Associate*
@@ -71,7 +69,6 @@ layout: splash
      </div>
 </div>
 
-<br />
 <br />
 <br />
 <br />
