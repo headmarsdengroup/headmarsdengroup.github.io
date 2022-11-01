@@ -54,20 +54,7 @@ layout: splash
 
 ## Postdoctoral Researchers
 
-<div id="category" class="label-category">
-  <br> The Head-Marsden group is <a href = "https://wustl.wd1.myworkdayjobs.com/en-US/External/job/Postdoctoral-Research-Associate---Chemistry_JR67771-1"> <span style="color: #563fbaff;">currently looking </span> </a>for highly-motivated postdocs for a variety of projects in the following general areas:
-</div>
-  
-<ul>
-  <li>Method development for open quantum system dynamics</li>
-  <li>Quantum algorithms for quantum chemistry</li>
-  <li>Generalization and application of correlated electronic structure methods</li>
-  <li>Open quantum system methods for quantum hardware characterization</li>
-</ul> 
 
-<div id="category" class="label-category">  
-  <br> If you are interested in joining the Head-Marsden Group as a postdoc, please contact Kade Head-Marsden to learn more. 
-</div>
   
 ## Graduate Students
 
