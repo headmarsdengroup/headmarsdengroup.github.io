@@ -7,7 +7,7 @@ layout: splash
   
 
 
-# Kade Head-Marsden  
+## Kade Head-Marsden  
 *Assistant Professor of Chemistry*
 
 <div class="column selected-category-label small-7 medium-9">
@@ -30,7 +30,7 @@ layout: splash
 
 <br />
 
-# Anthony Schlimgen
+## Anthony Schlimgen
 *Staff Scientist*
 
 <div class="column selected-category-label small-7 medium-9">
@@ -53,7 +53,7 @@ layout: splash
 
 <br />
 
-# Yangyang Guo
+## Yangyang Guo
 *Postdoctoral Research Associate*
 
 <div class="column selected-category-label small-7 medium-9">
