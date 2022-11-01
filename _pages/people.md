@@ -52,9 +52,8 @@ layout: splash
      </div>
 </div>
 
-## Postdoctoral Researchers
-
 # Yangyang Guo
+*Postdoctoral Research Associate*
 
 <div class="column selected-category-label small-7 medium-9">
    <div id="image" class="label-image"> <img src="/assets/images/YG.png" style = "object-fit: cover;
@@ -69,6 +68,8 @@ layout: splash
      </div>
 </div>
 
+<br />
+<br />
   
 ## Graduate Students
 
