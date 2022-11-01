@@ -54,6 +54,21 @@ layout: splash
 
 ## Postdoctoral Researchers
 
+# Yangyang Guo
+
+<div class="column selected-category-label small-7 medium-9">
+   <div id="image" class="label-image"> <img src="/assets/images/YG.png" style = "object-fit: cover;
+  width: 275px;
+  height: 275px;
+  object-position: center 30%;
+  float:left; border-radius:50%; margin: 0px 20px 0px 0px;">  </div>
+   <div id="category" class="label-category">
+     <br> Ph.D., <span style="color: #075c0d;">University of Groningen</span> (2022) 
+     <br> M.S., <span style="color: #075c0d;">Zhengzhou University</span> (2017)   
+     <br> <a href = " ">TBD</a>  
+     <br> Office: Jolley Hall 409  
+     </div>
+</div>
 
   
 ## Graduate Students
