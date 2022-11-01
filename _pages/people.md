@@ -65,7 +65,6 @@ layout: splash
    <div id="category" class="label-category">
      <br> Ph.D., <span style="color: #075c0d;">University of Groningen</span> (2022) 
      <br> M.S., <span style="color: #075c0d;">Zhengzhou University</span> (2017)   
-     <br> <a href = " ">TBD</a>  
      <br> Office: Jolley Hall 409  
      </div>
 </div>
