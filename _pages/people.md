@@ -52,6 +52,9 @@ layout: splash
      </div>
 </div>
 
+<br />
+<br />
+
 # Yangyang Guo
 *Postdoctoral Research Associate*
 
@@ -68,6 +71,8 @@ layout: splash
      </div>
 </div>
 
+<br />
+<br />
 <br />
 <br />
   
