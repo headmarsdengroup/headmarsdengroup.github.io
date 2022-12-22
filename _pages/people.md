@@ -80,8 +80,9 @@ The Head-Marsden group is currently looking for Ph.D. students to work on all on
 
 ## Undergraduates
 
-### Julie Lampert
-*Major: Chemistry*
+### Julie Lampert <br /> Emily Oh <br /> Daniel Palomo <br /> Tyler White
+*Major: Chemistry* <br /> *Major:Chemistry*  <br />  *Major: Biomedical engineering*  <br /> *Major: Computer Science*
+
 <div class="column selected-category-label small-7 medium-9">
    <div id="image" class="label-image"> <img src="/assets/images/JSL.jpg" style = "object-fit: cover;
   width: 275px;
@@ -89,14 +90,6 @@ The Head-Marsden group is currently looking for Ph.D. students to work on all on
   object-position: center 30%;
   float:left; border-radius:50%; margin: 0px 20px 0px 0px;">  </div>
 </div>
-
-<br />
-<br />
-<br />
-<br />
-
-### Emily Oh
-*Major: Chemistry*
 <div class="column selected-category-label small-7 medium-9">
    <div id="image" class="label-image"> <img src="/assets/images/EO.jpeg" style = "object-fit: cover;
   width: 275px;
@@ -104,17 +97,6 @@ The Head-Marsden group is currently looking for Ph.D. students to work on all on
   object-position: center 30%;
   float:left; border-radius:50%; margin: 0px 20px 0px 0px;">  </div>
 </div>
-
-<br />
-<br />
-<br />
-<br />
-
-### Daniel Palomo
-*Major: Biomedical engineering*
-<br />
-### Tyler White
-*Major: Computer Science*
 <div class="column selected-category-label small-7 medium-9">
    <div id="image" class="label-image"> <img src="/assets/images/TW.jpg" style = "object-fit: cover;
   width: 275px;
@@ -123,8 +105,5 @@ The Head-Marsden group is currently looking for Ph.D. students to work on all on
   float:left; border-radius:50%; margin: 0px 20px 0px 0px;">  </div>
 </div>
 
-<br />
-<br />
-<br />
-<br />
+
 
