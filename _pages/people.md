@@ -79,6 +79,10 @@ layout: splash
 The Head-Marsden group is currently looking for Ph.D. students to work on all ongoing research projects. More information about our graduate program and application process can be found <a href="https://chemistry.wustl.edu/graduate">here</a>. 
 
 ## Undergraduates
+Julie Lampert, Major:Chemistry
+<br />
+Emily Oh, Major: Chemistry
+<br />
 Daniel Palomo, Major: Biomedical Engineering
 <br />
 Tyler White, Major: Computer Science
