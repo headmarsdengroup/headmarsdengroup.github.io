@@ -80,7 +80,7 @@ The Head-Marsden group is currently looking for Ph.D. students to work on all on
 
 ## Undergraduates
 
-# Julie Lampert
+### Julie Lampert
 *Major: Chemistry*
 <div class="column selected-category-label small-7 medium-9">
    <div id="image" class="label-image"> <img src="/assets/images/JSL.jpg" style = "object-fit: cover;
@@ -95,7 +95,7 @@ The Head-Marsden group is currently looking for Ph.D. students to work on all on
 <br />
 <br />
 
-# Emily Oh
+### Emily Oh
 *Major: Chemistry*
 <div class="column selected-category-label small-7 medium-9">
    <div id="image" class="label-image"> <img src="/assets/images/EO.jpeg" style = "object-fit: cover;
@@ -110,10 +110,10 @@ The Head-Marsden group is currently looking for Ph.D. students to work on all on
 <br />
 <br />
 
-# Daniel Palomo
+### Daniel Palomo
 *Major: Biomedical engineering*
 <br />
-# Tyler White
+### Tyler White
 *Major: Computer Science*
 <div class="column selected-category-label small-7 medium-9">
    <div id="image" class="label-image"> <img src="/assets/images/TW.jpg" style = "object-fit: cover;
