@@ -111,7 +111,7 @@ The Head-Marsden group is currently looking for Ph.D. students to work on all on
   </figcaption>
 </figure>
 
-
+### &emsp; &emsp; Julie Lampert &emsp; &emsp; &emsp; &emsp; Emily Oh 
 
 
 
