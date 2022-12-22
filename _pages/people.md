@@ -83,6 +83,24 @@ The Head-Marsden group is currently looking for Ph.D. students to work on all on
 ### Julie Lampert <br /> Emily Oh <br /> Daniel Palomo <br /> Tyler White
 *Major: Chemistry* <br /> *Major:Chemistry*  <br />  *Major: Biomedical engineering*  <br /> *Major: Computer Science*
 
+<p align="middle">
+  <img src="/assets/images/JSL.jpg" width="100" style = "object-fit: cover;
+  width: 275px;
+  height: 275px;
+  object-position: center 30%;
+  float:left; border-radius:50%; margin: 0px 20px 0px 0px;" />
+  <img src="/img2.png" width="/assets/images/EO.jpeg" style = "object-fit: cover;
+  width: 275px;
+  height: 275px;
+  object-position: center 30%;
+  float:left; border-radius:50%; margin: 0px 20px 0px 0px;" /> 
+  <img src="/img3.png" width="/assets/images/TW.jpg" style = "object-fit: cover;
+  width: 275px;
+  height: 275px;
+  object-position: center 30%;
+  float:left; border-radius:50%; margin: 0px 20px 0px 0px;" />
+</p>
+
 <div class="column selected-category-label small-7 medium-9">
    <div id="image" class="label-image"> <img src="/assets/images/JSL.jpg" style = "object-fit: cover;
   width: 275px;
