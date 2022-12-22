@@ -79,11 +79,51 @@ layout: splash
 The Head-Marsden group is currently looking for Ph.D. students to work on all ongoing research projects. More information about our graduate program and application process can be found <a href="https://chemistry.wustl.edu/graduate">here</a>. 
 
 ## Undergraduates
-Julie Lampert, Major:Chemistry
+
+# Julie Lampert, Major: Chemistry
+<div class="column selected-category-label small-7 medium-9">
+   <div id="image" class="label-image"> <img src="/assets/images/JSL.jpg" style = "object-fit: cover;
+  width: 275px;
+  height: 275px;
+  object-position: center 30%;
+  float:left; border-radius:50%; margin: 0px 20px 0px 0px;">  </div>
+</div>
+
 <br />
-Emily Oh, Major: Chemistry
 <br />
-Daniel Palomo, Major: Biomedical Engineering
 <br />
-Tyler White, Major: Computer Science
+<br />
+
+# Emily Oh, Major: Chemistry
+<div class="column selected-category-label small-7 medium-9">
+   <div id="image" class="label-image"> <img src="/assets/images/EO.jpeg" style = "object-fit: cover;
+  width: 275px;
+  height: 275px;
+  object-position: center 30%;
+  float:left; border-radius:50%; margin: 0px 20px 0px 0px;">  </div>
+</div>
+
+<br />
+<br />
+<br />
+<br />
+
+
+<br />
+# Daniel Palomo, Major: Biomedical Engineering
+<br />
+# Tyler White, Major: Computer Science
+# Emily Oh, Major: Chemistry
+<div class="column selected-category-label small-7 medium-9">
+   <div id="image" class="label-image"> <img src="/assets/images/TW.jpg" style = "object-fit: cover;
+  width: 275px;
+  height: 275px;
+  object-position: center 30%;
+  float:left; border-radius:50%; margin: 0px 20px 0px 0px;">  </div>
+</div>
+
+<br />
+<br />
+<br />
+<br />
 
