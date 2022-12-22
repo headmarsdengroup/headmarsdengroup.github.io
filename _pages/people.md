@@ -90,19 +90,22 @@ The Head-Marsden group is currently looking for Ph.D. students to work on all on
   object-position: center 30%;
   float:left; border-radius:50%; margin: 0px 20px 0px 0px;" />
 
- <img src="/img2.png" width="/assets/images/EO.jpeg" style = "object-fit: cover;
+ <img src="assets/images/EO.jpeg" width="100" style = "object-fit: cover;
   width: 275px;
   height: 275px;
   object-position: center 30%;
   float:left; border-radius:50%; margin: 0px 20px 0px 0px;" /> 
   
-  <img src="/img3.png" width="/assets/images/TW.jpg" style = "object-fit: cover;
+  <img src="/assets/images/TW.jpg" width="100" style = "object-fit: cover;
   width: 275px;
   height: 275px;
   object-position: center 30%;
-  float:left; border-radius:50%; margin: 0px 20px 0px 0px;" />
+  float:left; border-radius:50%; margin: 0px 10px 0px 10px;" />
 
-  <figcaption>Julie Lampert &emsp; Emily Oh &emsp;Tyler White </figcaption>
+  <figcaption>Julie Lampert &emsp; &emsp;  Emily Oh &emsp; &emsp; Tyler White
+  <br />
+    Major: Chemistry &emsp; &emsp; Major: Chemistry &emsp; &emsp; Major: Computer Science
+  </figcaption>
 </figure>
 
 
