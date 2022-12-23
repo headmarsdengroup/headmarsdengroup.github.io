@@ -80,6 +80,22 @@ The Head-Marsden group is currently looking for Ph.D. students to work on all on
 
 ## Undergraduates
 
+feature_row:
+  - image_path:/assets/images/JSL.jpg
+    alt: "JSL"
+    title: "Julie Lampert"
+    excerpt: "*Major: Chemistry*"
+  - image_path: /assets/images/EO.jpeg
+    alt: "EO"
+    title: "Emily Oh"
+    excerpt: "*Major: Chemistry*"
+  - image_path: /assets/images/TW.png
+    title: "Tyler White"
+    excerpt: "*Major: Computer Science*"
+   
+  {% include feature_row %}
+
+
 <figure class="quarter">
  <img src="/assets/images/JSL.jpg" width="100" style = "object-fit: cover;
   width: 275px;
