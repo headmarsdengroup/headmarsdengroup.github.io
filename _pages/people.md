@@ -108,7 +108,7 @@ The Head-Marsden group is currently looking for Ph.D. students to work on all on
 
 ### &emsp; &emsp; Julie Lampert &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Emily Oh &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Daniel Palomo &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  Tyler White
 
- &emsp; &emsp; &emsp; *Chemistry* &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  *Chemistry* &emsp; &emsp; &emsp; &emsp; &emsp; *Biomedical Engineering*  &emsp; &emsp; &emsp; &emsp;  *Computer Science*
+ &emsp; &emsp; &emsp; *Chemistry* &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  *Chemistry* &emsp; &emsp; &emsp; &emsp; &emsp; *Biomedical Engineering*  &emsp; &emsp; &emsp; &emsp; &emsp; *Computer Science*
 
 
 
