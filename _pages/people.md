@@ -3,6 +3,20 @@ permalink: /people/
 title: "People"
 author_profile: false
 layout: splash
+
+feature_row:
+  - image_path:/assets/images/JSL.jpg
+    alt: "JSL"
+    title: "Julie Lampert"
+    excerpt: "*Major: Chemistry*"
+  - image_path: /assets/images/EO.jpeg
+    alt: "EO"
+    title: "Emily Oh"
+    excerpt: "*Major: Chemistry*"
+  - image_path: /assets/images/TW.png
+    title: "Tyler White"
+    excerpt: "*Major: Computer Science*"
+
 ---
   
 
@@ -79,19 +93,6 @@ layout: splash
 The Head-Marsden group is currently looking for Ph.D. students to work on all ongoing research projects. More information about our graduate program and application process can be found <a href="https://chemistry.wustl.edu/graduate">here</a>. 
 
 ## Undergraduates
-
-feature_row:
-  - image_path:/assets/images/JSL.jpg
-    alt: "JSL"
-    title: "Julie Lampert"
-    excerpt: "*Major: Chemistry*"
-  - image_path: /assets/images/EO.jpeg
-    alt: "EO"
-    title: "Emily Oh"
-    excerpt: "*Major: Chemistry*"
-  - image_path: /assets/images/TW.png
-    title: "Tyler White"
-    excerpt: "*Major: Computer Science*"
    
   {% include feature_row %}
 
