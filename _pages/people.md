@@ -14,9 +14,9 @@ feature_row:
     title: "Emily Oh"
     excerpt: "*Major: Chemistry*"
   - image_path: /assets/images/TW.png
+    alt: "TW"
     title: "Tyler White"
     excerpt: "*Major: Computer Science*"
-
 ---
   
 
