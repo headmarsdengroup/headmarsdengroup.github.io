@@ -99,11 +99,11 @@ The Head-Marsden group is currently looking for Ph.D. students to work on all on
   object-position: center 30%;
   float:left; border-radius:50%; margin: 0px 20px 0px 0px;" /> 
   
-  <img src="/assets/images/TW.jpg" width="100" style = "object-fit: cover;
+  <img src="/assets/images/TW.png" width="100" style = "object-fit: cover;
   width: 275px;
   height: 275px;
-  object-position: bottom 30%;
-  float:bottom; border-radius:50%; margin: 0px 0px 0px 0px;" />
+  object-position: center 30%;
+  float:left; border-radius:50%; margin: 0px 20px 0px 0px;" />
 </figure>
 
 ### &emsp; &emsp; Julie Lampert &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Emily Oh &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Daniel Palomo &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  Tyler White
