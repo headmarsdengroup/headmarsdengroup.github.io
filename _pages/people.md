@@ -103,7 +103,7 @@ The Head-Marsden group is currently looking for Ph.D. students to work on all on
   width: 275px;
   height: 275px;
   object-position: bottom 30%;
-  float:left; border-radius:50%; margin: 0px 4px 0px 16px;" />
+  float:left; border-radius:50%; margin: 0px 0px 0px 0px;" />
 </figure>
 
 ### &emsp; &emsp; Julie Lampert &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Emily Oh &emsp; &emsp; &emsp; &emsp; &emsp; Daniel Palomo &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  Tyler White
