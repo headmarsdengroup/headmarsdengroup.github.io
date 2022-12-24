@@ -45,8 +45,10 @@ Postdoctoral Research Associate,  University of Chicago (2021-2022)<br />
 Postdoctoral Research Associate,  Los Alamos National Lab (2019-2021)<br />
 Ph.D., University of Chicago (2018)<br />
 B.A., Creighton University (2012)<br />
-Email: santhony@wustl.edu<br />
-Office: Jolley Hall 403
+Email: <a href = "mailto: santhony@wustl.edu">santhony@wustl.edu</a> <br />
+Office: Jolley Hall 403<br /> 
+<a href = "https://scholar.google.com/citations?user=FNTA_00AAAAJ&hl=en&oi=sra"> <span style="color: #563fbaff;">Google Scholar</span> </a> 
+<a href = "https://www.linkedin.com/in/anthony-schlimgen-477649152/"> <span style="color: #563fbaff;">LinkedIn</span> </a>  
             </p>
         </td>
     </tr>
@@ -60,6 +62,12 @@ Office: Jolley Hall 403
             <figure style="width: 250px" class="align-left">
                 <a href="/assets/images/YG.jpg">
                 <img src="/assets/images/YG.jpg" alt=""></a>
+                .cropped-ofp {
+width: 150px; 
+height: 150px; 
+object-fit: cover;
+object-position: 25% 25%; 
+}
             </figure>
         </td>
         <td>
@@ -67,7 +75,7 @@ Office: Jolley Hall 403
 <b>Yangyang Guo </b><br />
 <i>Postdoctoral Research Associate</i><br />
 Ph.D., University of Groningen (2022)<br />
-M.S., Zhengzhou University  (2017)
+M.S., Zhengzhou University  (2017) <br />
 Email:<br />
 Office: Jolley Hall 409
             </p>
