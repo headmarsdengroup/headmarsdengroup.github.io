@@ -10,11 +10,6 @@ intro:
 
 feature_row3:
   - image_path: /assets/images/AWS.jpeg
-    style = "object-fit: cover;                                 
-  width: 275px;
-  height: 275px;
-  object-position: center 40%;
-  float:left; border-radius:50%; margin: 0px 20px 0px 0px;"
     alt: “AWS”
     title: Anthony Schlimgen ** Staff Scientist **
     excerpt: 'Postdoctoral Research Associate, University of Chicago (2021-2022) 
