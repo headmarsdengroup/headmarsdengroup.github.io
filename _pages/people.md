@@ -9,7 +9,7 @@ layout: splash
         <td>
             <figure style="width: 250px" class="align-left">
                 <a href="/assets/images/KHM.jpg">
-                <img src="/assets/images/KHM.jpg" alt=""” ></a>
+                <img src="/assets/images/KHM.jpg" alt=""></a>
             </figure>
         </td>
         <td>
@@ -34,7 +34,7 @@ Office: Jolley Hall 410 <br />
         <td>
             <figure style="width: 250px" class="align-left">
                 <a href="/assets/images/AWS.jpeg">
-                <img src="/assets/images/AWS.jpeg" alt=""” ></a>
+                <img src="/assets/images/AWS.jpeg" alt="" ></a>
             </figure>
         </td>
         <td>
