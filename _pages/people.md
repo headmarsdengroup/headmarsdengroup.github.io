@@ -10,15 +10,23 @@ intro:
 
 feature_row3:
   - image_path: /assets/images/AWS.jpeg
+    style = "object-fit: cover;                                 
+  width: 275px;
+  height: 275px;
+  object-position: center 40%;
+  float:left; border-radius:50%; margin: 0px 20px 0px 0px;"
     alt: “AWS”
-    title: “Anthony Schlimgen ”
+    title: Anthony Schlimgen ** Staff Scientist **
     excerpt: 'Postdoctoral Research Associate, University of Chicago (2021-2022) 
      Postdoctoral Research Associate, Los Alamos National Lab (2019-2021)
      Ph.D., University of Chicago (2018) 
      B.A., Creighton University (2012) 
      [santhony@wustl.edu](mailto:santhony@wustl.edu)
+     
      Office: Jolley Hall 403
+     
      [Google Scholar](https://scholar.google.com/citations?user=FNTA_00AAAAJ&hl=en&oi=sra)
+     
      [LinkedIn](https://www.linkedin.com/in/anthony-schlimgen-477649152/)`type="right"`'
      
 ---
