@@ -11,21 +11,21 @@ intro:
 feature_row3:
   - image_path: /assets/images/AWS.jpeg
     alt: “AWS”
-    title: Anthony Schlimgen *Staff Scientist*
-    excerpt: 'Postdoctoral Research Associate, University of Chicago (2021-2022) 
-    
-     Postdoctoral Research Associate, Los Alamos National Lab (2019-2021) 
-     
-     Ph.D., University of Chicago (2018) 
-     
-     B.A., Creighton University (2012) 
-     
+    title: Anthony Schlimgen _Staff Scientist_
+    excerpt: 'Postdoctoral Research Associate, _University of Chicago_ (2021-2022) 
+    &nbsp;
+     Postdoctoral Research Associate, _Los Alamos National Lab_ (2019-2021) 
+     &nbsp;
+     Ph.D., _University of Chicago_ (2018) 
+     &nbsp;
+     B.A., _Creighton University_ (2012) 
+     &nbsp;
      [santhony@wustl.edu](mailto:santhony@wustl.edu)  
-     
+     &nbsp;
      Office: Jolley Hall 403  
-     
+     &nbsp;
      [Google Scholar](https://scholar.google.com/citations?user=FNTA_00AAAAJ&hl=en&oi=sra)  
-     
+     &nbsp;
      [LinkedIn](https://www.linkedin.com/in/anthony-schlimgen-477649152/)'  
      
 ---
