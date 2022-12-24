@@ -19,8 +19,11 @@ layout: splash
 Postdoctoral Research Associate, Harvard University (2019-2022)<br />
 Ph.D., University of Chicago (2019)<br />
 B.Sc., McGill University (2014)<br />
-Email: head-marsden@wustl.edu<br />
-Office: Jolley Hall 410
+Email: <a href = "mailto: head-marsden@wustl.edu">head-marsden@wustl.edu</a><br />
+Office: Jolley Hall 410 <br />
+<a href = "https://scholar.google.com/citations?user=b-ICXpQAAAAJ&hl=en"> <span style="color: #563fbaff;">Google Scholar</span> </a> 
+<a href = "https://www.linkedin.com/in/kheadmarsden/"> <span style="color: #563fbaff;">LinkedIn</span> </a>  
+<a href = "https://www.researchgate.net/profile/Kade-Head-Marsden"> <span style="color: #563fbaff;">Research Gate</span> </a> 
             </p>
         </td>
     </tr>
