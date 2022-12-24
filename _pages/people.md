@@ -8,8 +8,8 @@ layout: splash
     <tr>
         <td>
             <figure style="width: 250px" class="align-left">
-                <a href="/assets/images/KHM.jpg”>
-                <img src="/assets/images/KHM.jpg” alt=""></a>
+                <a href="/assets/images/KHM.jpg">
+                <img src="/assets/images/KHM.jpg" alt=""></a>
             </figure>
         </td>
         <td>
