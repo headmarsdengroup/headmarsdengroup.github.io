@@ -1,5 +1,5 @@
 ---
-title: “People
+title: People
 layout: splash
 permalink: /people/
 header:
