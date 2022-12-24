@@ -48,7 +48,7 @@ feature_row:
      [LinkedIn](https://www.linkedin.com/in/anthony-schlimgen-477649152/)' 
 
 feature_row4:
-  - image_path:/assets/images/JSL.jpg
+  - image_path: /assets/images/JSL.jpg
     alt: “JSL”
     title: Julie Lampert
     excerpt: '_Major: Chemistry_'
