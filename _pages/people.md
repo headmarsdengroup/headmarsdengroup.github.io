@@ -9,7 +9,7 @@ layout: splash
         <td>
             <figure style="width: 250px" class="align-left">
                 <a href="/assets/images/KHM.jpg">
-                <img src="/assets/images/KHM.jpg" alt="" height="200" width="200" class=”cropimg” ></a>
+                <img src="/assets/images/KHM.jpg" alt=""” ></a>
             </figure>
         </td>
         <td>
@@ -34,7 +34,7 @@ Office: Jolley Hall 410 <br />
         <td>
             <figure style="width: 250px" class="align-left">
                 <a href="/assets/images/AWS.jpeg">
-                <img src="/assets/images/AWS.jpeg" alt="" height="200" width="200" class=”cropimg” ></a>
+                <img src="/assets/images/AWS.jpeg" alt=""” ></a>
             </figure>
         </td>
         <td>
@@ -62,12 +62,6 @@ Office: Jolley Hall 403<br />
             <figure style="width: 250px" class="align-left">
                 <a href="/assets/images/YG.jpg">
                 <img src="/assets/images/YG.jpg" alt=""></a>
-                .cropped-ofp {
-width: 150px; 
-height: 150px; 
-object-fit: cover;
-object-position: 25% 25%; 
-}
             </figure>
         </td>
         <td>
