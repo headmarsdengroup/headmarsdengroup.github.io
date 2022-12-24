@@ -10,9 +10,15 @@ intro:
 
 feature_row3:
   - image_path: /assets/images/AWS.jpeg
+ img {
+  width: 50%;
+  height: auto;
+}
     alt: “AWS”
-    title: Anthony Schlimgen _Staff Scientist_
-    excerpt: 'Postdoctoral Research Associate, _University of Chicago_ (2021-2022) 
+    title: Anthony Schlimgen 
+    excerpt: '_Staff Scientist_   
+    <br/>
+    Postdoctoral Research Associate, _University of Chicago_ (2021-2022) 
     &nbsp;
      Postdoctoral Research Associate, _Los Alamos National Lab_ (2019-2021) 
      &nbsp;
