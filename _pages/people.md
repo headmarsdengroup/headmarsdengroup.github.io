@@ -30,8 +30,8 @@ Office: Jolley Hall 410
     <tr>
         <td>
             <figure style="width: 250px" class="align-left">
-                <a href="/assets/images/AWS.jpeg”>
-                <img src="/assets/images/AWS.jpeg” alt=""></a>
+                <a href="/assets/images/AWS.jpeg">
+                <img src="/assets/images/AWS.jpeg" alt=""></a>
             </figure>
         </td>
         <td>
