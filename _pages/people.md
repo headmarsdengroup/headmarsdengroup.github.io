@@ -9,7 +9,7 @@ layout: splash
         <td>
             <figure style="width: 250px" class="align-left">
                 <a href="/assets/images/KHM.jpg">
-                <img src="/assets/images/KHM.jpg" alt=""></a>
+                <img src="/assets/images/KHM.jpg" alt="" height="200" width="200" class=”cropimg” ></a>
             </figure>
         </td>
         <td>
