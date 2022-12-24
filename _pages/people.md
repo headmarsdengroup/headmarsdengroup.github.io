@@ -10,10 +10,6 @@ intro:
 
 feature_row3:
   - image_path: /assets/images/AWS.jpeg
- img {
-  width: 50%;
-  height: auto;
-}
     alt: “AWS”
     title: Anthony Schlimgen 
     excerpt: '_Staff Scientist_   
