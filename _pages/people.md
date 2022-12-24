@@ -8,6 +8,27 @@ header:
 intro: 
   - excerpt: ' '
 
+feature_row2:
+  - image_path: /assets/images/KHM.jpg
+    alt: “KHM”
+    title: Kade Head-Marsden 
+    excerpt: '_Assistant Professor of Chemistry_   
+    <br/>
+    Postdoctoral Research Associate, _Harvard University_ (2019-2022) 
+    <br/>
+     Ph.D., _University of Chicago_ (2019) 
+    <br/>
+     B.Sc., _McGill University_ (2014) 
+    <br/>
+     [head-marsden@wustl.edu](mailto:head-marsden@wustl.edu)  
+     <br/>
+     Office: Jolley Hall 410  
+     <br/>
+     [Google Scholar](https://scholar.google.com/citations?user=b-ICXpQAAAAJ&hl=en)  
+     [LinkedIn](https://www.linkedin.com/in/kheadmarsden/)
+     [Research Gate](https://www.researchgate.net/profile/Kade-Head-Marsden)'  
+
+
 feature_row3:
   - image_path: /assets/images/AWS.jpeg
     alt: “AWS”
@@ -34,6 +55,8 @@ feature_row3:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+
+{% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="right" %}
 
