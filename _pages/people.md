@@ -21,8 +21,8 @@ Ph.D., University of Chicago (2019)<br />
 B.Sc., McGill University (2014)<br />
 Email: <a href = "mailto: head-marsden@wustl.edu">head-marsden@wustl.edu</a><br />
 Office: Jolley Hall 410 <br />
-<a href = "https://scholar.google.com/citations?user=b-ICXpQAAAAJ&hl=en"> <span style="color: #563fbaff;">Google Scholar</span> </a> 
-<a href = "https://www.linkedin.com/in/kheadmarsden/"> <span style="color: #563fbaff;">LinkedIn</span> </a>  
+<a href = "https://scholar.google.com/citations?user=b-ICXpQAAAAJ&hl=en"> <span style="color: #563fbaff;">Google Scholar</span> </a> <br />
+<a href = "https://www.linkedin.com/in/kheadmarsden/"> <span style="color: #563fbaff;">LinkedIn</span> </a>  <br />
 <a href = "https://www.researchgate.net/profile/Kade-Head-Marsden"> <span style="color: #563fbaff;">Research Gate</span> </a> 
             </p>
         </td>
@@ -47,7 +47,7 @@ Ph.D., University of Chicago (2018)<br />
 B.A., Creighton University (2012)<br />
 Email: <a href = "mailto: santhony@wustl.edu">santhony@wustl.edu</a> <br />
 Office: Jolley Hall 403<br /> 
-<a href = "https://scholar.google.com/citations?user=FNTA_00AAAAJ&hl=en&oi=sra"> <span style="color: #563fbaff;">Google Scholar</span> </a> 
+<a href = "https://scholar.google.com/citations?user=FNTA_00AAAAJ&hl=en&oi=sra"> <span style="color: #563fbaff;">Google Scholar</span> </a> <br />
 <a href = "https://www.linkedin.com/in/anthony-schlimgen-477649152/"> <span style="color: #563fbaff;">LinkedIn</span> </a>  
             </p>
         </td>
