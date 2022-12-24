@@ -15,19 +15,18 @@ feature_row3:
     excerpt: '_Staff Scientist_   
     <br/>
     Postdoctoral Research Associate, _University of Chicago_ (2021-2022) 
-    &nbsp;
+    <br/>
      Postdoctoral Research Associate, _Los Alamos National Lab_ (2019-2021) 
-     &nbsp;
+     <br/>
      Ph.D., _University of Chicago_ (2018) 
-     &nbsp;
+    <br/>
      B.A., _Creighton University_ (2012) 
-     &nbsp;
+    <br/>
      [santhony@wustl.edu](mailto:santhony@wustl.edu)  
-     &nbsp;
+     <br/>
      Office: Jolley Hall 403  
-     &nbsp;
+     <br/>
      [Google Scholar](https://scholar.google.com/citations?user=FNTA_00AAAAJ&hl=en&oi=sra)  
-     &nbsp;
      [LinkedIn](https://www.linkedin.com/in/anthony-schlimgen-477649152/)'  
      
 ---
