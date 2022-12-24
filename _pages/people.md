@@ -48,24 +48,24 @@ feature_row:
      [LinkedIn](https://www.linkedin.com/in/anthony-schlimgen-477649152/)' 
 
 feature_row4:
-  - image_path: /assets/images/JSL.jpg
+  - image_path:/assets/images/JSL.jpg
     alt: “JSL”
-    title: “Julie Lampert”
-    excerpt: “_Major: Chemistry_”
+    title: Julie Lampert
+    excerpt: '_Major: Chemistry_'
   - image_path: /assets/images/EO.jpeg
     alt: “EO“
     title: “Emily Oh“
-    excerpt: “_Major: Chemistry_”
+    excerpt: '_Major: Chemistry_'
 
 feature_row5:
   - image_path: /assets/images/DP.jpg
     alt: “DP”
     title: “Daniel Palomo”
-    excerpt: “_Major: Biomedical Engineering_”
+    excerpt: '_Major: Biomedical Engineering_'
   - image_path: /assets/images/TW.jpg
     alt: “TW“
     title: “Tyler White“
-    excerpt: “_Major: Computer Science_”
+    excerpt: '_Major: Computer Science_'
 
 feature_row3:
   - image_path: /assets/images/AWS.jpeg
