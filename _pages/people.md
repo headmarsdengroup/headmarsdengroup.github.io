@@ -83,8 +83,8 @@ The Head-Marsden group is currently looking for Ph.D. students to work on all on
     <tr>
         <td>
             <figure style="width: 250px" class="align-left">
-                <a href="/assets/images/JSL.jpg”>
-                <img src="/assets/images/JSP.jpg” alt=""></a>
+                <a href="/assets/images/JSL.jpg">
+                <img src="/assets/images/JSL.jpg" alt=""></a>
             </figure>
         </td>
         <td>
@@ -128,7 +128,7 @@ Office: Jolley Hall 409
         <td>
             <figure style="width: 250px" class="align-left">
                 <a href="/assets/images/TW.jpg">
-                <img src="/assets/images/DP.jpg" alt=""></a>
+                <img src="/assets/images/TW.jpg" alt=""></a>
             </figure>
         </td>
         <td>
