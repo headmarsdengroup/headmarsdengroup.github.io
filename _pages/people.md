@@ -118,8 +118,8 @@ Office: Jolley Hall 409
     <tr>
         <td>
             <figure style="width: 250px" class="align-left">
-                <a href="/assets/images/DP.png">
-                <img src="/assets/images/DP.png" alt=""></a>
+                <a href="/assets/images/DP.jpg">
+                <img src="/assets/images/DP.jpg" alt=""></a>
             </figure>
         </td>
         <td>
