@@ -104,7 +104,7 @@ Office: Jolley Hall 409
     </tr>
 </table>
 
-The Head-Marsden group is currently looking for Ph.D. students to work on all ongoing research projects. More information about our graduate program and application process can be found <a href="https://chemistry.wustl.edu/graduate">here</a>. 
+More information about our graduate program and application process can be found <a href="https://chemistry.wustl.edu/graduate">here</a>. 
 {: .text-justify}
 
 ## Undergraduates
