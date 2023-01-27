@@ -79,6 +79,31 @@ Office: Jolley Hall 409
 
 ## Grad Students
 
+<table>
+    <tr>
+        <td>
+            <figure style="width: 250px" class="align-left">
+                <a href="/assets/images/TK.jpeg">
+                <img src="/assets/images/TK.jpeg" alt=""></a>
+            </figure>
+        </td>
+        <td>
+            <p>
+<b>Timothy Krogmeier </b><br />
+<i>Graduate Student</i><br />
+B.A. with Highest Distinction, Indiana University Bloomington (2021) <br />
+Major: Chemistry <br />
+Minor: Mathematics <br />
+<i> Awards: </i> <br />
+William G. Roessler Scholar (2020) <br />
+Harry G. Day Scholar (2020) <br />
+Email: <a href = "mailto: krogmeier.t@wustl.edu">krogmeier.t@wustl.edu</a> <br /> 
+Office: Jolley Hall 409
+            </p>
+        </td>
+    </tr>
+</table>
+
 The Head-Marsden group is currently looking for Ph.D. students to work on all ongoing research projects. More information about our graduate program and application process can be found <a href="https://chemistry.wustl.edu/graduate">here</a>. 
 {: .text-justify}
 
