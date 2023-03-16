@@ -70,7 +70,7 @@ Office: Jolley Hall 403<br />
 <i>Postdoctoral Research Associate</i><br />
 Ph.D., University of Groningen (2022)<br />
 M.S., Zhengzhou University  (2017) <br />
-Email:<br />
+Email: <a href = "mailto: gyangyang@wustl.edu">gyangyang@wustl.edu</a><br /> 
 Office: Jolley Hall 409
             </p>
         </td>
