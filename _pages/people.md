@@ -60,8 +60,8 @@ Office: Jolley Hall 403<br />
         <tr>
         <td>
             <figure style="width: 250px" class="align-left">
-                <a href="/assets/images/.jpg">
-                <img src="/assets/images/.jpg" alt=""></a>
+                <a href="/assets/images/MA.png">
+                <img src="/assets/images/MA.PNG" alt=""></a>
             </figure>
         </td>
         <td>
@@ -69,8 +69,12 @@ Office: Jolley Hall 403<br />
 <b>Maryam Abbasi </b><br />
 <i>Postdoctoral Research Associate</i><br />
 Ph.D., Washington University in St. Louis (2023)<br />
+M.Sc., Ferdowsi university of Mashhad (2017)<br />
+B.Sc., Ferdowsi University of Mashhad (2014)<br />
 Email: <a href = "mailto: maryamabbasi@wustl.edu">maryamabbasi@wustl.edu</a><br /> 
 Office: Jolley Hall 409
+<a href = "https://scholar.google.com/citations?user=b-ICXpQAAAAJ&hl=en"> <span style="color: #563fbaff;">Google Scholar</span> </a> <br />
+<a href = "https://www.linkedin.com/in/maryam-abbasi-qis/"> <span style="color: #563fbaff;">LinkedIn</span> </a>  <br />
             </p>
         </td>
     </tr>
