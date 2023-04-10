@@ -57,6 +57,23 @@ Office: Jolley Hall 403<br />
 ## Postdocs
 
 <table>
+        <tr>
+        <td>
+            <figure style="width: 250px" class="align-left">
+                <a href="/assets/images/.jpg">
+                <img src="/assets/images/.jpg" alt=""></a>
+            </figure>
+        </td>
+        <td>
+            <p>
+<b>Maryam Abbasi </b><br />
+<i>Postdoctoral Research Associate</i><br />
+Ph.D., Washington University in St. Louis (2023)<br />
+Email: <a href = "mailto: maryamabbasi@wustl.edu">maryamabbasi@wustl.edu</a><br /> 
+Office: Jolley Hall 409
+            </p>
+        </td>
+    </tr>
     <tr>
         <td>
             <figure style="width: 250px" class="align-left">
