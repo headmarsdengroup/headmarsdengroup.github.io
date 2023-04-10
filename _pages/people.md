@@ -73,7 +73,7 @@ M.Sc., Ferdowsi university of Mashhad (2017)<br />
 B.Sc., Ferdowsi University of Mashhad (2014)<br />
 Email: <a href = "mailto: maryamabbasi@wustl.edu">maryamabbasi@wustl.edu</a><br /> 
 Office: Jolley Hall 409 <br />
-<a href = "https://scholar.google.com/citations?user=b-ICXpQAAAAJ&hl=en"> <span style="color: #563fbaff;">Google Scholar</span> </a> <br />
+<a href = "https://scholar.google.com/citations?user=9_eYHyEAAAAJ&hl=en"> <span style="color: #563fbaff;">Google Scholar</span> </a> <br />
 <a href = "https://www.linkedin.com/in/maryam-abbasi-qis/"> <span style="color: #563fbaff;">LinkedIn</span> </a>  <br />
             </p>
         </td>
