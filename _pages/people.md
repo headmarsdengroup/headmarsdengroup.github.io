@@ -61,7 +61,7 @@ Office: Jolley Hall 403<br />
         <td>
             <figure style="width: 250px" class="align-left">
                 <a href="/assets/images/MA.png">
-                <img src="/assets/images/MA.PNG" alt=""></a>
+                <img src="/assets/images/MA.png" alt=""></a>
             </figure>
         </td>
         <td>
