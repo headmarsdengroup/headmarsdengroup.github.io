@@ -94,7 +94,7 @@ M.S., Zhengzhou University  (2017) <br />
 Email: <a href = "mailto: gyangyang@wustl.edu">gyangyang@wustl.edu</a><br /> 
 Office: Jolley Hall 409 <br /> 
 <a href = "https://www.researchgate.net/profile/Yangyang-Guo-15"> <span style="color: #563fbaff;">Research Gate</span> </a> <br />
-<a href = "www.linkedin.com/in/yangyang-guo-gyy12311992"> <span style="color: #563fbaff;">LinkedIn</span> </a>  <br />
+<a href = "https://www.linkedin.com/in/yangyang-guo-gyy12311992/"> <span style="color: #563fbaff;">LinkedIn</span> </a>  <br />
             </p>
         </td>
     </tr>
