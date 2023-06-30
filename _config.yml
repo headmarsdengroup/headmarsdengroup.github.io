@@ -79,14 +79,14 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: "_posts"
+      path: ""
       type: posts
     values:
       layout: single
       author_profile: false
-      read_time: false
-      comments: false
-      share: false
+      read_time: true
+      comments: true
+      share: true
       related: true
   # _pages
   - scope:
