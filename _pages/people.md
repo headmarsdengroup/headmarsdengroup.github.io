@@ -69,7 +69,7 @@ Office: Jolley Hall 403<br />
 <b>Maryam Abbasi </b><br />
 <i>Postdoctoral Research Associate</i><br />
 Ph.D., Washington University in St. Louis (2023)<br />
-M.Sc., Ferdowsi university of Mashhad (2017)<br />
+M.Sc., Ferdowsi University of Mashhad (2017)<br />
 B.Sc., Ferdowsi University of Mashhad (2014)<br />
 Email: <a href = "mailto: maryamabbasi@wustl.edu">maryamabbasi@wustl.edu</a><br /> 
 Office: Jolley Hall 409 <br />
@@ -117,9 +117,7 @@ Office: Jolley Hall 409 <br />
 B.A. with Highest Distinction, Indiana University Bloomington (2021) <br />
 Major: Chemistry <br />
 Minor: Mathematics <br />
-<i> Awards: </i> <br />
-William G. Roessler Scholar (2020) <br />
-Harry G. Day Scholar (2020) <br />
+<i> Awards: </i> William G. Roessler Scholar (2020), Harry G. Day Scholar (2020) <br />
 Email: <a href = "mailto: krogmeier.t@wustl.edu">krogmeier.t@wustl.edu</a> <br /> 
 Office: Jolley Hall 409
             </p>
