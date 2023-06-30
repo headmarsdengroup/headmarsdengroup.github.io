@@ -6,6 +6,6 @@ author_profile: false
 [Prof. Brad Parsons](https://www.creighton.edu/campus-directory/parsons-bradley-f) 
 from Creighton University came to visit the group!
 
- <img src="/assets/images/parsons.heic" alt="">
+ <img src="/assets/images/parsons.png" alt="">
  
 {: .text-justify}
