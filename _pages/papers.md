@@ -9,6 +9,15 @@ layout: splash
 
 # Head-Marsden Group Papers
 
+[DOI](){: .btn .btn--primary}
+T. J. Krogmeier, E. S. Pappas, K. A. Reardon, M. R. Rivera, K. Head-Marsden,
+B. F. Parsons, and A. W. Schlimgen1, Characterizing the origin band spectrum of isoquinoline with resonance enhanced multiphoton ionization and electronic structure calculations
+*Submitted* (2023).
+
+[DOI](){: .btn .btn--primary}
+A.W. Schlimgen, Y. Guo, and K. Head-Marsden, Characterizing excited states of a copper-based molecular qubit candidate with correlated electronic structure methods
+*Accepted* (2023).
+
 ## Prior to WashU
 
 [DOI](https://arxiv.org/abs/2207.07112){: .btn .btn--primary}
