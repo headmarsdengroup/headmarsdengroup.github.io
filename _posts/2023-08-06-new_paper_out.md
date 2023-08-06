@@ -1,5 +1,5 @@
 ---
-title:  "Our group's first paper is our in the Journal of Physical Chemistry A!"
+title:  "Our group's first paper is out in the Journal of Physical Chemistry A!"
 author_profile: false
 ---
 
