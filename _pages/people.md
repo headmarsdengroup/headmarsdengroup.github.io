@@ -39,7 +39,7 @@ Office: Jolley Hall 410 <br />
         </td>
         <td>
             <p>
-<b>Anthony Schlimgen </b><br />
+<b>Dr. Anthony Schlimgen </b><br />
 <i>Staff Scientist</i><br />
 Postdoctoral Research Associate,  University of Chicago (2021-2022)<br />
 Postdoctoral Research Associate,  Los Alamos National Lab (2019-2021)<br />
@@ -66,7 +66,7 @@ Office: Jolley Hall 403<br />
         </td>
         <td>
             <p>
-<b>Maryam Abbasi </b><br />
+<b>Dr. Maryam Abbasi </b><br />
 <i>Postdoctoral Research Associate</i><br />
 Ph.D., Washington University in St. Louis (2023)<br />
 M.Sc., Ferdowsi University of Mashhad (2017)<br />
@@ -87,7 +87,7 @@ Office: Jolley Hall 409 <br />
         </td>
         <td>
             <p>
-<b>Yangyang Guo </b><br />
+<b>Dr. Yangyang Guo </b><br />
 <i>Postdoctoral Research Associate</i><br />
 Ph.D., University of Groningen (2022)<br />
 M.S., Zhengzhou University  (2017) <br />
