@@ -14,9 +14,9 @@ T. J. Krogmeier, E. S. Pappas, K. A. Reardon, M. R. Rivera, K. Head-Marsden,
 B. F. Parsons, and A. W. Schlimgen1, Characterizing the origin band spectrum of isoquinoline with resonance enhanced multiphoton ionization and electronic structure calculations
 *Submitted* (2023).
 
-[DOI](){: .btn .btn--primary}
+[DOI](https://pubs.acs.org/doi/full/10.1021/acs.jpca.3c03827){: .btn .btn--primary}
 A.W. Schlimgen, Y. Guo, and K. Head-Marsden, Characterizing excited states of a copper-based molecular qubit candidate with correlated electronic structure methods
-*Accepted* (2023).
+*J. Phys. Chem. A* (2023).
 
 ## Prior to WashU
 
