@@ -21,6 +21,8 @@ Ensemble of Lindblad's trajectories for non-Markovian dynamics
     title: "Electronic structure"
     excerpt: "We develop and apply electronic structure methods to treat strong correlation in metal complexes.
     <br /> **Selected Relevant Papers**
+    <br /> [DOI](https://pubs.acs.org/doi/full/10.1021/acs.jpca.3c03827){: .btn .btn--primary}
+Characterizing Excited States of a Copper-Based Molecular Qubit Candidate with Correlated Electronic Structure Methods
     <br /> [DOI](https://doi.org/10.1021/acs.jpca.0c01937){: .btn .btn--primary}
 Active-space pair two-electron reduced density matrix theory for strong correlation
     "
