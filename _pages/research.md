@@ -8,7 +8,7 @@ feature_row:
     alt: "placeholder image 2"
     title: "Open quantum systems"
     excerpt: "We focus on classical method development for the treatment of open system dynamics in the Markovian and non-Markovian regimes. We also focus on algorithm development to model these dynamics using current Noisy-Intermediate scale quantum computers. 
-    <br /> **Selected Relevant Papers**
+    <br /><br /> **Selected Relevant Papers**<br />
     <br />[DOI](https://arxiv.org/abs/2009.03902){: .btn .btn--primary}
 Unboxing quantum black box models: Learning non-Markovian dynamics
     <br /> [DOI](https://doi.org/10.1103/PhysRevResearch.3.013182){: .btn .btn--primary}
@@ -20,7 +20,7 @@ Ensemble of Lindblad's trajectories for non-Markovian dynamics
     alt: "placeholder image 2"
     title: "Electronic structure"
     excerpt: "We develop and apply electronic structure methods to treat strong correlation in metal complexes.
-    <br /> **Selected Relevant Papers**
+    <br /><br /> **Selected Relevant Papers**<br />
     <br /> [DOI](https://pubs.acs.org/doi/full/10.1021/acs.jpca.3c03827){: .btn .btn--primary}
 Characterizing Excited States of a Copper-Based Molecular Qubit Candidate with Correlated Electronic Structure Methods
     <br /> [DOI](https://doi.org/10.1021/acs.jpca.0c01937){: .btn .btn--primary}
@@ -30,7 +30,7 @@ Active-space pair two-electron reduced density matrix theory for strong correlat
     alt: "placeholder image 2"
     title: "Quantum information"
     excerpt: "We focus on using current quantum computers to consider non-unitary quantum processes, and conversely we apply open quantum system methods to better model quantum hardware.
-    <br /> **Selected Relevant Papers**
+    <br /><br /> **Selected Relevant Papers**<br />
     <br /> [DOI](https://arxiv.org/abs/2205.02826){: .btn .btn--primary}
  Quantum state preparation and non-unitary evolution with diagonal operators
     <br /> [DOI](https://doi.org/10.1103/PhysRevLett.127.270503){: .btn .btn--primary}
