@@ -16,7 +16,7 @@ B. F. Parsons, and A. W. Schlimgen1, Characterizing the origin band spectrum of 
 
 [DOI](https://pubs.acs.org/doi/full/10.1021/acs.jpca.3c03827){: .btn .btn--primary}
 A.W. Schlimgen, Y. Guo, and K. Head-Marsden, Characterizing excited states of a copper-based molecular qubit candidate with correlated electronic structure methods
-*J. Phys. Chem. A* (2023).
+*J. Phys. Chem. A*  **127 (32)**, 6764-6770 (2023).
 
 ## Prior to WashU
 
