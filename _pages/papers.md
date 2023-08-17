@@ -11,7 +11,7 @@ layout: splash
 
 [DOI](){: .btn .btn--primary}
 T. J. Krogmeier, E. S. Pappas, K. A. Reardon, M. R. Rivera, K. Head-Marsden,
-B. F. Parsons, and A. W. Schlimgen1, Characterizing the origin band spectrum of isoquinoline with resonance enhanced multiphoton ionization and electronic structure calculations
+B. F. Parsons, and A. W. Schlimgen, Characterizing the origin band spectrum of isoquinoline with resonance enhanced multiphoton ionization and electronic structure calculations
 *Submitted* (2023).
 
 [DOI](https://pubs.acs.org/doi/full/10.1021/acs.jpca.3c03827){: .btn .btn--primary}
