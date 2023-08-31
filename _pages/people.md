@@ -175,20 +175,6 @@ Email: d.m.palomo@wustl.edu<br />
 Office: Jolley Hall 409
         </td>
     </tr>
-    <tr>
-        <td>
-            <figure style="width: 250px" class="align-left">
-                <a href="/assets/images/TW.jpg">
-                <img src="/assets/images/TW.jpg" alt=""></a>
-            </figure>
-        </td>
-        <td>
-<b>Tyler White</b><br />
-<i>Computer Science Major</i><br />
-Email: tmwhite@wustl.edu<br />
-Office: Jolley Hall 409
-        </td>
-    </tr>
 </table>
 
 
