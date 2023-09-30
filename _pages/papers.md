@@ -10,7 +10,6 @@ layout: splash
 # Head-Marsden Group Papers
 [DOI](){: .btn .btn--primary}
 E. K. Oh, T. J. Krogmeier, A. W. Schlimgen, and K. Head-Marsden, Singular value decomposition algorithm for quantum biology (submitted 2023).
-*J. Phys. Chem. A*,  **127 (32)**, 6764-6770 (2023).
 
 [DOI](){: .btn .btn--primary}
 T. J. Krogmeier, E. S. Pappas, K. A. Reardon, M. R. Rivera, K. Head-Marsden,
