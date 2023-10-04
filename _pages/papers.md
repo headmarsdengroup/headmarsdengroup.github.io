@@ -8,13 +8,13 @@ layout: splash
 <br>
 
 # Head-Marsden Group Papers
-[DOI](){: .btn .btn--primary}
-E. K. Oh, T. J. Krogmeier, A. W. Schlimgen, and K. Head-Marsden, Singular value decomposition algorithm for quantum biology (submitted 2023).
+[DOI](https://arxiv.org/abs/2309.17391){: .btn .btn--primary}
+E. K. Oh, T. J. Krogmeier, A. W. Schlimgen, and K. Head-Marsden, Singular value decomposition algorithm for quantum biology *arXiv:2309.17391* (2023).
 
-[DOI](){: .btn .btn--primary}
+[DOI](https://doi.org/10.1063/5.0168421){: .btn .btn--primary}
 T. J. Krogmeier, E. S. Pappas, K. A. Reardon, M. R. Rivera, K. Head-Marsden,
 B. F. Parsons, and A. W. Schlimgen, Characterizing the origin band spectrum of isoquinoline with resonance enhanced multiphoton ionization and electronic structure calculations
-*Journal of Chemical Physics*, **159**, (2023).
+*J. Chem. Phys.*, **159 (13)**, 134305 (2023).
 
 [DOI](https://pubs.acs.org/doi/full/10.1021/acs.jpca.3c03827){: .btn .btn--primary}
 A.W. Schlimgen, Y. Guo, and K. Head-Marsden, Characterizing excited states of a copper-based molecular qubit candidate with correlated electronic structure methods
