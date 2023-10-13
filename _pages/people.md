@@ -93,6 +93,7 @@ Ph.D., University of Groningen (2022)<br />
 M.S., Zhengzhou University  (2017) <br />
 Email: <a href = "mailto: gyangyang@wustl.edu">gyangyang@wustl.edu</a><br /> 
 Office: Jolley Hall 409 <br /> 
+<a href = "https://scholar.google.com/citations?user=30iLe-MAAAAJ&hl=en&oi=ao"> <span style="color: #563fbaff;">Google Scholar</span> </a> <br />
 <a href = "https://www.researchgate.net/profile/Yangyang-Guo-15"> <span style="color: #563fbaff;">Research Gate</span> </a> <br />
 <a href = "https://www.linkedin.com/in/yangyang-guo-gyy12311992/"> <span style="color: #563fbaff;">LinkedIn</span> </a>  <br />
             </p>
@@ -119,7 +120,8 @@ Major: Chemistry <br />
 Minor: Mathematics <br />
 <i> Awards: </i> William G. Roessler Scholar (2020), Harry G. Day Scholar (2020) <br />
 Email: <a href = "mailto: krogmeier.t@wustl.edu">krogmeier.t@wustl.edu</a> <br /> 
-Office: Jolley Hall 409
+Office: Jolley Hall 409 <br /> 
+<a href = "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=xv-CEXMAAAAJ"> <span style="color: #563fbaff;">Google Scholar</span> </a> <br />
             </p>
         </td>
     </tr>
