@@ -21,6 +21,8 @@ Ensemble of Lindblad's trajectories for non-Markovian dynamics
     title: "Electronic structure"
     excerpt: "We develop and apply electronic structure methods to treat strong correlation in metal complexes.
     <br /><br /> **Selected Relevant Papers**<br />
+    <br /> [DOI](https://pubs.aip.org/aip/jcp/article/159/13/134305/2914200){: .btn .btn--primary}
+Characterizing the origin band spectrum of isoquinoline with resonance enhanced multiphoton ionization and electronic structure calculations
     <br /> [DOI](https://pubs.acs.org/doi/full/10.1021/acs.jpca.3c03827){: .btn .btn--primary}
 Characterizing Excited States of a Copper-Based Molecular Qubit Candidate with Correlated Electronic Structure Methods
     <br /> [DOI](https://doi.org/10.1021/acs.jpca.0c01937){: .btn .btn--primary}
@@ -31,7 +33,9 @@ Active-space pair two-electron reduced density matrix theory for strong correlat
     title: "Quantum information"
     excerpt: "We focus on using current quantum computers to consider non-unitary quantum processes, and conversely we apply open quantum system methods to better model quantum hardware.
     <br /><br /> **Selected Relevant Papers**<br />
-    <br /> [DOI](https://arxiv.org/abs/2205.02826){: .btn .btn--primary}
+     <br /> [DOI](https://arxiv.org/pdf/2309.17391.pdf){: .btn .btn--primary}
+ Singular value decomposition quantum algorithm for quantum biology
+    <br /> [DOI](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.106.022414){: .btn .btn--primary}
  Quantum state preparation and non-unitary evolution with diagonal operators
     <br /> [DOI](https://doi.org/10.1103/PhysRevLett.127.270503){: .btn .btn--primary}
 Quantum simulation of open quantum systems using a unitary decomposition of operators
