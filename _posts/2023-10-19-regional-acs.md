@@ -9,12 +9,12 @@ The [Wexler](https://wexlergroup.github.io/) and Head-Marsdeon groups co-hosted 
 
 We also had great group turn out with several excellent presentations including:
  <ul>
-  <li><a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=xv-CEXMAAAAJ">Tim Krogmeier</a>'s talk on his [recent work](https://pubs.aip.org/aip/jcp/article/159/13/134305/2914200) studying isoquinoline</li>
-  <li>[Dr. Yangyang Guo](https://scholar.google.com/citations?user=30iLe-MAAAAJ&hl=en&oi=ao)'s poster on her [recent work](https://pubs.acs.org/doi/full/10.1021/acs.jpca.3c03827) studying a copper molecular qubit candidate </li>
+  <li><a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=xv-CEXMAAAAJ">Tim Krogmeier</a>'s talk on his <a href="https://pubs.aip.org/aip/jcp/article/159/13/134305/2914200">recent work</a> studying isoquinoline</li>
+  <li><a href="https://scholar.google.com/citations?user=30iLe-MAAAAJ&hl=en&oi=ao">Dr. Yangyang Guo</a>'s poster on her <a href="https://pubs.acs.org/doi/full/10.1021/acs.jpca.3c03827">recent work</a> studying a copper molecular qubit candidate </li>
   <li>Julie Lampert's poster on her on-going work investigating periodic trends in transition metal oxides </li>
-  <li>Emily Oh's poster on her [recent work](https://arxiv.org/abs/2309.17391) exploring biological complexes using our singular value decomposition algorithm </li>
+  <li>Emily Oh's poster on her <a href="https://arxiv.org/abs/2309.17391">recent work</a> exploring biological complexes using our singular value decomposition algorithm </li>
 </ul> 
 
-<a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=xv-CEXMAAAAJ">Tim Krogmeier</a>
+<a href="https://scholar.google.com/citations?user=30iLe-MAAAAJ&hl=en&oi=ao">Dr. Yangyang Guo</a>
 
 {: .text-justify}
