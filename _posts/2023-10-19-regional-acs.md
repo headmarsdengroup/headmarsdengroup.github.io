@@ -15,6 +15,4 @@ We also had great group turn out with several excellent presentations including:
   <li>Emily Oh's poster on her <a href="https://arxiv.org/abs/2309.17391">recent work</a> exploring biological complexes using our singular value decomposition algorithm </li>
 </ul> 
 
-<a href="https://scholar.google.com/citations?user=30iLe-MAAAAJ&hl=en&oi=ao">Dr. Yangyang Guo</a>
-
 {: .text-justify}
