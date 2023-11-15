@@ -1,5 +1,5 @@
 ---
-title:  "Special symposium "Chemical theory across scales" at the Midwest-Great Lakes Regional ACS meeting"
+title:  "Special symposium <em>Chemical theory across scales </em> at the Midwest-Great Lakes Regional ACS meeting"
 author_profile: false
 ---
 
