@@ -1,5 +1,5 @@
 ---
-title:  "Wrapping up 2023!"
+title:  "Wrapping up 2023"
 author_profile: false
 ---
 
