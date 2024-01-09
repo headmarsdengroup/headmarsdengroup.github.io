@@ -203,7 +203,7 @@ Office: Jolley Hall 409
         <td>
 <b>Whitney Short</b><br />
 <i>Chemistry Major; Writing and Anthropology, Global Health and Environment Minors</i><br />
-Email: d.m.palomo@wustl.edu<br />
+Email: short.w@wustl.edu<br />
 Office: Jolley Hall 409
         </td>
     </tr>
