@@ -152,6 +152,22 @@ Office: Jolley Hall 409
     <tr>
         <td>
             <figure style="width: 250px" class="align-left">
+                <a href="/assets/images/JL.jpg">
+                <img src="/assets/images/JL.jpg" alt=""></a>
+            </figure>
+        </td>
+        <td>
+            <p>
+<b>Julian Liao</b><br />
+<i>Chemistry Major; Biology Minor </i><br />
+Email: j.d.liao@wustl.edu <br />
+Office: Jolley Hall 409
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <figure style="width: 250px" class="align-left">
                 <a href="/assets/images/EO.jpeg">
                 <img src="/assets/images/EO.jpeg" alt=""></a>
             </figure>
@@ -173,6 +189,20 @@ Office: Jolley Hall 409
         <td>
 <b>Daniel Palomo</b><br />
 <i>Biomedical Engineering Major</i><br />
+Email: d.m.palomo@wustl.edu<br />
+Office: Jolley Hall 409
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <figure style="width: 250px" class="align-left">
+                <a href="/assets/images/.jpg">
+                <img src="/assets/images/.jpg" alt=""></a>
+            </figure>
+        </td>
+        <td>
+<b>Whitney Short</b><br />
+<i>Chemistry Major; Writing and Anthropology, Global Health and Environment Minors</i><br />
 Email: d.m.palomo@wustl.edu<br />
 Office: Jolley Hall 409
         </td>
