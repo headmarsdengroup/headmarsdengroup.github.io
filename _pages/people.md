@@ -58,10 +58,10 @@ Office: Jolley Hall 403<br />
 
 <div class="card-group">
   <div class="card">
-    <img class="card-img-top" src=“/assets/images/MA.png” alt=“Maryam Abbasi”>
+    <img class="card-img-top" src=“/assets/images/MA.png” alt=“MaryamAbbasi”>
     <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text"><b> Dr. Maryam Abbasi </b><br />
+      <h5 class="card-title">Dr. Maryam Abbasi</h5>
+      <p class="card-text">
 <i>Postdoctoral Research Associate</i><br />
 Ph.D., Washington University in St. Louis (2023)<br />
 M.Sc., Ferdowsi University of Mashhad (2017)<br />
@@ -75,9 +75,8 @@ Office: Jolley Hall 409 <br />
   <div class="card">
     <img class="card-img-top" src="/assets/images/YG.jpg" alt=“Yangyang Guo“>
     <div class="card-body">
-      <h5 class="card-title">Card title</h5>
+      <h5 class="card-title">Dr. Yangyang Guo</h5>
       <p class="card-text">
-<b> Dr. Yangyang Guo </b><br />
 <i>Postdoctoral Research Associate</i><br />
 Ph.D., University of Groningen (2022)<br />
 M.S., Zhengzhou University  (2017) <br />
