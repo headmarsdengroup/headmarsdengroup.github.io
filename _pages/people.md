@@ -85,11 +85,10 @@ Office: Jolley Hall 409 <br />
 <a href = "https://scholar.google.com/citations?user=30iLe-MAAAAJ&hl=en&oi=ao"> <span style="color: #563fbaff;">Google Scholar</span> </a> <br />
 <a href = "https://www.researchgate.net/profile/Yangyang-Guo-15"> <span style="color: #563fbaff;">Research Gate</span> </a> <br />
 <a href = "https://www.linkedin.com/in/yangyang-guo-gyy12311992/"> <span style="color: #563fbaff;">LinkedIn</span> </a>  <br />
-
 </p>
     </div>
+    </div>
 </div>
-
 
 ## Grad Students
 
