@@ -56,17 +56,12 @@ Office: Jolley Hall 403<br />
 
 ## Postdocs
 
-<table>
-        <tr>
-        <td>
-            <figure style="width: 250px" class="align-left">
-                <a href="/assets/images/MA.png">
-                <img src="/assets/images/MA.png" alt=""></a>
-            </figure>
-        </td>
-        <td>
-            <p>
-<b> Dr. Maryam Abbasi </b><br />
+<div class="card-group">
+  <div class="card">
+    <img class="card-img-top" src=“/assets/images/MA.png” alt=“Maryam Abbasi”>
+    <div class="card-body">
+      <h5 class="card-title">Card title</h5>
+      <p class="card-text"><b> Dr. Maryam Abbasi </b><br />
 <i>Postdoctoral Research Associate</i><br />
 Ph.D., Washington University in St. Louis (2023)<br />
 M.Sc., Ferdowsi University of Mashhad (2017)<br />
@@ -74,19 +69,14 @@ B.Sc., Ferdowsi University of Mashhad (2014)<br />
 Email: <a href = "mailto: maryamabbasi@wustl.edu">maryamabbasi@wustl.edu</a><br /> 
 Office: Jolley Hall 409 <br />
 <a href = "https://scholar.google.com/citations?user=9_eYHyEAAAAJ&hl=en"> <span style="color: #563fbaff;">Google Scholar</span> </a> <br />
-<a href = "https://www.linkedin.com/in/maryam-abbasi-qis/"> <span style="color: #563fbaff;">LinkedIn</span> </a>  <br />
-            </p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <figure style="width: 250px" class="align-left">
-                <a href="/assets/images/YG.jpg">
-                <img src="/assets/images/YG.jpg" alt=""></a>
-            </figure>
-        </td>
-        <td>
-            <p>
+<a href = "https://www.linkedin.com/in/maryam-abbasi-qis/"> <span style="color: #563fbaff;">LinkedIn</span> </a>  <br /></p>
+    </div>
+  </div>
+  <div class="card">
+    <img class="card-img-top" src="/assets/images/YG.jpg" alt=“Yangyang Guo“>
+    <div class="card-body">
+      <h5 class="card-title">Card title</h5>
+      <p class="card-text">
 <b> Dr. Yangyang Guo </b><br />
 <i>Postdoctoral Research Associate</i><br />
 Ph.D., University of Groningen (2022)<br />
@@ -96,10 +86,11 @@ Office: Jolley Hall 409 <br />
 <a href = "https://scholar.google.com/citations?user=30iLe-MAAAAJ&hl=en&oi=ao"> <span style="color: #563fbaff;">Google Scholar</span> </a> <br />
 <a href = "https://www.researchgate.net/profile/Yangyang-Guo-15"> <span style="color: #563fbaff;">Research Gate</span> </a> <br />
 <a href = "https://www.linkedin.com/in/yangyang-guo-gyy12311992/"> <span style="color: #563fbaff;">LinkedIn</span> </a>  <br />
-            </p>
-        </td>
-    </tr>
-</table>
+
+</p>
+    </div>
+</div>
+
 
 ## Grad Students
 
