@@ -58,7 +58,7 @@ Office: Jolley Hall 403<br />
 
 <div class="card-group">
   <div class="card">
-    <img class="card-img-top" src=“/assets/images/MA.png” alt=“”>
+    <img class="card-img-top" src="/assets/images/MA.png" alt=“”>
     <div class="card-body">
       <h5 class="card-title">Dr. Maryam Abbasi</h5>
       <p class="card-text">
