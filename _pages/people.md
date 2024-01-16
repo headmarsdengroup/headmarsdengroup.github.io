@@ -129,7 +129,7 @@ Office: Jolley Hall 409 <br />
         <td>
             <figure style="width: 250px" class="align-left">
                 <a href="/assets/images/JRC.jpg">
-                <img src="/assets/images/JCR.jpg" alt=""></a>
+                <img src="/assets/images/JRC.jpg" alt=""></a>
             </figure>
         </td>
         <td>
