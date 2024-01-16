@@ -125,6 +125,23 @@ Office: Jolley Hall 409 <br />
             </p>
         </td>
     </tr>
+<tr>
+        <td>
+            <figure style="width: 250px" class="align-left">
+                <a href="/assets/images/JRC.jpg">
+                <img src="/assets/images/JCR.jpg" alt=""></a>
+            </figure>
+        </td>
+        <td>
+            <p>
+<b>JR Cruise </b><br />
+<i> <a href = "https://quantumleaps.wustl.edu/NRTlinq"> <span style="color: #563fbaff;">NRT</span> </a> Intern; Graduate Student in the <a href = "https://artsci.wustl.edu/faculty-staff/alexander-seidel"> <span style="color: #563fbaff;">Seidel Group</span> </a></i><br />
+Email: <a href = "mailto: krogmeier.t@wustl.edu">c.joseph@wustl.edu</a> <br /> 
+Office: Jolley Hall 409 <br /> 
+<a href = "https://scholar.google.com/citations?user=qbbHlpkAAAAJ&hl=en"> <span style="color: #563fbaff;">Google Scholar</span> </a> <br />
+            </p>
+        </td>
+    </tr>
 </table>
 
 More information about our graduate program and application process can be found <a href="https://chemistry.wustl.edu/graduate">here</a>. 
