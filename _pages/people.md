@@ -143,7 +143,7 @@ More information about our graduate program and application process can be found
         <td>
             <p>
 <b>Julie Lampert</b><br />
-<i>Chemistry Major </i><br />
+<i>Chemistry Major; Materials Science and Engineering, Art History Minors </i><br />
 Email: j.lampert@wustl.edu <br />
 Office: Jolley Hall 409
             </p>
