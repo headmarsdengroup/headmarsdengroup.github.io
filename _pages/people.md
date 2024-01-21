@@ -213,8 +213,8 @@ Office: Jolley Hall 409
     <tr>
         <td>
             <figure style="width: 250px" class="align-left">
-                <a href="/assets/images/.jpg">
-                <img src="/assets/images/.jpg" alt=""></a>
+                <a href="/assets/images/WS.jpg">
+                <img src="/assets/images/WS.jpg" alt=""></a>
             </figure>
         </td>
         <td>
