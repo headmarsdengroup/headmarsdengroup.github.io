@@ -191,7 +191,7 @@ Office: Jolley Hall 409
         </td>
         <td>
 <b>Emily Oh</b><br />
-<i>Chemistry Major</i><br />
+<i>Chemistry Major; Earth Science Minor</i><br />
 Email: e.k.oh@wustl.edu <br />
 Office: Jolley Hall 409
         </td>
