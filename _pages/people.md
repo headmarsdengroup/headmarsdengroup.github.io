@@ -104,6 +104,24 @@ Office: Jolley Hall 409 <br />
 ## Grad Students
 
 <table>
+<tr>
+        <td>
+            <figure style="width: 250px" class="align-left">
+                <a href="/assets/images/KA.jpg">
+                <img src="/assets/images/KA.jpg" alt=""></a>
+            </figure>
+        </td>
+        <td>
+            <p>
+<b>Koray Aydogan </b><br />
+<i>Graduate Student</i><br />
+B.Sc., Bogazici University (2023) <br />
+Major: Physics <br />
+Email: <a href = "mailto: a.koray@wustl.edu">a.koray@wustl.edu</a> <br /> 
+Office: Jolley Hall 409 <br /> 
+            </p>
+        </td>
+    </tr>
     <tr>
         <td>
             <figure style="width: 250px" class="align-left">
