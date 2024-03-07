@@ -119,6 +119,8 @@ B.Sc., Bogazici University (2023) <br />
 Major: Physics <br />
 Email: <a href = "mailto: a.koray@wustl.edu">a.koray@wustl.edu</a> <br /> 
 Office: Jolley Hall 409 <br /> 
+<a href = "https://scholar.google.com/citations?user=2DVCq-UAAAAJ&hl=fr"> <span style="color: #563fbaff;">Google Scholar</span> </a> <br />
+<a href = "https://www.linkedin.com/in/koray-aydo%C4%9Fan-b23190141/"> <span style="color: #563fbaff;">LinkedIn</span> </a>  <br />
             </p>
         </td>
     </tr>
