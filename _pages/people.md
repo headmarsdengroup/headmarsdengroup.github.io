@@ -246,7 +246,18 @@ Office: Jolley Hall 409
     </tr>
 </table>
 
+## Alumni
 
+
+<table>
+    <tr>
+        <td>
+            <p>
+<b> Dr. Yangyang Guo, </b> <i>Postdoctoral Research Associate</i><br />
+            </p>
+        </td>
+    </tr>
+</table>
 
 
 
