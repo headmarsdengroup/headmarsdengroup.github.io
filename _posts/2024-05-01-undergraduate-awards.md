@@ -7,7 +7,7 @@ Graduating senior, Julie Lampert, won the Helmholz Award for her research in the
 
  <img src="/assets/images/Helmholz-2024.png" alt="">  
 
-Graduating senior, Julian Liao, won the American Chemical Society Organic Award for his work in Prof. <a href="https://chemistry.wustl.edu/people/vladimir-birman">Vlad Birman's group</a>! 
+Graduating senior, Julian Liao, won the American Chemical Society Organic Award for his work in Prof. <a href="https://chemistry.wustl.edu/people/vladimir-birman">Vlad Birman's group</a>! He will be starting a research position at The Scripps Research Institute this fall.
 
 <img src="/assets/images/ACS-organic-2024.jpg" alt=""> 
 
