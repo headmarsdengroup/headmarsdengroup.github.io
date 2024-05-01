@@ -9,6 +9,6 @@ Graduating senior, Julie Lampert, won the Helmholz Award for her research in the
 
  Graduating senior, Julian Liao, won the American Chemistry Society Organic Award for his work in Prof. Vlad Birman's group! 
 
-<img src="/assets/images/ACS-organic-2024.png" alt=""> 
+<img src="/assets/images/ACS-organic-2024.jpg" alt=""> 
 
 {: .text-justify}
