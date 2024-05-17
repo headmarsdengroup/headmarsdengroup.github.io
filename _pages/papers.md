@@ -8,8 +8,8 @@ layout: splash
 <br>
 
 # Head-Marsden Group Papers
-[DOI](https://arxiv.org/abs/2309.17391){: .btn .btn--primary}
-E. K. Oh, T. J. Krogmeier, A. W. Schlimgen, and K. Head-Marsden, Singular value decomposition algorithm for quantum biology *arXiv:2309.17391* (2023).
+[DOI](https://pubs.acs.org/doi/10.1021/acsphyschemau.4c00018){: .btn .btn--primary}
+E. K. Oh, T. J. Krogmeier, A. W. Schlimgen, and K. Head-Marsden, Singular value decomposition algorithm for quantum biology *ACS Phys. Chem. Au*, **XX**, XXXX (2024).
 
 [DOI](https://doi.org/10.1063/5.0188066){: .btn .btn--primary}
 C. A. Hart, A. W. Schlimgen, D. B. Dao, K. Head-Marsden, and R. Mabbs, The overlooked role of excited anion states in NiO<sub>2</sub><sup>-</sup> photodetachment
