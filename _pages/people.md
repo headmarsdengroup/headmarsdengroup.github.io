@@ -143,7 +143,7 @@ Office: Jolley Hall 409 <br />
     </tr>
 </table>
 
-More information about our graduate program and application process can be found <a href="https://chemistry.wustl.edu/graduate">here</a>. 
+More information about our graduate program and application process can be found <a href="https://cse.umn.edu/chem/application">here</a>. 
 {: .text-justify}
 
 ## Undergraduates
