@@ -232,6 +232,34 @@ Office: Jolley Hall 409
     <tr>
         <td>
             <p>
+<b> Julie Lampert, </b> <i>Undergraduate Researcher, currently a graduate student at Yale University </i><br />
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p>
+<b> Julian Liao, </b> <i>Undergraduate Researcher, currently a researcher at the Scripps Institute </i><br />
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p>
+<b> Daniel Palomo, </b> <i>Undergraduate Researcher, currently a junior at Washington University in St. Louis </i><br />
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p>
+<b> Emily Oh, </b> <i>Undergraduate Researcher, currently a senior at Washington University in St. Louis </i><br />
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p>
 <b> Dr. Yangyang Guo, </b> <i>Postdoctoral Research Associate</i><br />
             </p>
         </td>
