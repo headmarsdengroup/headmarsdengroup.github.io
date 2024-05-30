@@ -19,7 +19,7 @@ layout: splash
 Postdoctoral Research Associate, Harvard University (2019-2022)<br />
 Ph.D., University of Chicago (2019)<br />
 B.Sc., McGill University (2014)<br />
-Email: <a href = "mailto: head-marsden@wustl.edu">head-marsden@wustl.edu</a><br />
+Email: <a href = "mailto: khm@umn.edu">khm@umn.edu</a><br />
 Office: Jolley Hall 410 <br />
 <a href = "https://scholar.google.com/citations?user=b-ICXpQAAAAJ&hl=en"> <span style="color: #563fbaff;">Google Scholar</span> </a> <br />
 <a href = "https://www.linkedin.com/in/kheadmarsden/"> <span style="color: #563fbaff;">LinkedIn</span> </a>  <br />
@@ -149,66 +149,6 @@ More information about our graduate program and application process can be found
 ## Undergraduates
 
 <table>
-    <tr>
-        <td>
-            <figure style="width: 250px" class="align-left">
-                <a href="/assets/images/JSL.jpg">
-                <img src="/assets/images/JSL.jpg" alt=""></a>
-            </figure>
-        </td>
-        <td>
-            <p>
-<b>Julie Lampert</b><br />
-<i>Chemistry Major; Materials Science and Engineering, Art History Minors </i><br />
-Email: j.lampert@wustl.edu <br />
-Office: Jolley Hall 409
-            </p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <figure style="width: 250px; object-fit: cover;" class="align-left">
-                <a href="/assets/images/JL.jpg">
-                <img src="/assets/images/JL.jpg" alt=""></a>
-            </figure>
-        </td>
-        <td>
-            <p>
-<b>Julian Liao</b><br />
-<i>Chemistry Major; Biology Minor </i><br />
-Email: j.d.liao@wustl.edu <br />
-Office: Jolley Hall 409
-            </p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <figure style="width: 250px" class="align-left">
-                <a href="/assets/images/EO.jpeg">
-                <img src="/assets/images/EO.jpeg" alt=""></a>
-            </figure>
-        </td>
-        <td>
-<b>Emily Oh</b><br />
-<i>Chemistry Major; Earth Science Minor</i><br />
-Email: e.k.oh@wustl.edu <br />
-Office: Jolley Hall 409
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <figure style="width: 250px" class="align-left">
-                <a href="/assets/images/DP.jpg">
-                <img src="/assets/images/DP.jpg" alt=""></a>
-            </figure>
-        </td>
-        <td>
-<b>Daniel Palomo</b><br />
-<i>Biomedical Engineering Major</i><br />
-Email: d.m.palomo@wustl.edu<br />
-Office: Jolley Hall 409
-        </td>
-    </tr>
     <tr>
         <td>
             <figure style="width: 250px" class="align-left">
