@@ -3,7 +3,7 @@ title:  "Kicking off the Summer of Molecular Quantum Information Science Seminar
 author_profile: false
 ---
 
- <img src="/assets/images/summer-seminars-2024.png" alt="">
+ <img src="/assets/images/summer-seminars-2024.jpeg" alt="">
  
 This Wednesday we'll be starting our virtual Summer of Molecular Quantum Information Science Seminar Series, where we will hear from 11 students and postdocs whose research focuses on molecular quantum information from different perspectives. We have a mix of talks from experimentalists and theorists, with the full schedule below: 
 
