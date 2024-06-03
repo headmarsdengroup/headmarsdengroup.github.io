@@ -1,5 +1,5 @@
 ---
-title:  "Kicking off the Summer of Molecular Quantum Information Science Seminar Series!"
+title:  "Kicking off the Summer of Molecular Quantum Information Science Seminar Series"
 author_profile: false
 ---
 
