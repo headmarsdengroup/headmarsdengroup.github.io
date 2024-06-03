@@ -10,4 +10,5 @@ This Wednesday we'll be starting our virtual Summer of Molecular Quantum Informa
  <img src="/assets/images/summer_seminar_series_schedule.png" alt="">
  
 If you are interested in attending, please contact Kade Head-Marsden at  <a href = "mailto: khm@umn.edu">khm@umn.edu</a> to request Zoom access. 
+
 {: .text-justify}
