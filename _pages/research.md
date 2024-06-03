@@ -21,12 +21,12 @@ Ensemble of Lindblad's trajectories for non-Markovian dynamics
     title: "Electronic structure"
     excerpt: "We develop and apply electronic structure methods to treat strong correlation in metal complexes.
     <br /><br /> **Selected Relevant Papers**<br />
+    <br /> [DOI](https://doi.org/10.1063/5.0188066){: .btn .btn--primary}
+The overlooked role of excited anion states in NiO2− photodetachment
     <br /> [DOI](https://pubs.aip.org/aip/jcp/article/159/13/134305/2914200){: .btn .btn--primary}
 Characterizing the origin band spectrum of isoquinoline with resonance enhanced multiphoton ionization and electronic structure calculations
     <br /> [DOI](https://pubs.acs.org/doi/full/10.1021/acs.jpca.3c03827){: .btn .btn--primary}
 Characterizing Excited States of a Copper-Based Molecular Qubit Candidate with Correlated Electronic Structure Methods
-    <br /> [DOI](https://doi.org/10.1021/acs.jpca.0c01937){: .btn .btn--primary}
-Active-space pair two-electron reduced density matrix theory for strong correlation
     "
   - image_path: /assets/images/KHM_QI.png
     alt: "placeholder image 2"
