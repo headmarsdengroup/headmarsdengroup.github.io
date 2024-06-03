@@ -33,7 +33,7 @@ Active-space pair two-electron reduced density matrix theory for strong correlat
     title: "Quantum information"
     excerpt: "We focus on using current quantum computers to consider non-unitary quantum processes, and conversely we apply open quantum system methods to better model quantum hardware.
     <br /><br /> **Selected Relevant Papers**<br />
-     <br /> [DOI](https://arxiv.org/pdf/2309.17391.pdf){: .btn .btn--primary}
+     <br /> [DOI(https://doi.org/10.1021/acsphyschemau.4c00018){: .btn .btn--primary}
  Singular value decomposition quantum algorithm for quantum biology
     <br /> [DOI](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.106.022414){: .btn .btn--primary}
  Quantum state preparation and non-unitary evolution with diagonal operators
