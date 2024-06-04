@@ -204,6 +204,13 @@ Office: Jolley Hall 409
             </p>
         </td>
     </tr>
+<tr>
+        <td>
+            <p>
+<b> Tyler White, </b> <i>Undergraduate Researcher, currently a junior at Washington University in St. Louis</i><br />
+            </p>
+        </td>
+    </tr>
 </table>
 
 
