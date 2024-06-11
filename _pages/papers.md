@@ -8,16 +8,19 @@ layout: splash
 <br>
 
 # Head-Marsden Group Papers
+[DOI](https://arxiv.org/abs/2406.05219){: .btn .btn--primary}
+ L.H. Delgado-Granados, T.J. Krogmeier, L.M. Sager-Smith, I. Avdic, Z. Hu, M. Sajjan, M. Abbasi, S.E. Smart, P. Narang, S. Kais, A.W. Schlimgen, K. Head-Marsden, D.A. Mazziotti, Quantum Algorithms and Applications for Open Quantum Systems  *arXiv:2406.05219* (2024).
+
 [DOI](https://pubs.acs.org/doi/10.1021/acsphyschemau.4c00018){: .btn .btn--primary}
-E. K. Oh, T. J. Krogmeier, A. W. Schlimgen, and K. Head-Marsden, Singular value decomposition algorithm for quantum biology *ACS Phys. Chem. Au*, **XX**, XXXX (2024).
+E.K. Oh, T.J. Krogmeier, A.W. Schlimgen, and K. Head-Marsden, Singular value decomposition algorithm for quantum biology *ACS Phys. Chem. Au*, **XX**, XXXX (2024).
 
 [DOI](https://doi.org/10.1063/5.0188066){: .btn .btn--primary}
-C. A. Hart, A. W. Schlimgen, D. B. Dao, K. Head-Marsden, and R. Mabbs, The overlooked role of excited anion states in NiO<sub>2</sub><sup>-</sup> photodetachment
+C.A. Hart, A.W. Schlimgen, D.B. Dao, K. Head-Marsden, and R. Mabbs, The overlooked role of excited anion states in NiO<sub>2</sub><sup>-</sup> photodetachment
 *J. Chem. Phys.*, **160 (4)**, 044304 (2024).
 
 [DOI](https://doi.org/10.1063/5.0168421){: .btn .btn--primary}
-T. J. Krogmeier, E. S. Pappas, K. A. Reardon, M. R. Rivera, K. Head-Marsden,
-B. F. Parsons, and A. W. Schlimgen, Characterizing the origin band spectrum of isoquinoline with resonance enhanced multiphoton ionization and electronic structure calculations
+T.J. Krogmeier, E.S. Pappas, K.A. Reardon, M.R. Rivera, K. Head-Marsden,
+B.F. Parsons, and A.W. Schlimgen, Characterizing the origin band spectrum of isoquinoline with resonance enhanced multiphoton ionization and electronic structure calculations
 *J. Chem. Phys.*, **159 (13)**, 134305 (2023).
 
 [DOI](https://pubs.acs.org/doi/full/10.1021/acs.jpca.3c03827){: .btn .btn--primary}
