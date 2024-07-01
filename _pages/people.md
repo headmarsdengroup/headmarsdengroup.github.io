@@ -40,12 +40,12 @@ Office: Jolley Hall 410 <br />
         <td>
             <p>
 <b> Dr. Anthony Schlimgen </b><br />
-<i>Staff Scientist</i><br />
+<i>Research Assistant Professor</i><br />
 Postdoctoral Research Associate,  University of Chicago (2021-2022)<br />
 Postdoctoral Research Associate,  Los Alamos National Lab (2019-2021)<br />
 Ph.D., University of Chicago (2018)<br />
 B.A., Creighton University (2012)<br />
-Email: <a href = "mailto: santhony@wustl.edu">santhony@wustl.edu</a> <br />
+Email: <a href = "mailto: aws@umn.edu">aws@umn.edu</a> <br />
 Office: Jolley Hall 403<br /> 
 <a href = "https://scholar.google.com/citations?user=FNTA_00AAAAJ&hl=en&oi=sra"> <span style="color: #563fbaff;">Google Scholar</span> </a> <br />
 <a href = "https://www.linkedin.com/in/anthony-schlimgen-477649152/"> <span style="color: #563fbaff;">LinkedIn</span> </a>  
