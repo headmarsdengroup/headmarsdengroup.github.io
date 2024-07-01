@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 # title: Head-Marsden Group
 masthead_title: "Head-Marsden Group"
-subtitle: At Washington University in St. Louis
-email: head-marsden@wustl.edu
+subtitle: At the University of Minnesota
+email: khm@umn.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Theoretical chemistry
 github_username: headmarsdengroup
