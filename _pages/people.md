@@ -71,7 +71,7 @@ Office: Jolley Hall 403<br />
 Ph.D., Washington University in St. Louis (2023)<br />
 M.Sc., Ferdowsi University of Mashhad (2017)<br />
 B.Sc., Ferdowsi University of Mashhad (2014)<br />
-Email: <a href = "mailto: maryamabbasi@wustl.edu">maryamabbasi@wustl.edu</a><br /> 
+Email: <a href = "mailto: abbas152@umn.edu">abbas152@umn.edu</a><br /> 
 Office: Jolley Hall 409 <br />
 <a href = "https://scholar.google.com/citations?user=9_eYHyEAAAAJ&hl=en"> <span style="color: #563fbaff;">Google Scholar</span> </a> <br />
 <a href = "https://www.linkedin.com/in/maryam-abbasi-qis/"> <span style="color: #563fbaff;">LinkedIn</span> </a>  <br />
@@ -96,7 +96,7 @@ Office: Jolley Hall 409 <br />
 <i>Graduate Student</i><br />
 B.Sc., Bogazici University (2023) <br />
 Major: Physics <br />
-Email: <a href = "mailto: a.koray@wustl.edu">a.koray@wustl.edu</a> <br /> 
+Email: <a href = "mailto: aydog005@umn.edu">aydog005@umn.edu</a> <br /> 
 Office: Jolley Hall 409 <br /> 
 <a href = "https://scholar.google.com/citations?user=2DVCq-UAAAAJ&hl=fr"> <span style="color: #563fbaff;">Google Scholar</span> </a> <br />
 <a href = "https://www.linkedin.com/in/koray-aydo%C4%9Fan-b23190141/"> <span style="color: #563fbaff;">LinkedIn</span> </a>  <br />
@@ -118,7 +118,7 @@ B.A. with Highest Distinction, Indiana University Bloomington (2021) <br />
 Major: Chemistry <br />
 Minor: Mathematics <br />
 <i> Awards: </i> William G. Roessler Scholar (2020), Harry G. Day Scholar (2020) <br />
-Email: <a href = "mailto: krogmeier.t@wustl.edu">krogmeier.t@wustl.edu</a> <br /> 
+Email: <a href = "mailto: krogm033@umn.edu">krogm033@umn.edu</a> <br /> 
 Office: Jolley Hall 409 <br /> 
 <a href = "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=xv-CEXMAAAAJ"> <span style="color: #563fbaff;">Google Scholar</span> </a> <br />
             </p>
