@@ -20,7 +20,7 @@ Postdoctoral Research Associate, Harvard University (2019-2022)<br />
 Ph.D., University of Chicago (2019)<br />
 B.Sc., McGill University (2014)<br />
 Email: <a href = "mailto: khm@umn.edu">khm@umn.edu</a><br />
-Office: Jolley Hall 410 <br />
+Office: Smith Hall 213 <br />
 <a href = "https://scholar.google.com/citations?user=b-ICXpQAAAAJ&hl=en"> <span style="color: #563fbaff;">Google Scholar</span> </a> <br />
 <a href = "https://www.linkedin.com/in/kheadmarsden/"> <span style="color: #563fbaff;">LinkedIn</span> </a>  <br />
 <a href = "https://www.researchgate.net/profile/Kade-Head-Marsden"> <span style="color: #563fbaff;">Research Gate</span> </a> 
@@ -46,7 +46,7 @@ Postdoctoral Research Associate,  Los Alamos National Lab (2019-2021)<br />
 Ph.D., University of Chicago (2018)<br />
 B.A., Creighton University (2012)<br />
 Email: <a href = "mailto: aws@umn.edu">aws@umn.edu</a> <br />
-Office: Jolley Hall 403<br /> 
+Office: Smith Hall 218 <br /> 
 <a href = "https://scholar.google.com/citations?user=FNTA_00AAAAJ&hl=en&oi=sra"> <span style="color: #563fbaff;">Google Scholar</span> </a> <br />
 <a href = "https://www.linkedin.com/in/anthony-schlimgen-477649152/"> <span style="color: #563fbaff;">LinkedIn</span> </a>  
             </p>
@@ -72,7 +72,6 @@ Ph.D., Washington University in St. Louis (2023)<br />
 M.Sc., Ferdowsi University of Mashhad (2017)<br />
 B.Sc., Ferdowsi University of Mashhad (2014)<br />
 Email: <a href = "mailto: abbas152@umn.edu">abbas152@umn.edu</a><br /> 
-Office: Jolley Hall 409 <br />
 <a href = "https://scholar.google.com/citations?user=9_eYHyEAAAAJ&hl=en"> <span style="color: #563fbaff;">Google Scholar</span> </a> <br />
 <a href = "https://www.linkedin.com/in/maryam-abbasi-qis/"> <span style="color: #563fbaff;">LinkedIn</span> </a>  <br />
             </p>
@@ -97,7 +96,7 @@ Office: Jolley Hall 409 <br />
 B.Sc., Bogazici University (2023) <br />
 Major: Physics <br />
 Email: <a href = "mailto: aydog005@umn.edu">aydog005@umn.edu</a> <br /> 
-Office: Jolley Hall 409 <br /> 
+Office: Kolthoff Hall 287 <br /> 
 <a href = "https://scholar.google.com/citations?user=2DVCq-UAAAAJ&hl=fr"> <span style="color: #563fbaff;">Google Scholar</span> </a> <br />
 <a href = "https://www.linkedin.com/in/koray-aydo%C4%9Fan-b23190141/"> <span style="color: #563fbaff;">LinkedIn</span> </a>  <br />
             </p>
@@ -119,7 +118,7 @@ Major: Chemistry <br />
 Minor: Mathematics <br />
 <i> Awards: </i> William G. Roessler Scholar (2020), Harry G. Day Scholar (2020) <br />
 Email: <a href = "mailto: krogm033@umn.edu">krogm033@umn.edu</a> <br /> 
-Office: Jolley Hall 409 <br /> 
+Office: Kolthoff Hall 287 <br /> 
 <a href = "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=xv-CEXMAAAAJ"> <span style="color: #563fbaff;">Google Scholar</span> </a> <br />
             </p>
         </td>
@@ -160,7 +159,7 @@ More information about our graduate program and application process can be found
 <b>Whitney Short</b><br />
 <i>Chemistry Major; Writing and Anthropology, Global Health and Environment Minors</i><br />
 Email: short.w@wustl.edu<br />
-Office: Jolley Hall 409
+Office: Kolthoff Hall 287 
         </td>
     </tr>
 </table>
