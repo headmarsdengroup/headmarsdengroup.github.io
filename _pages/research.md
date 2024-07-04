@@ -9,8 +9,8 @@ feature_row:
     title: "Open quantum systems"
     excerpt: "We focus on classical method development for the treatment of open system dynamics in the Markovian and non-Markovian regimes. We also focus on algorithm development to model these dynamics using current Noisy-Intermediate scale quantum computers. 
     <br /><br /> **Selected Relevant Papers**<br />
-    <br />[DOI](https://arxiv.org/abs/2009.03902){: .btn .btn--primary}
-Unboxing quantum black box models: Learning non-Markovian dynamics
+    <br />[DOI](https://arxiv.org/abs/2406.05219){: .btn .btn--primary}
+Quantum Algorithms and Applications for Open Quantum Systems
     <br /> [DOI](https://doi.org/10.1103/PhysRevResearch.3.013182){: .btn .btn--primary}
 Capturing non-Markovian dynamics on near-term quantum computers
     <br /> [DOI](https://doi.org/10.1103/PhysRevA.99.022109){: .btn .btn--primary}
