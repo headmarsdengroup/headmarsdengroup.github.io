@@ -102,6 +102,25 @@ Office: Kolthoff Hall 287 <br />
             </p>
         </td>
     </tr>
+<tr>
+        <td>
+            <figure style="width: 250px" class="align-left">
+                <a href="/assets/images/MF.jpg">
+                <img src="/assets/images/MF.jpg" alt=""></a>
+            </figure>
+        </td>
+        <td>
+            <p>
+<b>Mikayla Fahrenbruch </b><br />
+<i>Summer Graduate Student</i><br />
+B.Sc., Boston College (2024) <br />
+Major: Mathematics and Chemistry <br />
+Email: <a href = "mailto: fahre063@umn.edu">fahre063@umn.edu</a> <br /> 
+Office: Kolthoff Hall 287 <br /> 
+<a href = "https://www.linkedin.com/in/mikayla-fahrenbruch-b79a88183/"> <span style="color: #563fbaff;">LinkedIn</span> </a>  <br />
+            </p>
+        </td>
+    </tr>
     <tr>
         <td>
             <figure style="width: 250px" class="align-left">
