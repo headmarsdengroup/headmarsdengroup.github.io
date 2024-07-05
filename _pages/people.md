@@ -115,7 +115,7 @@ Office: Kolthoff Hall 287 <br />
 <i>Summer Graduate Student</i><br />
 B.Sc. cum laude, Boston College (2024) <br />
 Major: Mathematics and Chemistry <br />
-<i> Awards: </i> ACS Undergraduate Award in Physical Chemistry (2024) <br />          
+Awards: ACS Undergraduate Award in Physical Chemistry (2024) <br />          
 Email: <a href = "mailto: fahre063@umn.edu">fahre063@umn.edu</a> <br /> 
 Office: Kolthoff Hall 287 <br /> 
 <a href = "https://www.linkedin.com/in/mikayla-fahrenbruch-b79a88183/"> <span style="color: #563fbaff;">LinkedIn</span> </a>  <br />
@@ -136,7 +136,7 @@ Office: Kolthoff Hall 287 <br />
 B.A. with Highest Distinction, Indiana University Bloomington (2021) <br />
 Major: Chemistry <br />
 Minor: Mathematics <br />
-<i> Awards: </i> William G. Roessler Scholar (2020), Harry G. Day Scholar (2020) <br />
+Awards: William G. Roessler Scholar (2020), Harry G. Day Scholar (2020) <br />
 Email: <a href = "mailto: krogm033@umn.edu">krogm033@umn.edu</a> <br /> 
 Office: Kolthoff Hall 287 <br /> 
 <a href = "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=xv-CEXMAAAAJ"> <span style="color: #563fbaff;">Google Scholar</span> </a> <br />
