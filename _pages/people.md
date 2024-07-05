@@ -113,8 +113,9 @@ Office: Kolthoff Hall 287 <br />
             <p>
 <b>Mikayla Fahrenbruch </b><br />
 <i>Summer Graduate Student</i><br />
-B.Sc., Boston College (2024) <br />
+B.Sc. cum laude, Boston College (2024) <br />
 Major: Mathematics and Chemistry <br />
+<i> Awards: </i> ACS Undergraduate Award in Physical Chemistry (2024) <br />          
 Email: <a href = "mailto: fahre063@umn.edu">fahre063@umn.edu</a> <br /> 
 Office: Kolthoff Hall 287 <br /> 
 <a href = "https://www.linkedin.com/in/mikayla-fahrenbruch-b79a88183/"> <span style="color: #563fbaff;">LinkedIn</span> </a>  <br />
