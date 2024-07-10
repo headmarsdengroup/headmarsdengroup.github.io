@@ -39,7 +39,7 @@ Office: Smith Hall 213 <br />
         </td>
         <td>
             <p>
-<b> Dr. Anthony Schlimgen </b><br />
+<b>Anthony Schlimgen </b><br />
 <i>Research Assistant Professor</i><br />
 Postdoctoral Research Associate,  University of Chicago (2021-2022)<br />
 Postdoctoral Research Associate,  Los Alamos National Lab (2019-2021)<br />
