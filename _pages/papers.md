@@ -12,7 +12,7 @@ layout: splash
  L.H. Delgado-Granados, T.J. Krogmeier, L.M. Sager-Smith, I. Avdic, Z. Hu, M. Sajjan, M. Abbasi, S.E. Smart, P. Narang, S. Kais, A.W. Schlimgen, K. Head-Marsden, D.A. Mazziotti, Quantum Algorithms and Applications for Open Quantum Systems  *arXiv:2406.05219* (2024).
 
 [DOI](https://pubs.acs.org/doi/10.1021/acsphyschemau.4c00018){: .btn .btn--primary}
-E.K. Oh, T.J. Krogmeier, A.W. Schlimgen, and K. Head-Marsden, Singular value decomposition algorithm for quantum biology *ACS Phys. Chem. Au*, **XX**, XXXX (2024).
+E.K. Oh, T.J. Krogmeier, A.W. Schlimgen, and K. Head-Marsden, Singular value decomposition algorithm for quantum biology *ACS Phys. Chem. Au*, **4**, 393-399 (2024).
 
 [DOI](https://doi.org/10.1063/5.0188066){: .btn .btn--primary}
 C.A. Hart, A.W. Schlimgen, D.B. Dao, K. Head-Marsden, and R. Mabbs, The overlooked role of excited anion states in NiO<sub>2</sub><sup>-</sup> photodetachment
