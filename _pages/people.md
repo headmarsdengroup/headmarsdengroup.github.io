@@ -154,7 +154,7 @@ Office: Kolthoff Hall 287 <br />
             <p>
 <b>JR Cruise </b><br />
 <i> <a href = "https://quantumleaps.wustl.edu/NRTlinq"> <span style="color: #563fbaff;">NRT</span> </a> Intern; Graduate Student in the <a href = "https://artsci.wustl.edu/faculty-staff/alexander-seidel"> <span style="color: #563fbaff;">Seidel Group</span> </a></i><br />
-Email: <a href = "mailto: krogmeier.t@wustl.edu">c.joseph@wustl.edu</a> <br /> 
+Email: <a href = "mailto: c.joseph@wustl.edu">c.joseph@wustl.edu</a> <br /> 
 Office: Jolley Hall 409 <br /> 
 <a href = "https://scholar.google.com/citations?user=qbbHlpkAAAAJ&hl=en"> <span style="color: #563fbaff;">Google Scholar</span> </a> <br />
             </p>
@@ -178,7 +178,7 @@ More information about our graduate program and application process can be found
         <td>
 <b>Whitney Short</b><br />
 <i>Chemistry Major; Writing and Anthropology, Global Health and Environment Minors</i><br />
-Email: short.w@wustl.edu<br />
+Email:  <a href = "mailto: short.w@wustl.edu">short.w@wustl.edu</a> <br /> 
 Office: Kolthoff Hall 287 
         </td>
     </tr>
