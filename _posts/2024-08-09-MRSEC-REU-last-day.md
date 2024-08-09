@@ -1,5 +1,5 @@
 ---
-title:  “Last day of summer MRSEC REU program“
+title:  Last day of summer MRSEC REU program
 author_profile: false
 ---
 
