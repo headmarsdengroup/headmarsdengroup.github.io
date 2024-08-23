@@ -8,8 +8,11 @@ layout: splash
 <br>
 
 # Head-Marsden Group Papers
+[DOI](https://arxiv.org/abs/2408.08768){: .btn .btn--primary}
+T.J. Krogmeier, A.W. Schlimgen, and K. Head-Marsden, Low temperature decoherence dynamics in molecular spin systems using the Lindblad master equation  *arXiv:2408.08768* (2024).
+ 
 [DOI](https://arxiv.org/abs/2406.05219){: .btn .btn--primary}
- L.H. Delgado-Granados, T.J. Krogmeier, L.M. Sager-Smith, I. Avdic, Z. Hu, M. Sajjan, M. Abbasi, S.E. Smart, P. Narang, S. Kais, A.W. Schlimgen, K. Head-Marsden, D.A. Mazziotti, Quantum Algorithms and Applications for Open Quantum Systems  *arXiv:2406.05219* (2024).
+ L.H. Delgado-Granados, T.J. Krogmeier, L.M. Sager-Smith, I. Avdic, Z. Hu, M. Sajjan, M. Abbasi, S.E. Smart, P. Narang, S. Kais, A.W. Schlimgen, K. Head-Marsden, and D.A. Mazziotti, Quantum Algorithms and Applications for Open Quantum Systems  *arXiv:2406.05219* (2024).
 
 [DOI](https://pubs.acs.org/doi/10.1021/acsphyschemau.4c00018){: .btn .btn--primary}
 E.K. Oh, T.J. Krogmeier, A.W. Schlimgen, and K. Head-Marsden, Singular value decomposition algorithm for quantum biology *ACS Phys. Chem. Au*, **4**, 393-399 (2024).
