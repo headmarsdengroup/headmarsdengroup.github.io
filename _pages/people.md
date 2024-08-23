@@ -91,7 +91,7 @@ Email: <a href = "mailto: abbas152@umn.edu">abbas152@umn.edu</a><br />
         </td>
         <td>
             <p>
-<b>Koray Aydo<&gbreve>an </b><br />
+<b>Koray Aydogan &gbreve </b><br />
 <i>Graduate Student</i><br />
 B.Sc., Bogazici University (2023) <br />
 Major: Physics <br />
