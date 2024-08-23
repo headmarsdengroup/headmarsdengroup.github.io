@@ -15,8 +15,6 @@ Low temperature decoherence dynamics in molecular spin systems using the Lindbla
 Quantum Algorithms and Applications for Open Quantum Systems
     <br /> [DOI](https://doi.org/10.1103/PhysRevResearch.3.013182){: .btn .btn--primary}
 Capturing non-Markovian dynamics on near-term quantum computers
-    <br /> [DOI](https://doi.org/10.1103/PhysRevA.99.022109){: .btn .btn--primary}
-Ensemble of Lindblad's trajectories for non-Markovian dynamics
     "
   - image_path: /assets/images/KHM_estruc.png
     alt: "placeholder image 2"
