@@ -134,7 +134,6 @@ Email: <a href = "mailto: fahre063@umn.edu">fahre063@umn.edu</a> <br />
 B.A. with Highest Distinction, Indiana University Bloomington (2021) <br />
 Major: Chemistry <br />
 Minor: Mathematics <br />
-Awards: William G. Roessler Scholar (2020), Harry G. Day Scholar (2020) <br />
 Email: <a href = "mailto: krogm033@umn.edu">krogm033@umn.edu</a> <br /> 
 <a href = "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=xv-CEXMAAAAJ"> <span style="color: #563fbaff;">Google Scholar</span> </a> <br />
             </p>
