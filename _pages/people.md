@@ -96,7 +96,6 @@ Email: <a href = "mailto: abbas152@umn.edu">abbas152@umn.edu</a><br />
 B.Sc., Bogazici University (2023) <br />
 Major: Physics <br />
 Email: <a href = "mailto: aydog005@umn.edu">aydog005@umn.edu</a> <br /> 
-Office: Kolthoff Hall 287 <br /> 
 <a href = "https://scholar.google.com/citations?user=2DVCq-UAAAAJ&hl=fr"> <span style="color: #563fbaff;">Google Scholar</span> </a> <br />
 <a href = "https://www.linkedin.com/in/koray-aydo%C4%9Fan-b23190141/"> <span style="color: #563fbaff;">LinkedIn</span> </a>  <br />
             </p>
@@ -117,7 +116,6 @@ B.Sc. cum laude, Boston College (2024) <br />
 Major: Mathematics and Chemistry <br />
 Awards: ACS Undergraduate Award in Physical Chemistry (2024) <br />          
 Email: <a href = "mailto: fahre063@umn.edu">fahre063@umn.edu</a> <br /> 
-Office: Kolthoff Hall 287 <br /> 
 <a href = "https://www.linkedin.com/in/mikayla-fahrenbruch-b79a88183/"> <span style="color: #563fbaff;">LinkedIn</span> </a>  <br />
             </p>
         </td>
@@ -138,7 +136,6 @@ Major: Chemistry <br />
 Minor: Mathematics <br />
 Awards: William G. Roessler Scholar (2020), Harry G. Day Scholar (2020) <br />
 Email: <a href = "mailto: krogm033@umn.edu">krogm033@umn.edu</a> <br /> 
-Office: Kolthoff Hall 287 <br /> 
 <a href = "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=xv-CEXMAAAAJ"> <span style="color: #563fbaff;">Google Scholar</span> </a> <br />
             </p>
         </td>
@@ -155,7 +152,6 @@ Office: Kolthoff Hall 287 <br />
 <b>JR Cruise </b><br />
 <i> <a href = "https://quantumleaps.wustl.edu/NRTlinq"> <span style="color: #563fbaff;">NRT</span> </a> Intern; Graduate Student in the <a href = "https://artsci.wustl.edu/faculty-staff/alexander-seidel"> <span style="color: #563fbaff;">Seidel Group</span> </a></i><br />
 Email: <a href = "mailto: c.joseph@wustl.edu">c.joseph@wustl.edu</a> <br /> 
-Office: Jolley Hall 409 <br /> 
 <a href = "https://scholar.google.com/citations?user=qbbHlpkAAAAJ&hl=en"> <span style="color: #563fbaff;">Google Scholar</span> </a> <br />
             </p>
         </td>
@@ -179,7 +175,6 @@ More information about our graduate program and application process can be found
 <b>Whitney Short</b><br />
 <i>Chemistry Major; Writing and Anthropology, Global Health and Environment Minors</i><br />
 Email:  <a href = "mailto: short.w@wustl.edu">short.w@wustl.edu</a> <br /> 
-Office: Kolthoff Hall 287 
         </td>
     </tr>
 </table>
