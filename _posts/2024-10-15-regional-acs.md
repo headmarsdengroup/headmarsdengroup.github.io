@@ -9,4 +9,5 @@ Tim Krogmeier and Whitney Short attended the Midwest Regional ACS Meeting in Oma
 They also had time to meet with collaborator <a href="https://www.creighton.edu/campus-directory/parsons-bradley-f">Prof. Brad Parsons</a> and get a tour of his lab at Creighton University!
 
  <img src="/assets/images/Parsons-Lab-Visit-October-2024.jpg” alt="">  
+ 
 {: .text-justify}
