@@ -21,6 +21,8 @@ Capturing non-Markovian dynamics on near-term quantum computers
     title: "Electronic structure"
     excerpt: "We develop and apply electronic structure methods to treat strong correlation in metal complexes.
     <br /><br /> **Selected Relevant Papers**<br />
+    <br /> [DOI](https://doi.org/10.1063/5.0232316){: .btn .btn--primary}
+Orbital entanglement and the double d-shell effect in binary transition metal molecules  
     <br /> [DOI](https://doi.org/10.1063/5.0188066){: .btn .btn--primary}
 The overlooked role of excited anion states in NiO2− photodetachment
     <br /> [DOI](https://pubs.aip.org/aip/jcp/article/159/13/134305/2914200){: .btn .btn--primary}
