@@ -60,7 +60,7 @@ Contemporary problems in materials science and chemistry require theoretical and
 ## Collaborations
 
  <br /> [DOI](https://doi.org/10.1063/5.0188066){: .btn .btn--primary}
-The overlooked role of excited anion states in NiO2− photodetachment
+The overlooked role of excited anion states in NiO<sub>2</sub><sup>-</sup> photodetachment
  <br /> [DOI](https://pubs.aip.org/aip/jcp/article/159/13/134305/2914200){: .btn .btn--primary}
 Characterizing the origin band spectrum of isoquinoline with resonance enhanced multiphoton ionization and electronic structure calculations
 
