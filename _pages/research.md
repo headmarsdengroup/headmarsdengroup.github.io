@@ -23,10 +23,6 @@ Capturing non-Markovian dynamics on near-term quantum computers
     <br /><br /> **Selected Relevant Papers**<br />
     <br /> [DOI](https://doi.org/10.1063/5.0232316){: .btn .btn--primary}
 Orbital entanglement and the double d-shell effect in binary transition metal molecules  
-    <br /> [DOI](https://doi.org/10.1063/5.0188066){: .btn .btn--primary}
-The overlooked role of excited anion states in NiO2− photodetachment
-    <br /> [DOI](https://pubs.aip.org/aip/jcp/article/159/13/134305/2914200){: .btn .btn--primary}
-Characterizing the origin band spectrum of isoquinoline with resonance enhanced multiphoton ionization and electronic structure calculations
     <br /> [DOI](https://pubs.acs.org/doi/full/10.1021/acs.jpca.3c03827){: .btn .btn--primary}
 Characterizing Excited States of a Copper-Based Molecular Qubit Candidate with Correlated Electronic Structure Methods
     "
@@ -62,4 +58,10 @@ Contemporary problems in materials science and chemistry require theoretical and
 {% include feature_row %}
 
 ## Collaborations
+
+ <br /> [DOI](https://doi.org/10.1063/5.0188066){: .btn .btn--primary}
+The overlooked role of excited anion states in NiO2− photodetachment
+ <br /> [DOI](https://pubs.aip.org/aip/jcp/article/159/13/134305/2914200){: .btn .btn--primary}
+Characterizing the origin band spectrum of isoquinoline with resonance enhanced multiphoton ionization and electronic structure calculations
+
 
