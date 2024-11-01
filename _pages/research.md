@@ -22,7 +22,7 @@ Capturing non-Markovian dynamics on near-term quantum computers
     excerpt: "We develop and apply electronic structure methods to treat strong correlation in metal complexes.
     <br /><br /> **Selected Relevant Papers**<br />
     <br /> [DOI](https://doi.org/10.1063/5.0232316){: .btn .btn--primary}
-Orbital entanglement and the double d-shell effect in binary transition metal molecules  
+Orbital entanglement and the double *d*-shell effect in binary transition metal molecules  
     <br /> [DOI](https://pubs.acs.org/doi/full/10.1021/acs.jpca.3c03827){: .btn .btn--primary}
 Characterizing Excited States of a Copper-Based Molecular Qubit Candidate with Correlated Electronic Structure Methods
     "
