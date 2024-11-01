@@ -59,7 +59,7 @@ Contemporary problems in materials science and chemistry require theoretical and
 
 ## Collaborations
 
-<br /><br /> **Selected Relevant Papers**<br />
+<br />**Selected Relevant Papers**
 
  <br /> [DOI](https://doi.org/10.1063/5.0188066){: .btn .btn--primary}
 The overlooked role of excited anion states in NiO<sub>2</sub><sup>-</sup> photodetachment
