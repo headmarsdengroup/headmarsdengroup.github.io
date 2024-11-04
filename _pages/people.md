@@ -228,7 +228,8 @@ Email:  <a href = "mailto: short.w@wustl.edu">short.w@wustl.edu</a> <br />
 
 ## Previous Group Photos
 
- 
+<b> December 2023 </b>
+<img src="/assets/images/HMG-December-2023.JPG" alt="">
 
 
 
