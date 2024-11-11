@@ -9,7 +9,7 @@ feature_row:
     title: "Open quantum systems"
     excerpt: "We focus on classical method development for the treatment of open system dynamics in the Markovian and non-Markovian regimes. We also focus on algorithm development to model these dynamics using current Noisy-Intermediate scale quantum computers. 
     <br /><br /> **Selected Relevant Papers**<br />
-    <br />[DOI](https://arxiv.org/abs/2408.08768){: .btn .btn--primary}
+    <br />[DOI](https://pubs.rsc.org/en/journals/journalissues/sc#!recentarticles&adv){: .btn .btn--primary}
 Low temperature decoherence dynamics in molecular spin systems using the Lindblad master equation
     <br />[DOI](https://arxiv.org/abs/2406.05219){: .btn .btn--primary}
 Quantum Algorithms and Applications for Open Quantum Systems
