@@ -1,5 +1,5 @@
 ---
-title: New paper out in the Chemical Science!
+title: New paper out in Chemical Science!
 author_profile: false
 ---
 <img src="/assets/images/chemsci-social-media.jpg" alt=""> 
