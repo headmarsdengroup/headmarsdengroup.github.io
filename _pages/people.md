@@ -101,7 +101,6 @@ Email: <a href = "mailto: and11099@umn.edu">and11099@umn.edu</a> <br />
         </td>
     </tr>
 <tr>
-<tr>
         <td>
             <figure style="width: 250px" class="align-left">
                 <a href="/assets/images/KA.jpg">
