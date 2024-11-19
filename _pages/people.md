@@ -82,7 +82,7 @@ Email: <a href = "mailto: abbas152@umn.edu">abbas152@umn.edu</a><br />
 ## Grad Students
 
 <table>
-<tr>
+    <tr>
         <td>
             <figure style="width: 250px" class="align-left">
                 <a href="/assets/images/WA.jpeg">
