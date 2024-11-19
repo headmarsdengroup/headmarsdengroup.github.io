@@ -93,7 +93,7 @@ Email: <a href = "mailto: abbas152@umn.edu">abbas152@umn.edu</a><br />
             <p>
 <b>William Anderson </b><br />
 <i>Graduate Student</i><br />
-B.Sc. *cum laude*, University of Central Arkansas (2024) <br />
+B.Sc. <i>cum laude</i>, University of Central Arkansas (2024) <br />
 Major: Chemistry <br />
 Minor: Mathematics <br />
 Email: <a href = "mailto: and11099@umn.edu">and11099@umn.edu</a> <br /> 
@@ -131,7 +131,7 @@ Email: <a href = "mailto: aydog005@umn.edu">aydog005@umn.edu</a> <br />
             <p>
 <b>Mikayla Fahrenbruch </b><br />
 <i>Graduate Student</i><br />
-B.Sc. *cum laude*, Boston College (2024) <br />
+B.Sc. <i>cum laude</i>, Boston College (2024) <br />
 Major: Mathematics and Chemistry <br />
 Awards: ACS Undergraduate Award in Physical Chemistry (2024) <br />          
 Email: <a href = "mailto: fahre063@umn.edu">fahre063@umn.edu</a> <br /> 
