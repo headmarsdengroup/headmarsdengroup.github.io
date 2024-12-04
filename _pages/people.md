@@ -200,12 +200,6 @@ More information about our graduate program and application process can be found
                 <img src="/assets/images/WS.jpg" alt=""></a>
             </figure>
         </td>
-        <td>
-<b>Whitney Short</b><br />
-<i>Chemistry Major; Writing and Anthropology, Global Health and Environment Minors</i><br />
-Email:  <a href = "mailto: short.w@wustl.edu">short.w@wustl.edu</a> <br /> 
-        </td>
-    </tr>
 </table>
 
 ## Alumni
