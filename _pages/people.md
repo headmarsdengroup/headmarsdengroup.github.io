@@ -184,6 +184,18 @@ More information about our graduate program and application process can be found
     <tr>
         <td>
             <figure style="width: 250px" class="align-left">
+                <a href="/assets/images/CH.jpeg">
+                <img src="/assets/images/CH.jpeg" alt=""></a>
+            </figure>
+        </td>
+        <td>
+<b>Caitlyn Holl</b><br />
+<i>Undergraduate extern from Carleton College</i><br />
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <figure style="width: 250px" class="align-left">
                 <a href="/assets/images/WS.jpg">
                 <img src="/assets/images/WS.jpg" alt=""></a>
             </figure>
