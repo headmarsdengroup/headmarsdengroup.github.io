@@ -212,6 +212,13 @@ Email:  <a href = "mailto: short.w@wustl.edu">short.w@wustl.edu</a> <br />
 
 
 <table>
+     <tr>
+        <td>
+            <p>
+<b> Dr. Yangyang Guo, </b> <i>Postdoctoral Research Associate</i><br />
+            </p>
+        </td>
+    </tr>
     <tr>
         <td>
             <p>
@@ -240,10 +247,10 @@ Email:  <a href = "mailto: short.w@wustl.edu">short.w@wustl.edu</a> <br />
             </p>
         </td>
     </tr>
-    <tr>
+<tr>
         <td>
             <p>
-<b> Dr. Yangyang Guo, </b> <i>Postdoctoral Research Associate</i><br />
+<b> Whitney Short, </b> <i>Undergraduate Researcher, currently a senior at Washington University in St. Louis </i><br />
             </p>
         </td>
     </tr>
