@@ -193,13 +193,6 @@ More information about our graduate program and application process can be found
 <i>Undergraduate extern from Carleton College</i><br />
         </td>
     </tr>
-    <tr>
-        <td>
-            <figure style="width: 250px" class="align-left">
-                <a href="/assets/images/WS.jpg">
-                <img src="/assets/images/WS.jpg" alt=""></a>
-            </figure>
-        </td>
 </table>
 
 ## Alumni
