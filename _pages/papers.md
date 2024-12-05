@@ -13,7 +13,7 @@ layout: splash
  L.H. Delgado-Granados, T.J. Krogmeier, L.M. Sager-Smith, I. Avdic, Z. Hu, M. Sajjan, M. Abbasi, S.E. Smart, P. Narang, S. Kais, A.W. Schlimgen, K. Head-Marsden, and D.A. Mazziotti, Quantum Algorithms and Applications for Open Quantum Systems  *arXiv:2406.05219* (2024).
 
 [DOI](https://pubs.rsc.org/en/Content/ArticleLanding/2024/SC/D4SC05627B){: .btn .btn--primary}
-T.J. Krogmeier, A.W. Schlimgen, and K. Head-Marsden, Low temperature decoherence dynamics in molecular spin systems using the Lindblad master equation  *Chem. Sci.* (Accepted 2024).
+T.J. Krogmeier, A.W. Schlimgen, and K. Head-Marsden, Low temperature decoherence dynamics in molecular spin systems using the Lindblad master equation  *Chem. Sci.*, **15**, 19834-19841 (2024).
 
 [DOI](https://doi.org/10.1063/5.0232316){: .btn .btn--primary}
 J.S. Lampert, T.J. Krogmeier, A.W. Schlimgen, and K. Head-Marsden, Orbital entanglement and the double *d*-shell effect in binary transition metal molecules  *J. Chem. Phys.*, **161 (17)**, 174103 (2024).
