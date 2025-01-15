@@ -181,18 +181,6 @@ More information about our graduate program and application process can be found
 ## Undergraduates
 
 <table>
-    <tr>
-        <td>
-            <figure style="width: 250px" class="align-left">
-                <a href="/assets/images/CH.jpeg">
-                <img src="/assets/images/CH.jpeg" alt=""></a>
-            </figure>
-        </td>
-        <td>
-<b>Caitlyn Holl</b><br />
-<i>Undergraduate extern from Carleton College</i><br />
-        </td>
-    </tr>
 </table>
 
 ## Alumni
@@ -203,6 +191,13 @@ More information about our graduate program and application process can be found
         <td>
             <p>
 <b> Dr. Yangyang Guo, </b> <i>Postdoctoral Research Associate</i><br />
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p>
+<b> Caitlyn Holl, </b> <i>Undergraduate extern, currently a first year at Carleton College</i><br />
             </p>
         </td>
     </tr>
