@@ -157,13 +157,6 @@ Email: <a href = "mailto: krogm033@umn.edu">krogm033@umn.edu</a> <br />
             </p>
         </td>
     </tr>
-<tr>
-        <td>
-            <figure style="width: 250px" class="align-left">
-                <a href="/assets/images/JRC.jpg">
-                <img src="/assets/images/JRC.jpg" alt=""></a>
-            </figure>
-        </td>
 </table>
 
 More information about our graduate program and application process can be found <a href="https://cse.umn.edu/chem/application">here</a>. 
