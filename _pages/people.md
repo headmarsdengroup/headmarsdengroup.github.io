@@ -164,15 +164,6 @@ Email: <a href = "mailto: krogm033@umn.edu">krogm033@umn.edu</a> <br />
                 <img src="/assets/images/JRC.jpg" alt=""></a>
             </figure>
         </td>
-        <td>
-            <p>
-<b>JR Cruise </b><br />
-<i> <a href = "https://quantumleaps.wustl.edu/NRTlinq"> <span style="color: #563fbaff;">NRT</span> </a> Intern; Graduate Student in the <a href = "https://artsci.wustl.edu/faculty-staff/alexander-seidel"> <span style="color: #563fbaff;">Seidel Group</span> </a></i><br />
-Email: <a href = "mailto: c.joseph@wustl.edu">c.joseph@wustl.edu</a> <br /> 
-<a href = "https://scholar.google.com/citations?user=qbbHlpkAAAAJ&hl=en"> <span style="color: #563fbaff;">Google Scholar</span> </a> <br />
-            </p>
-        </td>
-    </tr>
 </table>
 
 More information about our graduate program and application process can be found <a href="https://cse.umn.edu/chem/application">here</a>. 
@@ -187,6 +178,13 @@ More information about our graduate program and application process can be found
 
 
 <table>
+    <tr>
+        <td>
+            <p>
+<b> J.R. Cruise, </b> <i>NSF NRT Intern, currently a graduate student in the <a href = "https://artsci.wustl.edu/faculty-staff/alexander-seidel"> <span style="color: #563fbaff;">Seidel Group</span> </a></i><br />
+            </p>
+        </td>
+    </tr>
      <tr>
         <td>
             <p>
