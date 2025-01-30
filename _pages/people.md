@@ -209,14 +209,14 @@ More information about our graduate program and application process can be found
     <tr>
         <td>
             <p>
-<b> Daniel Palomo, </b> <i>Undergraduate Researcher, currently a junior at Washington University in St. Louis </i><br />
+<b> Emily Oh, </b> <i>Undergraduate Researcher, currently a senior at Washington University in St. Louis </i><br />
             </p>
         </td>
     </tr>
     <tr>
         <td>
             <p>
-<b> Emily Oh, </b> <i>Undergraduate Researcher, currently a senior at Washington University in St. Louis </i><br />
+<b> Daniel Palomo, </b> <i>Undergraduate Researcher, currently a junior at Washington University in St. Louis </i><br />
             </p>
         </td>
     </tr>
