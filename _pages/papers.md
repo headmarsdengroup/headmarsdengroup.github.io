@@ -9,7 +9,7 @@ layout: splash
 
 # Head-Marsden Group Papers
  
-[DOI](https://arxiv.org/abs/2406.05219){: .btn .btn--primary}
+[DOI](https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00428){: .btn .btn--primary}
  L.H. Delgado-Granados, T.J. Krogmeier, L.M. Sager-Smith, I. Avdic, Z. Hu, M. Sajjan, M. Abbasi, S.E. Smart, P. Narang, S. Kais, A.W. Schlimgen, K. Head-Marsden, and D.A. Mazziotti, Quantum Algorithms and Applications for Open Quantum Systems  *Chem. Rev.* accepted (2025).
 
 [DOI](https://pubs.rsc.org/en/Content/ArticleLanding/2024/SC/D4SC05627B){: .btn .btn--primary}
