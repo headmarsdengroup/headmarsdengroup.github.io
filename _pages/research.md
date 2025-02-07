@@ -31,12 +31,12 @@ Characterizing Excited States of a Copper-Based Molecular Qubit Candidate with C
     title: "Quantum information"
     excerpt: "We focus on using current quantum computers to consider non-unitary quantum processes, and conversely we apply open quantum system methods to better model quantum hardware.
     <br /><br /> **Selected Relevant Papers**<br />
+     <br /> [DOI](https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00428){: .btn .btn--primary}
+ Quantum Algorithms and Applications for Open Quantum Systems
      <br /> [DOI](https://doi.org/10.1021/acsphyschemau.4c00018){: .btn .btn--primary}
  Singular value decomposition quantum algorithm for quantum biology
     <br /> [DOI](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.106.022414){: .btn .btn--primary}
  Quantum state preparation and non-unitary evolution with diagonal operators
-    <br /> [DOI](https://doi.org/10.1103/PhysRevLett.127.270503){: .btn .btn--primary}
-Quantum simulation of open quantum systems using a unitary decomposition of operators
     "
 ---
 
