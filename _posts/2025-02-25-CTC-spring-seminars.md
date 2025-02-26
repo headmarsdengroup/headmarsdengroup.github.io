@@ -1,5 +1,5 @@
 ---
-title:  “Chemical Theory Center Spring Seminar Series Series”
+title:  Chemical Theory Center Spring Seminar Series Series
 author_profile: false
 ---
  
