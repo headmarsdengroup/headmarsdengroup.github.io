@@ -10,7 +10,7 @@ layout: splash
 # Head-Marsden Group Papers
  
 [DOI](https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00428){: .btn .btn--primary}
- L.H. Delgado-Granados, T.J. Krogmeier, L.M. Sager-Smith, I. Avdic, Z. Hu, M. Sajjan, M. Abbasi, S.E. Smart, P. Narang, S. Kais, A.W. Schlimgen, K. Head-Marsden, and D.A. Mazziotti, Quantum Algorithms and Applications for Open Quantum Systems  *Chem. Rev.* accepted (2025).
+ L.H. Delgado-Granados, T.J. Krogmeier, L.M. Sager-Smith, I. Avdic, Z. Hu, M. Sajjan, M. Abbasi, S.E. Smart, P. Narang, S. Kais, A.W. Schlimgen, K. Head-Marsden, and D.A. Mazziotti, Quantum Algorithms and Applications for Open Quantum Systems  *Chem. Rev.*, **125 (4)**, 1823-1839 (2025).
 
 [DOI](https://pubs.rsc.org/en/Content/ArticleLanding/2024/SC/D4SC05627B){: .btn .btn--primary}
 T.J. Krogmeier, A.W. Schlimgen, and K. Head-Marsden, Low temperature decoherence dynamics in molecular spin systems using the Lindblad master equation  *Chem. Sci.*, **15**, 19834-19841 (2024).
