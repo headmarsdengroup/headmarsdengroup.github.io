@@ -10,7 +10,7 @@ layout: splash
 # Head-Marsden Group Papers
 
 [DOI](https://arxiv.org/abs/2503.09847){: .btn .btn--primary}
-Koray Aydoğan, A.W. Schlimgen, and K. Head-Marsden, Stabilizing steady-state properties of open quantum systems with parameter engineering   *arXiv:2503.09847*, (2025).
+K. Aydoğan, A.W. Schlimgen, and K. Head-Marsden, Stabilizing steady-state properties of open quantum systems with parameter engineering   *arXiv:2503.09847*, (2025).
  
 [DOI](https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00428){: .btn .btn--primary}
  L.H. Delgado-Granados, T.J. Krogmeier, L.M. Sager-Smith, I. Avdic, Z. Hu, M. Sajjan, M. Abbasi, S.E. Smart, P. Narang, S. Kais, A.W. Schlimgen, K. Head-Marsden, and D.A. Mazziotti, Quantum Algorithms and Applications for Open Quantum Systems  *Chem. Rev.*, **125 (4)**, 1823-1839 (2025).
