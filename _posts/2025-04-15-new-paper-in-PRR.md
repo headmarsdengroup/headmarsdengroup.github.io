@@ -1,5 +1,5 @@
 ---
-title:  "New paper out in the Physical Review Research!”
+title: New Paper out in Physical Review Research!
 author_profile: false
 ---
 
