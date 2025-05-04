@@ -54,30 +54,6 @@ Office: Smith Hall 218 <br />
     </tr>
 </table>
 
-## Postdocs
-
-<table>
-        <tr>
-        <td>
-            <figure style="width: 250px" class="align-left">
-                <a href="/assets/images/MA.png">
-                <img src="/assets/images/MA.png" alt=""></a>
-            </figure>
-        </td>
-        <td>
-            <p>
-<b> Dr. Maryam Abbasi </b><br />
-<i>Postdoctoral Research Associate</i><br />
-Ph.D., Washington University in St. Louis (2023)<br />
-M.Sc., Ferdowsi University of Mashhad (2017)<br />
-B.Sc., Ferdowsi University of Mashhad (2014)<br />
-Email: <a href = "mailto: abbas152@umn.edu">abbas152@umn.edu</a><br /> 
-<a href = "https://scholar.google.com/citations?user=9_eYHyEAAAAJ&hl=en"> <span style="color: #563fbaff;">Google Scholar</span> </a> <br />
-<a href = "https://www.linkedin.com/in/maryam-abbasi-qis/"> <span style="color: #563fbaff;">LinkedIn</span> </a>  <br />
-            </p>
-        </td>
-    </tr>
-</table>
 
 ## Grad Students
 
@@ -171,6 +147,13 @@ More information about our graduate program and application process can be found
 
 
 <table>
+<tr>
+        <td>
+            <p>
+<b> Dr. Maryam Abbasi, </b> <i> Postdoctoral Research Associate </i><br />
+            </p>
+        </td>
+    </tr>
     <tr>
         <td>
             <p>
