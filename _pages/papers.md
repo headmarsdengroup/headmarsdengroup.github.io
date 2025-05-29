@@ -39,6 +39,10 @@ A.W. Schlimgen, Y. Guo, and K. Head-Marsden, Characterizing excited states of a 
 
 ## Prior to 2022
 
+[DOI](https://doi.org/10.1016/j.physleta.2025.130649){: .btn .btn--primary}
+S. Tserkis, K. Head-Marsden, and P. Narang, Information back-flow in quantum non-Markovian dynamics and its connection to teleportation
+*Physics Letters A*, **553**, 130649 (2025).
+
 [DOI](https://arxiv.org/abs/2207.07112){: .btn .btn--primary}
 A.W. Schlimgen, K. Head-Marsden, L.M. Sager-Smith, P. Narang, and D.A. Mazziotti, Quantum Simulation of Open Quantum Systems Using Density-Matrix Purification
 *arXiv:2207.07112* (2022).
