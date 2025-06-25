@@ -14,6 +14,17 @@ Katherine Coffin from Kenyon College and Anna Spak from the University of Roches
   </div>
 </div> 
 
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+} 
 
 Welcome to the group Katherine and Anna!
 
