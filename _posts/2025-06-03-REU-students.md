@@ -7,8 +7,6 @@ Katherine Coffin from Kenyon College and Anna Spak from the University of Roches
 
 <figure>
     <img src="/assets/images/Coffin-2025.jpeg" alt="" height="200" width="200">
-</figure>
-<figure>
     <img src="/assets/images/Spak-2025.png" alt="" height="200" width="200">
 </figure 
 
