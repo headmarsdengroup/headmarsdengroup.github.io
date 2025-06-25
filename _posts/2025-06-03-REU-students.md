@@ -1,5 +1,5 @@
 ---
-title:  “Two REU students join the group for the summer!“
+title:  Two REU students join the group for the summer!
 author_profile: false
 ---
  
