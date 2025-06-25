@@ -5,9 +5,14 @@ author_profile: false
  
 Katherine Coffin from Kenyon College and Anna Spak from the University of Rochester have joined the research group through UMN’s <a href = "https://mrsec.umn.edu/ehr/REU/">MRSEC </a> and <a href = "https://cse.umn.edu/chem/nsf-reulandocsp-program">Lando </a>  REU summer programs! 
 
- <img src="/assets/images/Coffin-2025.jpeg" alt="" style="display:inline-block;" height="200" width="200">
-
- <img src="/assets/images/Spak-2025.png" alt="" style="display:inline-block;" height="200" width="200">
+ <div class="row">
+  <div class="column">
+    <img src="/assets/images/Coffin-2025.jpeg" alt="" height="200" width="200">
+  </div>
+  <div class="column">
+    <img src="/assets/images/Spak-2025.png" alt="" height="200" width="200">
+  </div>
+</div> 
 
 
 Welcome to the group Katherine and Anna!
