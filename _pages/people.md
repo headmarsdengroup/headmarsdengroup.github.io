@@ -176,8 +176,8 @@ Major: Mathematics <br />
 <tr>
         <td>
             <figure style="width: 250px" class="align-left">
-                <a href="/assets/images/DZP-2025.jpeg">
-                <img src="/assets/images/DZP-2025.jpeg" alt=""></a>
+                <a href="/assets/images/DZJ-2025.jpeg">
+                <img src="/assets/images/DZJ-2025.jpeg" alt=""></a>
             </figure>
         </td>
 <td>
