@@ -173,6 +173,22 @@ Major: Mathematics <br />
             </p>
         </td>
     </tr>
+<tr>
+        <td>
+            <figure style="width: 250px" class="align-left">
+                <a href="/assets/images/DZP-2025.jpeg">
+                <img src="/assets/images/DZP-2025.jpeg" alt=""></a>
+            </figure>
+        </td>
+<td>
+            <p>
+<b>Dylan Zeilinger-Johnson </b><br />
+<i>Undergraduate Researcher</i><br />
+Undergraduate at the University of Minnesota <br />
+Major: Chemistry and Mathematics <br />
+            </p>
+        </td>
+    </tr>
 </table>
 
 ## Alumni
