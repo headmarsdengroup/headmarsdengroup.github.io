@@ -275,7 +275,8 @@ Major: Chemistry and Mathematics <br />
                 <a href="/assets/images/HMG-2024.jpg">
                 <img src="/assets/images/HMG-2024.jpg" alt=""></a>
     </figure>
-    
+<br />
+
 <b> December 2023 </b>
 
  <figure style="width: 750px" class="align-left">
