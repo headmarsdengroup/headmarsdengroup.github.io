@@ -269,18 +269,36 @@ Major: Chemistry and Mathematics <br />
 
 ## Previous Group Photos
 
-### October 2024
-<figure style="width: 500px" class="align-left">
-    <a href="/assets/images/HMG-2024.jpg">
-    <img src="/assets/images/HMG-2024.jpg" alt=""></a>
-</figure>
-    
-### December 2023
- <figure style="width: 500px" class="align-left">
-    <a href="/assets/images/HMG-December-2023.JPG">
-     <img src="/assets/images/HMG-December-2023.JPG" alt=""></a>
- </figure>
-       
+<table>
+    <tr>
+        <td>
+            <figure style="width: 500px" class="align-left">
+                <a href="/assets/images/HMG-2024.jpg">
+                <img src="/assets/images/HMG-2024.jpg" alt=""></a>
+            </figure>
+        </td>
+        <td>
+            <p>
+<b>October 2024</b><br />
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <figure style="width: 500px" class="align-left">
+                <a href="/assets/images/HMG-December-2023.JPG">
+                <img src="/assets/images/HMG-December-2023.JPG" alt=""></a>
+            </figure>
+        </td>
+        <td>
+            <p>
+<b>December 2023</b><br />
+            </p>
+        </td>
+    </tr>
+</table>
+
+
     
 
 
