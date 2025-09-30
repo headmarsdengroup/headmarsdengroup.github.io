@@ -141,38 +141,6 @@ More information about our graduate program and application process can be found
 ## Undergraduates
 
 <table>
-    <tr>
-        <td>
-            <figure style="width: 250px" class="align-left">
-                <a href="/assets/images/Coffin-2025.jpeg">
-                <img src="/assets/images/Coffin-2025.jpeg" alt=""></a>
-            </figure>
-        </td>
-        <td>
-            <p>
-<b>Katherine Coffin</b><br />
-<i>MRSEC REU Student</i><br />
-Undergraduate at Kenyon College <br />
-Major: Chemistry <br />
-            </p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <figure style="width: 250px" class="align-left">
-                <a href="/assets/images/Spak-2025.png">
-                <img src="/assets/images/Spak-2025.png" alt=""></a>
-            </figure>
-        </td>
-        <td>
-            <p>
-<b>Anna Spak</b><br />
-<i>Lando REU Student</i><br />
-Undergraduate at the University of Rochester <br />
-Major: Mathematics <br />
-            </p>
-        </td>
-    </tr>
 <tr>
         <td>
             <figure style="width: 250px" class="align-left">
@@ -195,6 +163,20 @@ Major: Chemistry and Mathematics <br />
 
 
 <table>
+<tr>
+        <td>
+            <p>
+<b> Katherine Coffin, </b> <i> MRSEC REU Student, currently a senior at Kenyon College </i><br />
+            </p>
+        </td>
+</tr>
+<tr>
+        <td>
+            <p>
+<b> Anna Spak, </b> <i> Lando REU Student, currently a senior at the University of Rochester </i><br />
+            </p>
+        </td>
+    </tr>
 <tr>
         <td>
             <p>
