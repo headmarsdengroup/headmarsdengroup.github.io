@@ -13,7 +13,8 @@ Below is the first newsletter of the academic year, highlighting the accomplishm
   .pdf-container {
     position: relative;
     width: 100%;
-    padding-top: 130%; /* Aspect ratio: adjust if too tall/short */
+    height: 0;
+    padding-top: 130%; /* Controls aspect ratio (higher = taller viewer) */
   }
   .pdf-container object {
     position: absolute;
@@ -25,7 +26,7 @@ Below is the first newsletter of the academic year, highlighting the accomplishm
   }
   @media (min-width: 768px) {
     .pdf-container {
-      padding-top: 80%; /* Less tall on bigger screens */
+      padding-top: 80%; /* Less tall on wider screens */
     }
   }
 </style>
@@ -41,4 +42,5 @@ Below is the first newsletter of the academic year, highlighting the accomplishm
 If you’re interested in receiving updates from the CTC, including seminar updates and monthly newsletters, contact Kade Head-Marsden at <a href="mailto:khm@umn.edu">khm@umn.edu</a> to be added to the email list. 
 
 {: .text-justify}
+
 
