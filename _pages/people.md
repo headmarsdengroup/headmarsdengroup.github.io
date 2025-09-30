@@ -166,25 +166,18 @@ Major: Chemistry and Mathematics <br />
 <tr>
         <td>
             <p>
+<b> Dr. Maryam Abbasi, </b> <i> Postdoctoral Research Associate </i><br />
+            </p>
+        </td>
+    </tr>
+<tr>
+        <td>
+            <p>
 <b> Katherine Coffin, </b> <i> MRSEC REU Student, currently a senior at Kenyon College </i><br />
             </p>
         </td>
 </tr>
 <tr>
-        <td>
-            <p>
-<b> Anna Spak, </b> <i> Lando REU Student, currently a senior at the University of Rochester </i><br />
-            </p>
-        </td>
-    </tr>
-<tr>
-        <td>
-            <p>
-<b> Dr. Maryam Abbasi, </b> <i> Postdoctoral Research Associate </i><br />
-            </p>
-        </td>
-    </tr>
-    <tr>
         <td>
             <p>
 <b> J.R. Cruise, </b> <i>NSF NRT Intern, currently a graduate student in the <a href = "https://artsci.wustl.edu/faculty-staff/alexander-seidel"> <span style="color: #563fbaff;">Seidel Group</span> </a></i><br />
@@ -236,7 +229,14 @@ Major: Chemistry and Mathematics <br />
 <tr>
         <td>
             <p>
-<b> Whitney Short, </b> <i>Undergraduate Researcher, currently a senior at Washington University in St. Louis </i><br />
+<b> Whitney Short, </b> <i>Undergraduate Researcher, currently a graduate student at the University of Chicago </i><br />
+            </p>
+        </td>
+    </tr>
+<tr>
+        <td>
+            <p>
+<b> Anna Spak, </b> <i> Lando REU Student, currently a senior at the University of Rochester </i><br />
             </p>
         </td>
     </tr>
