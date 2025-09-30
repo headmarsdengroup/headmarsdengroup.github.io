@@ -2,6 +2,7 @@
 title: Chemical Theory Center monthly newsletter
 author_profile: false
 ---
+```html 
 <head>
   <meta charset="UTF-8">
   <style>
@@ -25,7 +26,7 @@ author_profile: false
     }
   </style>
 </head>
-
+```
 
 September is our first month bringing back the monthly CTC newsletter! 
  
