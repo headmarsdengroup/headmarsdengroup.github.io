@@ -11,7 +11,7 @@ author_profile: false
       width: 100%;
       padding-top: 130%; /* Adjust for aspect ratio */
     }
-    .pdf-container iframe {
+    .pdf-container object {
       position: absolute;
       top: 0;
       left: 0;
