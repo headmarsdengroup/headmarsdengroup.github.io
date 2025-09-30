@@ -33,7 +33,7 @@ author_profile: false
 Below is the first newsletter of the academic year, highlighting the accomplishments of the students, postdocs, and faculty involved in UMN’s Chemical Theory Center in September.
 
 <div class="pdf-container">
- <object data="/assets/files/September-2025-CTC-Newsletter.pdf" type="application/pdf" width="100%" height="600px">
+ <object data="/assets/files/September-2025-CTC-Newsletter.pdf" type="application/pdf" width="100%">
      <p>Your browser does not support PDFs. 
         <a href="/assets/files/September-2025-CTC-Newsletter.pdf">Download the PDF</a>.</p>
  </object>
