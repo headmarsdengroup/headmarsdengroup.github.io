@@ -4,7 +4,6 @@ author_profile: false
 ---
 <head>
   <meta charset="UTF-8">
-  <title>Responsive PDF Viewer</title>
   <style>
     .pdf-container {
       position: relative;
