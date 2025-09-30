@@ -194,7 +194,7 @@ Major: Chemistry and Mathematics <br />
     <tr>
         <td>
             <p>
-<b> Caitlyn Holl, </b> <i>Undergraduate extern, currently a first year at Carleton College</i><br />
+<b> Caitlyn Holl, </b> <i>Undergraduate extern, currently a sophomore at Carleton College</i><br />
             </p>
         </td>
     </tr>
@@ -215,14 +215,14 @@ Major: Chemistry and Mathematics <br />
     <tr>
         <td>
             <p>
-<b> Emily Oh, </b> <i>Undergraduate Researcher, currently a senior at Washington University in St. Louis </i><br />
+<b> Emily Oh, </b> <i>Undergraduate Researcher, currently a Research Assistant at Endeavor Health</i><br />
             </p>
         </td>
     </tr>
     <tr>
         <td>
             <p>
-<b> Daniel Palomo, </b> <i>Undergraduate Researcher, currently a junior at Washington University in St. Louis </i><br />
+<b> Daniel Palomo, </b> <i>Undergraduate Researcher, currently a senior at Washington University in St. Louis </i><br />
             </p>
         </td>
     </tr>
@@ -243,7 +243,7 @@ Major: Chemistry and Mathematics <br />
 <tr>
         <td>
             <p>
-<b> Tyler White, </b> <i>Undergraduate Researcher, currently a junior at Washington University in St. Louis</i><br />
+<b> Tyler White, </b> <i>Undergraduate Researcher, currently a senior at Washington University in St. Louis</i><br />
             </p>
         </td>
     </tr>
