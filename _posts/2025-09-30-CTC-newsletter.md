@@ -1,3 +1,7 @@
+---
+title: Chemical Theory Center monthly newsletter
+author_profile: false
+---
 <head>
   <meta charset="UTF-8">
   <style>
@@ -22,11 +26,8 @@
   </style>
 </head>
 
----
-title: Chemical Theory Center monthly newsletter
-author_profile: false
----
- September is our first month bringing back the monthly CTC newsletter! 
+
+September is our first month bringing back the monthly CTC newsletter! 
  
  <img src="/assets/images/CTC-logo.jpg" alt="" style="width:400px;">
 
