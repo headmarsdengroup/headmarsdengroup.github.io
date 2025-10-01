@@ -5,7 +5,7 @@ author_profile: false
 
 September is our first month bringing back the monthly CTC newsletter! 
  
-<img src="/assets/images/CTC-logo.jpg" alt="" style="width:400px; display:block; margin: auto;"">
+<img src="/assets/images/CTC-logo.jpg" alt="" style="width:400px; display:block; margin: auto;">
 
 Below is the first newsletter of the academic year, highlighting the accomplishments of the students, postdocs, and faculty involved in UMN’s Chemical Theory Center in September.
 
