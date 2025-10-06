@@ -16,6 +16,7 @@ layout: splash
             <p>
 <b>Kade Head-Marsden </b><br />
 <i>Assistant Professor of Chemistry</i><br />
+<i>Director of the <a href = "https://cse.umn.edu/ctc"> <span style="color: #563fbaff;"> Chemical Theory Center</span> </a></i><br />
 Postdoctoral Research Associate, Harvard University (2019-2022)<br />
 Ph.D., University of Chicago (2019)<br />
 B.Sc., McGill University (2014)<br />
