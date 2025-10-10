@@ -1,5 +1,5 @@
 ---
-title: 2026 Quantum Winter School on Open Quantum Systems and Quantum Information in the Chemical Sciences 
+title: Quantum Winter School in January 2026
 author_profile: false
 ---
 
