@@ -105,7 +105,7 @@ Email: <a href = "mailto: aydog005@umn.edu">aydog005@umn.edu</a> <br />
         </td>
         <td>
             <p>
-<b>Ourou (James) Bradley </b><br />
+<b>James Bradley </b><br />
 <i>Graduate Student</i><br />
 B.A. <i>cum laude</i>, Macalester College (2025) <br />
 Major: Chemistry, Computer Science <br />
