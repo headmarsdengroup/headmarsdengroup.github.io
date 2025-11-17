@@ -162,7 +162,7 @@ Email: <a href = "mailto: krogm033@umn.edu">krogm033@umn.edu</a> <br />
         </td>
         <td>
             <p>
-<b>Ourou (James) Bradley </b><br />
+<b>Karnika Purohit </b><br />
 <i>Graduate Student</i><br />
 B.Sc. with High Distinction, University of Illinois Urbana-Champaign (2025) <br />
 Major: Chemistry <br />
