@@ -99,6 +99,25 @@ Email: <a href = "mailto: aydog005@umn.edu">aydog005@umn.edu</a> <br />
 <tr>
         <td>
             <figure style="width: 250px" class="align-left">
+                <a href="/assets/images/Bradley-2025.jpg">
+                <img src="/assets/images/Bradley-2025.jpg" alt=""></a>
+            </figure>
+        </td>
+        <td>
+            <p>
+<b>Ourou (James) Bradley </b><br />
+<i>Graduate Student</i><br />
+B.A. <i>cum laude</i>, Macalester College (2025) <br />
+Major: Chemistry, Computer Science <br />
+Minor: Mathematics <br />
+Email: <a href = "mailto: bradl571@umn.edu">bradl571@umn.edu</a> <br /> 
+<a href = "https://www.linkedin.com/in/james-bradley23/"> <span style="color: #563fbaff;">LinkedIn</span> </a>  <br />
+            </p>
+        </td>
+    </tr>
+<tr>
+        <td>
+            <figure style="width: 250px" class="align-left">
                 <a href="/assets/images/MF.jpg">
                 <img src="/assets/images/MF.jpg" alt=""></a>
             </figure>
@@ -131,6 +150,23 @@ Major: Chemistry <br />
 Minor: Mathematics <br />
 Email: <a href = "mailto: krogm033@umn.edu">krogm033@umn.edu</a> <br /> 
 <a href = "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=xv-CEXMAAAAJ"> <span style="color: #563fbaff;">Google Scholar</span> </a> <br />
+            </p>
+        </td>
+    </tr>
+<tr>
+        <td>
+            <figure style="width: 250px" class="align-left">
+                <a href="/assets/images/Purohit-2025.jpg">
+                <img src="/assets/images/Purohit-2025.jpg" alt=""></a>
+            </figure>
+        </td>
+        <td>
+            <p>
+<b>Ourou (James) Bradley </b><br />
+<i>Graduate Student</i><br />
+B.Sc. with High Distinction, University of Illinois Urbana-Champaign (2025) <br />
+Major: Chemistry <br />
+Email: <a href = "mailto: puroh031@umn.edu">puroh031@umn.edu</a> <br /> 
             </p>
         </td>
     </tr>
