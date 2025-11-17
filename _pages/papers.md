@@ -9,6 +9,12 @@ layout: splash
 
 # Head-Marsden Group Papers
 
+[DOI](https://arxiv.org/abs/2511.02160){: .btn .btn--primary}
+M.Z. Fahrenbruch, A.W. Schlimgen, and K. Head-Marsden, Preserving fermionic statistics for single-particle approximations in microscopic quantum master equations   *arXiv*, **2511.02160** (2025).
+
+[DOI](https://arxiv.org/abs/2507.08129){: .btn .btn--primary}
+M. Abbasi, K. Aydoğan, A.W. Schlimgen, and K. Head-Marsden, Quantum Simulation of Two-Level PT-Symmetric Systems Using Hermitian Hamiltonians   *arXiv*, **2507.08129** (2025).
+
 [DOI](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023057){: .btn .btn--primary}
 K. Aydoğan, A.W. Schlimgen, and K. Head-Marsden, Stabilizing steady-state properties of open quantum systems with parameter engineering   *Phys. Rev. Res.*, **7**, 023057 (2025).
  
