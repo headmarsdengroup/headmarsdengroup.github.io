@@ -9,7 +9,7 @@ layout: splash
 
 # Head-Marsden Group Papers
 [DOI](https://arxiv.org/abs/2601.09651){: .btn .btn--primary}
-T.J. Krogmeier, A.W. Schlimgen, and K. Head-Marsden, A perturbative non-Markovian treatment to low-temperature spin decoherence   *arXiv*, ** 2601.09651** (2026).
+T.J. Krogmeier, A.W. Schlimgen, and K. Head-Marsden, A perturbative non-Markovian treatment to low-temperature spin decoherence   *arXiv*, **2601.09651** (2026).
 
 [DOI](https://arxiv.org/abs/2601.07037){: .btn .btn--primary}
 K. Aydoğan, A.R. Spak and K. Head-Marsden, and A.W. Schlimgen, Subspace Selected Variational Quantum Configuration Interaction with a Partial Walsh Series   *arXiv*, **2601.07037** (2026).
