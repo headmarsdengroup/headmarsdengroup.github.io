@@ -8,12 +8,17 @@ layout: splash
 <br>
 
 # Head-Marsden Group Papers
+[DOI](https://arxiv.org/abs/2601.09651){: .btn .btn--primary}
+T.J. Krogmeier, A.W. Schlimgen, and K. Head-Marsden, A perturbative non-Markovian treatment to low-temperature spin decoherence   *arXiv*, ** 2601.09651** (2026).
+
+[DOI](https://arxiv.org/abs/2601.07037){: .btn .btn--primary}
+K. Aydoğan, A.R. Spak and K. Head-Marsden, and A.W. Schlimgen, Subspace Selected Variational Quantum Configuration Interaction with a Partial Walsh Series   *arXiv*, **2601.07037** (2026).
 
 [DOI](https://arxiv.org/abs/2511.02160){: .btn .btn--primary}
-M.Z. Fahrenbruch, A.W. Schlimgen, and K. Head-Marsden, Preserving fermionic statistics for single-particle approximations in microscopic quantum master equations   *arXiv*, **2511.02160** (2025).
+M.Z. Fahrenbruch, A.W. Schlimgen, and K. Head-Marsden, Preserving fermionic statistics for single-particle approximations in microscopic quantum master equations   *arXiv*, **2511.02160** (2026).
 
-[DOI](https://arxiv.org/abs/2507.08129){: .btn .btn--primary}
-M. Abbasi, K. Aydoğan, A.W. Schlimgen, and K. Head-Marsden, Quantum Simulation of Two-Level PT-Symmetric Systems Using Hermitian Hamiltonians   *arXiv*, **2507.08129** (2025).
+[DOI](https://doi.org/10.1103/gwbz-mbfw){: .btn .btn--primary}
+M. Abbasi, K. Aydoğan, A.W. Schlimgen, and K. Head-Marsden, Quantum Simulation of Two-Level PT-Symmetric Systems Using Hermitian Hamiltonians   *Phys. Rev. Res.*, **8**, 013034 (2026).
 
 [DOI](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023057){: .btn .btn--primary}
 K. Aydoğan, A.W. Schlimgen, and K. Head-Marsden, Stabilizing steady-state properties of open quantum systems with parameter engineering   *Phys. Rev. Res.*, **7**, 023057 (2025).
