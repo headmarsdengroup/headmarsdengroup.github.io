@@ -203,7 +203,7 @@ Major: Chemistry and Mathematics <br />
 <tr>
         <td>
             <p>
-<b> Dr. Maryam Abbasi, </b> <i> Postdoctoral Research Associate </i><br />
+<b> Dr. Maryam Abbasi, </b> <i> Postdoctoral Research Associate, currently a Senior Scientist at Q-CTRL </i><br />
             </p>
         </td>
     </tr>
