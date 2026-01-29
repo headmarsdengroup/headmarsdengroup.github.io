@@ -75,5 +75,9 @@ The overlooked role of excited anion states in NiO<sub>2</sub><sup>-</sup> photo
  <br /> [DOI](https://pubs.aip.org/aip/jcp/article/159/13/134305/2914200){: .btn .btn--primary}
 Characterizing the origin band spectrum of isoquinoline with resonance enhanced multiphoton ionization and electronic structure calculations
 
+## Funding
 
+We gratefully acknowledge funding from the following sources:
+
+<img src="/assets/images/ACS-PRF.jpg" style="display:inline-block; width:200px;"> <img src="/assets/images/UMN-M-maroon.jpg" style="display:inline-block; width:200px;">
 
