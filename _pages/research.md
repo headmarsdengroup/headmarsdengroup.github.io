@@ -41,8 +41,6 @@ Characterizing Excited States of a Copper-Based Molecular Qubit Candidate with C
  Quantum Algorithms and Applications for Open Quantum Systems
      <br /> [DOI](https://doi.org/10.1021/acsphyschemau.4c00018){: .btn .btn--primary}
  Singular value decomposition quantum algorithm for quantum biology
-    <br /> [DOI](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.106.022414){: .btn .btn--primary}
- Quantum state preparation and non-unitary evolution with diagonal operators
     "
 ---
 
