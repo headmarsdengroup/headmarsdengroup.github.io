@@ -9,12 +9,14 @@ feature_row:
     title: "Open quantum systems"
     excerpt: "We focus on classical method development for the treatment of open system dynamics in the Markovian and non-Markovian regimes. We also focus on algorithm development to model these dynamics using current Noisy-Intermediate scale quantum computers. 
     <br /><br /> **Selected Relevant Papers**<br />
+     <br />[DOI](https://arxiv.org/abs/2601.09651){: .btn .btn--primary}
+A perturbative non-Markovian treatment to low-temperature spin decoherence
+<br />[DOI](https://arxiv.org/abs/2511.02160){: .btn .btn--primary}
+Preserving fermionic statistics for single-particle approximations in microscopic quantum master equations
     <br />[DOI](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023057){: .btn .btn--primary}
 Stabilizing steady-state properties of open quantum systems with parameter engineering
     <br />[DOI](https://doi.org/10.1039/D4SC05627B){: .btn .btn--primary}
 Low temperature decoherence dynamics in molecular spin systems using the Lindblad master equation
-    <br />[DOI](https://pubs.acs.org/doi/full/10.1021/acs.chemrev.4c00428){: .btn .btn--primary}
-Quantum Algorithms and Applications for Open Quantum Systems
     "
   - image_path: /assets/images/KHM_estruc.png
     alt: "placeholder image 2"
@@ -31,6 +33,10 @@ Characterizing Excited States of a Copper-Based Molecular Qubit Candidate with C
     title: "Quantum information"
     excerpt: "We focus on using current quantum computers to consider non-unitary quantum processes, and conversely we apply open quantum system methods to better model quantum hardware.
     <br /><br /> **Selected Relevant Papers**<br />
+    <br /> [DOI](https://arxiv.org/abs/2601.07037){: .btn .btn--primary}
+ Subspace Selected Variational Quantum Configuration Interaction with a Partial Walsh Series
+<br /> [DOI](https://journals.aps.org/prresearch/abstract/10.1103/gwbz-mbfw){: .btn .btn--primary}
+ Quantum simulation of two-level PT-symmetric systems using Hermitian Hamiltonians
      <br /> [DOI](https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00428){: .btn .btn--primary}
  Quantum Algorithms and Applications for Open Quantum Systems
      <br /> [DOI](https://doi.org/10.1021/acsphyschemau.4c00018){: .btn .btn--primary}
