@@ -7,7 +7,7 @@ feature_row:
   - image_path: /assets/images/KHM_OQS.png
     alt: "placeholder image 2"
     title: "Open quantum systems"
-    excerpt: "We focus on classical method development for the treatment of open system dynamics in the Markovian and non-Markovian regimes. We also focus on algorithm development to model these dynamics using current Noisy-Intermediate scale quantum computers. 
+    excerpt: "We focus on classical method development for the treatment of open system dynamics in the Markovian and non-Markovian regimes, with a particular emphasis on predicting decoherence and stabilizing entangled steady states.
     <br /><br /> **Selected Relevant Papers**<br />
      <br />[DOI](https://arxiv.org/abs/2601.09651){: .btn .btn--primary}
 A perturbative non-Markovian treatment to low-temperature spin decoherence
