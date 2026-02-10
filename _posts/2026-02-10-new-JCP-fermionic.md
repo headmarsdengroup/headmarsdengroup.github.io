@@ -1,5 +1,5 @@
 ---
-title: New paper out in the Journal of Physical Chemistry!
+title: New paper out in the Journal of Chemical Physics!
 author_profile: false
 ---
 
