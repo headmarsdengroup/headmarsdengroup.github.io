@@ -14,6 +14,9 @@ T.J. Krogmeier, A.W. Schlimgen, and K. Head-Marsden, A perturbative non-Markovia
 [DOI](https://arxiv.org/abs/2601.07037){: .btn .btn--primary}
 K. Aydoğan, A.R. Spak and K. Head-Marsden, and A.W. Schlimgen, Subspace Selected Variational Quantum Configuration Interaction with a Partial Walsh Series   *arXiv*, **2601.07037** (2026).
 
+[DOI](https://pubs.rsc.org/en/content/articlelanding/2026/dd/d5dd00405e){: .btn .btn--primary}
+K. Aydoğan, M. Abbasi, W.J. Short, M.Z. Fahrenbruch, T.J. Krogmeier, A.W. Schlimgen, and K. Head-Marsden, Mapping Bloch-Redfield dynamics into a unitary gate-based quantum algorithm  *Digit. Discovery*, **Advanced Article** (2026).
+
 [DOI](https://pubs.aip.org/aip/jcp/article/164/6/064108/3379016/Preserving-fermionic-statistics-for-single){: .btn .btn--primary}
 M.Z. Fahrenbruch, A.W. Schlimgen, and K. Head-Marsden, Preserving fermionic statistics for single-particle approximations in microscopic quantum master equations *J. Chem. Phys.*, **164 (6)**, 064108 (2026).
 
