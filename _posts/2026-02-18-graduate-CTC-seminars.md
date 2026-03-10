@@ -1,5 +1,5 @@
 ---
-title: Graduate students Chemical Theory Center Seminars
+title: Graduate students' Chemical Theory Center Seminars
 author_profile: false
 ---
 
