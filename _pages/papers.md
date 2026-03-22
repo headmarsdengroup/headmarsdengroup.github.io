@@ -9,13 +9,13 @@ layout: splash
 
 # Head-Marsden Group Papers
 [DOI](https://arxiv.org/abs/2601.09651){: .btn .btn--primary}
-T.J. Krogmeier, A.W. Schlimgen, and K. Head-Marsden, A perturbative non-Markovian treatment to low-temperature spin decoherence   *arXiv*, **2601.09651** (2026).
+T.J. Krogmeier, A.W. Schlimgen, K. Head-Marsden, A perturbative non-Markovian treatment to low-temperature spin decoherence   *arXiv*, **2601.09651** (2026).
 
 [DOI](https://arxiv.org/abs/2601.07037){: .btn .btn--primary}
 K. Aydoğan, A.R. Spak and K. Head-Marsden, and A.W. Schlimgen, Subspace Selected Variational Quantum Configuration Interaction with a Partial Walsh Series   *arXiv*, **2601.07037** (2026).
 
 [DOI](https://pubs.rsc.org/en/content/articlelanding/2026/dd/d5dd00405e){: .btn .btn--primary}
-K. Aydoğan, M. Abbasi, W.J. Short, M.Z. Fahrenbruch, T.J. Krogmeier, A.W. Schlimgen, and K. Head-Marsden, Mapping Bloch-Redfield dynamics into a unitary gate-based quantum algorithm  *Digit. Discovery*, **Advanced Article** (2026).
+K. Aydoğan, M. Abbasi, W.J. Short, M.Z. Fahrenbruch, T.J. Krogmeier, A.W. Schlimgen, and K. Head-Marsden, Mapping Bloch-Redfield dynamics into a unitary gate-based quantum algorithm  *Digit. Discovery*, **5**, 1228-1236  (2026).
 
 [DOI](https://pubs.aip.org/aip/jcp/article/164/6/064108/3379016/Preserving-fermionic-statistics-for-single){: .btn .btn--primary}
 M.Z. Fahrenbruch, A.W. Schlimgen, and K. Head-Marsden, Preserving fermionic statistics for single-particle approximations in microscopic quantum master equations *J. Chem. Phys.*, **164 (6)**, 064108 (2026).
