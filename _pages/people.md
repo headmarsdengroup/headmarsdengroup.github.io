@@ -9,7 +9,7 @@ layout: splash
         <td>
             <figure style="width: 250px" class="align-left">
                 <a href="/assets/images/KHM.jpg">
-                <img src="/assets/images/KHM.jpg" alt=""></a>
+                <img src="/assets/images/KHM.jpg" alt="Kade Head-Marsden"></a>
             </figure>
         </td>
         <td>
@@ -35,7 +35,7 @@ Office: Smith Hall 213 <br />
         <td>
             <figure style="width: 250px" class="align-left">
                 <a href="/assets/images/AWS.jpeg">
-                <img src="/assets/images/AWS.jpeg" alt="" ></a>
+                <img src="/assets/images/AWS.jpeg" alt="Anthony Schlimgen" ></a>
             </figure>
         </td>
         <td>
@@ -63,7 +63,7 @@ Office: Smith Hall 218 <br />
         <td>
             <figure style="width: 250px" class="align-left">
                 <a href="/assets/images/WA.jpeg">
-                <img src="/assets/images/WA.jpeg" alt=""></a>
+                <img src="/assets/images/WA.jpeg" alt="William Anderson"></a>
             </figure>
         </td>
         <td>
@@ -81,7 +81,7 @@ Email: <a href = "mailto: and11099@umn.edu">and11099@umn.edu</a> <br />
         <td>
             <figure style="width: 250px" class="align-left">
                 <a href="/assets/images/KA.jpg">
-                <img src="/assets/images/KA.jpg" alt=""></a>
+                <img src="/assets/images/KA.jpg" alt="Koray Aydogan"></a>
             </figure>
         </td>
         <td>
@@ -100,7 +100,7 @@ Email: <a href = "mailto: aydog005@umn.edu">aydog005@umn.edu</a> <br />
         <td>
             <figure style="width: 250px" class="align-left">
                 <a href="/assets/images/Bradley-2025.jpg">
-                <img src="/assets/images/Bradley-2025.jpg" alt=""></a>
+                <img src="/assets/images/Bradley-2025.jpg" alt="James Bradley"></a>
             </figure>
         </td>
         <td>
@@ -119,7 +119,7 @@ Email: <a href = "mailto: bradl571@umn.edu">bradl571@umn.edu</a> <br />
         <td>
             <figure style="width: 250px" class="align-left">
                 <a href="/assets/images/MF.jpg">
-                <img src="/assets/images/MF.jpg" alt=""></a>
+                <img src="/assets/images/MF.jpg" alt="Mikayla Fahrenbruch"></a>
             </figure>
         </td>
         <td>
@@ -138,7 +138,7 @@ Email: <a href = "mailto: fahre063@umn.edu">fahre063@umn.edu</a> <br />
         <td>
             <figure style="width: 250px" class="align-left">
                 <a href="/assets/images/TK.jpeg">
-                <img src="/assets/images/TK.jpeg" alt=""></a>
+                <img src="/assets/images/TK.jpeg" alt="Timothy Krogmeier"></a>
             </figure>
         </td>
         <td>
@@ -157,7 +157,7 @@ Email: <a href = "mailto: krogm033@umn.edu">krogm033@umn.edu</a> <br />
         <td>
             <figure style="width: 250px" class="align-left">
                 <a href="/assets/images/Purohit-2025.jpg">
-                <img src="/assets/images/Purohit-2025.jpg" alt=""></a>
+                <img src="/assets/images/Purohit-2025.jpg" alt="Karnika Purohit"></a>
             </figure>
         </td>
         <td>
@@ -182,7 +182,7 @@ More information about our graduate program and application process can be found
         <td>
             <figure style="width: 250px" class="align-left">
                 <a href="/assets/images/DZJ-2025.jpeg">
-                <img src="/assets/images/DZJ-2025.jpeg" alt=""></a>
+                <img src="/assets/images/DZJ-2025.jpeg" alt="Dylan Zeilinger-Johnson"></a>
             </figure>
         </td>
 <td>
