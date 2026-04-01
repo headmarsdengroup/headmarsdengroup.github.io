@@ -7,6 +7,6 @@ Led by graduate student Koray Aydoğan, we have a  <a href="https://pubs.rsc.org
 out in Digital Discovery!  Here, we derived compact circuits to represent a microscopic master equation for temperature-dependent 
 dissipative dynamics in quantum algorithmic form, with demonstrations on IonQ’s Aria-1 device. 
 
- <img src="/assets/images/TOC-redfield-DD-2026.jpg" alt="">  
+ <img src="/assets/images/TOC-redfield-DD-2026.jpg" alt="TOC graphic for Digitial Discovery paper">  
 
 {: .text-justify}
