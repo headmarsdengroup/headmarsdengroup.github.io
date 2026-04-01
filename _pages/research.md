@@ -5,7 +5,7 @@ author_profile: false
 layout: splash
 feature_row:
   - image_path: /assets/images/KHM_OQS.png
-    alt: "placeholder image 2"
+    alt: "open system schematic"
     title: "Open quantum systems"
     excerpt: "We focus on classical method development for the treatment of open system dynamics in the Markovian and non-Markovian regimes, with a particular emphasis on predicting decoherence and stabilizing entangled steady states.
     <br /><br /> **Selected Relevant Papers**<br />
@@ -19,7 +19,7 @@ Stabilizing steady-state properties of open quantum systems with parameter engin
 Low temperature decoherence dynamics in molecular spin systems using the Lindblad master equation
     "
   - image_path: /assets/images/KHM_estruc.png
-    alt: "placeholder image 2"
+    alt: "molecular orbital schematic"
     title: "Electronic structure"
     excerpt: "We develop and apply electronic structure methods to treat strong correlation in metal complexes.
     <br /><br /> **Selected Relevant Papers**<br />
@@ -29,7 +29,7 @@ Orbital entanglement and the double *d*-shell effect in binary transition metal 
 Characterizing Excited States of a Copper-Based Molecular Qubit Candidate with Correlated Electronic Structure Methods
     "
   - image_path: /assets/images/KHM_QI.png
-    alt: "placeholder image 2"
+    alt: "Bloch sphere schematic"
     title: "Quantum information"
     excerpt: "We focus on using current quantum computers to consider non-unitary quantum processes, and conversely we apply open quantum system methods to better model quantum hardware.
     <br /><br /> **Selected Relevant Papers**<br />
