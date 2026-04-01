@@ -7,5 +7,5 @@ Graduate student Mikayla Fahrenbruch presented a poster at the Texas Quantum Win
 Information in the Chemical Sciences! She discussed her <a href="https://arxiv.org/abs/2511.02160">recent work</a> 
 focused on maintaining N-representable dynamics in 1-electron reduced density matrices using microscopic master equations.
 
- <img src="/assets/images/MZF-winter-school-2026.jpg" alt="">  
+ <img src="/assets/images/MZF-winter-school-2026.jpg" alt="Mikayla with poster at Texas Quantum Winter School">  
 {: .text-justify}
