@@ -9,9 +9,9 @@ feature_row:
     title: "Open quantum systems"
     excerpt: "We focus on classical method development for the treatment of open system dynamics in the Markovian and non-Markovian regimes, with a particular emphasis on predicting decoherence and stabilizing entangled steady states.
     <br /><br /> **Selected Relevant Papers**<br />
-     <br />[DOI](https://arxiv.org/abs/2601.09651){: .btn .btn--primary}
+     <br />[DOI](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.6c00125){: .btn .btn--primary}
 A perturbative non-Markovian treatment to low-temperature spin decoherence
-<br />[DOI](https://arxiv.org/abs/2511.02160){: .btn .btn--primary}
+<br />[DOI](https://pubs.aip.org/aip/jcp/article-abstract/164/6/064108/3379016/Preserving-fermionic-statistics-for-single?redirectedFrom=fulltext){: .btn .btn--primary}
 Preserving fermionic statistics for single-particle approximations in microscopic quantum master equations
     <br />[DOI](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.023057){: .btn .btn--primary}
 Stabilizing steady-state properties of open quantum systems with parameter engineering
