@@ -10,11 +10,14 @@ layout: splash
 # Head-Marsden Group Papers
 
 
+[DOI](https://arxiv.org/abs/2605.03177){: .btn .btn--primary}
+T.J. Krogmeier, J. Bradley, A.W. Schlimgen, and K. Head-Marsden SUnderstanding the effects of competing spin-pair dephasing pathways in molecular spins   *arXiv*, **2605.03177** (2026).
+
 [DOI](https://arxiv.org/abs/2601.07037){: .btn .btn--primary}
-K. Aydoğan, A.R. Spak and K. Head-Marsden, and A.W. Schlimgen, Subspace Selected Variational Quantum Configuration Interaction with a Partial Walsh Series   *arXiv*, **2601.07037** (2026).
+K. Aydoğan, A.R. Spak, K. Head-Marsden, and A.W. Schlimgen, Subspace Selected Variational Quantum Configuration Interaction with a Partial Walsh Series   *arXiv*, **2601.07037** (2026).
 
 [DOI](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.6c00125){: .btn .btn--primary}
-T.J. Krogmeier, A.W. Schlimgen, K. Head-Marsden, A perturbative non-Markovian treatment to low-temperature spin decoherence   *J. Phys. Chem. Lett.*, **ASAP Article** (2026).
+T.J. Krogmeier, A.W. Schlimgen, and K. Head-Marsden, A perturbative non-Markovian treatment to low-temperature spin decoherence   *J. Phys. Chem. Lett.*, **ASAP Article** (2026).
 
 [DOI](https://pubs.rsc.org/en/content/articlelanding/2026/dd/d5dd00405e){: .btn .btn--primary}
 K. Aydoğan, M. Abbasi, W.J. Short, M.Z. Fahrenbruch, T.J. Krogmeier, A.W. Schlimgen, and K. Head-Marsden, Mapping Bloch-Redfield dynamics into a unitary gate-based quantum algorithm  *Digit. Discovery*, **5**, 1228-1236  (2026).
