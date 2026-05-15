@@ -59,24 +59,6 @@ Office: Smith Hall 218 <br />
 ## Grad Students
 
 <table>
-    <tr>
-        <td>
-            <figure style="width: 250px" class="align-left">
-                <a href="/assets/images/WA.jpeg">
-                <img src="/assets/images/WA.jpeg" alt="William Anderson"></a>
-            </figure>
-        </td>
-        <td>
-            <p>
-<b>William Anderson </b><br />
-<i>Graduate Student</i><br />
-B.Sc. <i>cum laude</i>, University of Central Arkansas (2024) <br />
-Major: Chemistry <br />
-Minor: Mathematics <br />
-Email: <a href = "mailto: and11099@umn.edu">and11099@umn.edu</a> <br /> 
-            </p>
-        </td>
-    </tr>
 <tr>
         <td>
             <figure style="width: 250px" class="align-left">
