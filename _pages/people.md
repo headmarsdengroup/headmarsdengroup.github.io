@@ -163,38 +163,6 @@ More information about our graduate program and application process can be found
 <tr>
         <td>
             <figure style="width: 250px" class="align-left">
-                <a href="/assets/images/Berlin-REU-2026.jpg">
-                <img src="/assets/images/Berlin-REU-2026.jpg" alt="Ilana Berlin"></a>
-            </figure>
-        </td>
-<td>
-            <p>
-<b>Ilana Berlin </b><br />
-<i> MRSEC Undergraduate Summer Researcher</i><br />
-Undergraduate at Lake Forest College  <br />
-Major: Chemistry and Data Sciences <br />
-            </p>
-        </td>
-    </tr>
-<tr>
-        <td>
-            <figure style="width: 250px" class="align-left">
-                <a href="/assets/images/goldy.jpg">
-                <img src="/assets/images/goldy.jpg" alt="Goldy statue"></a>
-            </figure>
-        </td>
-<td>
-            <p>
-<b> Noah José Martell </b><br />
-<i> Lando Undergraduate Summer Researcher</i><br />
-Undergraduate at Iowa State University <br />
-Major: Chemistry and Applied Mathematics <br />
-            </p>
-        </td>
-    </tr>
-<tr>
-        <td>
-            <figure style="width: 250px" class="align-left">
                 <a href="/assets/images/DZJ-2025.jpeg">
                 <img src="/assets/images/DZJ-2025.jpeg" alt="Dylan Zeilinger-Johnson"></a>
             </figure>
@@ -221,6 +189,13 @@ Major: Chemistry and Mathematics <br />
             </p>
         </td>
     </tr>
+<tr>
+        <td>
+            <p>
+<b> Ilana Berlin, </b> <i> MRSEC REU Student, currently a senior at Lake Forest College </i><br />
+            </p>
+        </td>
+</tr>
 <tr>
         <td>
             <p>
@@ -263,6 +238,13 @@ Major: Chemistry and Mathematics <br />
             </p>
         </td>
     </tr>
+<tr>
+        <td>
+            <p>
+<b> Noah Martell, </b> <i> REU Student, currently a senior at Iowa State University </i><br />
+            </p>
+        </td>
+</tr>
     <tr>
         <td>
             <p>
