@@ -7,4 +7,4 @@ In collaboration with the <a href = "https://www.montoyacastillogroup.com/">Mont
 state-of-the-art theoretical chemistry methods for predicting static and dynamic properties of molecules for use in quantum information technologies, with a particular 
 emphasis on qubits and sensors. The overview is available on arXiv linked <a href="https://arxiv.org/abs/2608.13744">here</a>, happy reading!
 
-<img src="/assets/images/KA-flatiron-2026.jpg" alt = “Flatiron building”  style="display:inline-block; width:400px;"> 
+<img src="/assets/images/molecular-decoherence-book-chapter.jpg" alt = "cartoon molecule" style="display:inline-block; width:400px;">
