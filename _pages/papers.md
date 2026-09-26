@@ -13,8 +13,8 @@ layout: splash
 [DOI](https://arxiv.org/abs/2605.03177){: .btn .btn--primary}
 T.J. Krogmeier, J. Bradley, A.W. Schlimgen, and K. Head-Marsden, Understanding the effects of competing spin-pair dephasing pathways in molecular spins   *arXiv*, **2605.03177** (2026).
 
-[DOI](https://arxiv.org/abs/2601.07037){: .btn .btn--primary}
-K. Aydoğan, A.R. Spak, K. Head-Marsden, and A.W. Schlimgen, Subspace Selected Variational Quantum Configuration Interaction with a Partial Walsh Series   *arXiv*, **2601.07037** (2026).
+[DOI]([https://arxiv.org/abs/2605.03177](https://pubs.acs.org/jpccck/article-abstract/doi/10.1021/acs.jpcc.6c05014/5437982/Methyl-Viologen-Groups-Bound-to-Pseudo-Two?redirectedFrom=fulltext)){: .btn .btn--primary}
+H. M. Meyer, J. Chen, T.J. Krogmeier, A.W. Schlimgen, K. Head-Marsden, W.E. Buhro, and R. A. Loomis  Methyl Viologen Groups Bound to Pseudo-Two-Dimensional Cadmium Selenide Nanocrystals as X-Type Ligands Are More Effective Quenchers Than When Bound as L-Type Ligands *J. Phys. Chem. C*,  (2026).
 
 [DOI](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.6c00125){: .btn .btn--primary}
 T.J. Krogmeier, A.W. Schlimgen, and K. Head-Marsden, A perturbative non-Markovian treatment to low-temperature spin decoherence   *J. Phys. Chem. Lett.*, **17 (17)**, 4900–4905 (2026).
