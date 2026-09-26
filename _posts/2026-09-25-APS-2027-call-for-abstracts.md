@@ -9,5 +9,5 @@ with invited talks from both theoretical and experimental perspectives and a ful
 here, under 16.01.05</a>. If this aligns with your research, abstract submission is open until October 22nd and we’re looking to add more 
 excellent speakers to the symposium!
 
-<img src="/assets/images/APS-2027-abstract-submission.jpg" alt="APS session" style="display:inline-block; width:400px;">
+<img src="/assets/images/APS-2027-abstract-submission.jpg" alt="APS session" style="display:inline-block; width:600px;">
 {: .text-justify}
