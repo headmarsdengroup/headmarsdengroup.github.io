@@ -1,5 +1,5 @@
 ---
-title: Abstract call for molecular QIS at APS 2027!
+title: Call for abstracts on molecular QIS at APS 2027!
 author_profile: false
 ---
 
