@@ -1,5 +1,5 @@
 ---
-title: Makers, Measurers, and Modellers: How to Save a Qubit at APS 2027
+title: Makers, Measurers, and Modellers How to Save a Qubit at APS 2027
 author_profile: false
 ---
 
