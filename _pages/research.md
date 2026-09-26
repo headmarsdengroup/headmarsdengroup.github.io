@@ -64,10 +64,8 @@ Contemporary problems in materials science and chemistry require theoretical and
 ## Collaborations
 
 **Selected Relevant Papers**
-<br /> [DOI](https://pubs.acs.org/doi/full/10.1021/jacsau.5c00991){: .btn .btn--primary}
-Selective Bicarbonate Receptors for Direct Ocean Capture of CO2
- <br /> [DOI](https://pubs.acs.org/doi/abs/10.1021/acs.joc.5c00225){: .btn .btn--primary}
-N-Heterocyclic Carbene-Carbodiimide (NHC-CDI) Adducts: A Systematic Investigation of Electronic Modifications on Kinetic and Thermodynamic Properties of Adduct Association and Dissociation
+<br /> [DOI](https://doi.org/10.1021/acs.jpcc.6c05014){: .btn .btn--primary}
+Methyl Viologen Groups Bound to Pseudo-Two-Dimensional Cadmium Selenide Nanocrystals as X-Type Ligands Are More Effective Quenchers Than When Bound as L-Type Ligands
  <br /> [DOI](https://doi.org/10.1063/5.0188066){: .btn .btn--primary}
 The overlooked role of excited anion states in NiO<sub>2</sub><sup>-</sup> photodetachment
  <br /> [DOI](https://pubs.aip.org/aip/jcp/article/159/13/134305/2914200){: .btn .btn--primary}
