@@ -8,10 +8,11 @@ layout: splash
 <br>
 
 # Head-Marsden Group Papers
-
+[DOI](https://arxiv.org/abs/2608.13744){: .btn .btn--primary}
+T.J. Krogmeier,  P. Venkatesh, M.Z. Fahrenbruch, A.W. Schlimgen, A. Montoya-Castillo, and K. Head-Marsden, UDesigning robust molecular spins for quantum technologies with theoretical chemistry   *arXiv*, **2608.13744** (2026).
 
 [DOI](https://arxiv.org/abs/2605.03177){: .btn .btn--primary}
-T.J. Krogmeier, J. Bradley, A.W. Schlimgen, and K. Head-Marsden, Understanding the effects of competing spin-pair dephasing pathways in molecular spins   *arXiv*, **2605.03177** (2026).
+T.J. Krogmeier, J. Bradley, A.W. Schlimgen, and K. Head-Marsden, Understanding the effects of competing spin-pair dephasing pathways in molecular spins   *Mater. Quantum Technol.*, **in press** (2026).
 
 [DOI](https://doi.org/10.1021/acs.jpcc.6c05014){: .btn .btn--primary}
 H. M. Meyer, J. Chen, T.J. Krogmeier, A.W. Schlimgen, K. Head-Marsden, W.E. Buhro, and R. A. Loomis  Methyl Viologen Groups Bound to Pseudo-Two-Dimensional Cadmium Selenide Nanocrystals as X-Type Ligands Are More Effective Quenchers Than When Bound as L-Type Ligands *J. Phys. Chem. C*,  (2026).
