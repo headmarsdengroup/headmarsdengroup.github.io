@@ -8,6 +8,6 @@ Led by graduate students Tim Krogmeier and James Bradley, we have a
 out in Materials for Quantum Technology! We applied a perturbative, non-Markovian differential equation 
 to understand the dephasing meschanisms in two recently synthesized molecular qubit candidates.
 
-<img src="/assets/images/MQT-fig-1-jpg" alt="MQT schematic">
+<img src="/assets/images/MQT-fig-1.jpg" alt="MQT schematic">
 
 {: .text-justify}
