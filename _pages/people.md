@@ -152,6 +152,25 @@ Email: <a href = "mailto: puroh031@umn.edu">puroh031@umn.edu</a> <br />
             </p>
         </td>
     </tr>
+<tr>
+        <td>
+            <figure style="width: 250px" class="align-left">
+                <a href="/assets/images/anna-spak.jpg">
+                <img src="/assets/images/anna-spak.jpg" alt="Anna Spak"></a>
+            </figure>
+        </td>
+        <td>
+            <p>
+<b>Anna Spak </b><br />
+<i>Graduate Student</i><br />
+B.Sc. cum laude, University of Rochester (2026) <br />
+Major: Mathematics <br />
+Minor: Chemistry <br />
+Awards: ACS Undergraduate Award in Physical Chemistry (2026) <br /> 
+Email: <a href = "mailto: aspak@umn.edu">aspak@umn.edu</a> <br /> 
+            </p>
+        </td>
+    </tr>
 </table>
 
 More information about our graduate program and application process can be found <a href="https://cse.umn.edu/chem/application">here</a>. 
